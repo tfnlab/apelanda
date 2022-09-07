@@ -24,7 +24,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3&head=4&eyes=1&body=6&grd=2&isl=2",
@@ -33,7 +33,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4&head=1&eyes=2&body=8&grd=4&isl=2",
@@ -42,7 +42,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "5": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=5&head=4&eyes=2&body=3&grd=1&isl=1",
@@ -87,7 +87,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "10": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=10&head=3&eyes=2&body=2&grd=2&isl=2",
@@ -96,7 +96,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "11": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=11&head=4&eyes=2&body=4&grd=4&isl=2",
@@ -105,7 +105,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "12": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=12&head=1&eyes=2&body=6&grd=2&isl=1",
@@ -168,7 +168,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "19": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=19&head=2&eyes=1&body=1&grd=5&isl=1",
@@ -186,7 +186,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "21": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=21&head=2&eyes=1&body=1&grd=3&isl=2",
@@ -195,7 +195,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "22": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=22&head=5&eyes=1&body=9&grd=2&isl=1",
@@ -213,7 +213,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "24": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=24&head=4&eyes=2&body=1&grd=3&isl=1",
@@ -231,7 +231,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "26": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=26&head=2&eyes=1&body=8&grd=3&isl=2",
@@ -240,7 +240,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "27": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=27&head=1&eyes=2&body=4&grd=2&isl=2",
@@ -249,7 +249,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "28": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=28&head=1&eyes=1&body=9&grd=3&isl=3",
@@ -258,7 +258,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "29": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=29&head=2&eyes=1&body=4&grd=5&isl=3",
@@ -267,7 +267,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "30": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=30&head=4&eyes=2&body=3&grd=5&isl=2",
@@ -276,7 +276,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "31": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=31&head=2&eyes=2&body=8&grd=3&isl=3",
@@ -285,7 +285,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "32": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=32&head=1&eyes=1&body=1&grd=1&isl=2",
@@ -294,7 +294,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "33": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=33&head=4&eyes=2&body=3&grd=3&isl=3",
@@ -303,7 +303,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "34": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=34&head=3&eyes=1&body=1&grd=1&isl=1",
@@ -321,7 +321,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "36": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=36&head=3&eyes=1&body=4&grd=4&isl=2",
@@ -330,7 +330,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "37": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=37&head=1&eyes=1&body=1&grd=1&isl=3",
@@ -339,7 +339,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "38": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=38&head=1&eyes=2&body=1&grd=3&isl=1",
@@ -366,7 +366,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "41": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=41&head=6&eyes=2&body=1&grd=3&isl=1",
@@ -384,7 +384,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "43": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=43&head=2&eyes=2&body=7&grd=4&isl=1",
@@ -402,7 +402,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "45": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=45&head=2&eyes=1&body=2&grd=4&isl=1",
@@ -474,7 +474,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "53": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=53&head=4&eyes=4&body=12&grd=3&isl=1",
@@ -510,7 +510,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "57": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=57&head=1&eyes=2&body=9&grd=3&isl=1",
@@ -528,7 +528,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "59": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=59&head=8&eyes=2&body=3&grd=4&isl=1",
@@ -546,7 +546,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "61": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=61&head=6&eyes=1&body=10&grd=1&isl=1",
@@ -564,7 +564,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "63": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=63&head=4&eyes=1&body=6&grd=3&isl=3",
@@ -573,7 +573,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "64": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=64&head=6&eyes=3&body=3&grd=1&isl=1",
@@ -591,7 +591,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "66": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=66&head=1&eyes=1&body=2&grd=5&isl=3",
@@ -600,7 +600,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "67": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=67&head=6&eyes=2&body=4&grd=1&isl=1",
@@ -663,7 +663,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "74": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=74&head=7&eyes=1&body=2&grd=5&isl=1",
@@ -681,7 +681,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "76": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=76&head=2&eyes=2&body=10&grd=2&isl=1",
@@ -735,7 +735,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "82": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=82&head=2&eyes=1&body=6&grd=4&isl=1",
@@ -753,7 +753,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "84": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=84&head=3&eyes=2&body=4&grd=1&isl=2",
@@ -762,7 +762,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "85": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=85&head=1&eyes=4&body=9&grd=4&isl=2",
@@ -771,7 +771,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "86": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=86&head=3&eyes=3&body=1&grd=1&isl=1",
@@ -789,7 +789,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "88": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=88&head=5&eyes=2&body=10&grd=4&isl=2",
@@ -798,7 +798,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "89": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=89&head=5&eyes=1&body=5&grd=1&isl=2",
@@ -807,7 +807,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "90": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=90&head=1&eyes=3&body=9&grd=3&isl=1",
@@ -825,7 +825,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "92": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=92&head=6&eyes=3&body=1&grd=1&isl=1",
@@ -870,7 +870,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "97": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=97&head=3&eyes=1&body=9&grd=1&isl=2",
@@ -879,7 +879,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "98": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=98&head=4&eyes=3&body=11&grd=4&isl=1",
@@ -906,7 +906,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "101": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=101&head=3&eyes=3&body=4&grd=1&isl=2",
@@ -915,7 +915,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "102": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=102&head=4&eyes=1&body=4&grd=2&isl=3",
@@ -924,7 +924,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "103": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=103&head=1&eyes=2&body=4&grd=2&isl=1",
@@ -942,7 +942,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "105": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=105&head=1&eyes=2&body=1&grd=1&isl=1",
@@ -969,7 +969,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "108": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=108&head=4&eyes=3&body=1&grd=1&isl=3",
@@ -978,7 +978,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "109": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=109&head=2&eyes=2&body=3&grd=2&isl=3",
@@ -987,7 +987,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "110": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=110&head=1&eyes=4&body=6&grd=2&isl=2",
@@ -996,7 +996,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "111": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=111&head=7&eyes=4&body=6&grd=1&isl=1",
@@ -1023,7 +1023,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "114": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=114&head=2&eyes=1&body=4&grd=3&isl=3",
@@ -1032,7 +1032,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "115": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=115&head=5&eyes=1&body=4&grd=1&isl=1",
@@ -1068,7 +1068,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "119": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=119&head=2&eyes=1&body=6&grd=3&isl=2",
@@ -1077,7 +1077,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "120": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=120&head=7&eyes=2&body=1&grd=1&isl=1",
@@ -1104,7 +1104,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "123": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=123&head=7&eyes=2&body=1&grd=5&isl=2",
@@ -1113,7 +1113,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "124": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=124&head=4&eyes=3&body=2&grd=1&isl=1",
@@ -1131,7 +1131,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "126": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=126&head=2&eyes=1&body=1&grd=2&isl=3",
@@ -1140,7 +1140,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "127": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=127&head=8&eyes=4&body=7&grd=5&isl=1",
@@ -1167,7 +1167,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "130": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=130&head=4&eyes=1&body=2&grd=3&isl=1",
@@ -1185,7 +1185,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "132": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=132&head=1&eyes=1&body=12&grd=5&isl=2",
@@ -1194,7 +1194,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "133": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=133&head=6&eyes=2&body=2&grd=5&isl=2",
@@ -1203,7 +1203,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "134": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=134&head=2&eyes=2&body=2&grd=1&isl=1",
@@ -1230,7 +1230,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "137": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=137&head=2&eyes=1&body=2&grd=5&isl=1",
@@ -1248,7 +1248,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "139": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=139&head=5&eyes=1&body=5&grd=1&isl=1",
@@ -1275,7 +1275,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "142": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=142&head=2&eyes=3&body=6&grd=3&isl=1",
@@ -1293,7 +1293,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "144": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=144&head=7&eyes=3&body=5&grd=1&isl=2",
@@ -1302,7 +1302,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "145": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=145&head=6&eyes=2&body=2&grd=1&isl=1",
@@ -1347,7 +1347,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "150": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=150&head=1&eyes=1&body=1&grd=2&isl=2",
@@ -1356,7 +1356,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "151": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=151&head=4&eyes=1&body=3&grd=2&isl=1",
@@ -1383,7 +1383,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "154": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=154&head=3&eyes=1&body=9&grd=2&isl=1",
@@ -1410,7 +1410,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "157": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=157&head=1&eyes=4&body=3&grd=2&isl=2",
@@ -1419,7 +1419,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "158": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=158&head=1&eyes=3&body=5&grd=2&isl=2",
@@ -1428,7 +1428,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "159": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=159&head=1&eyes=2&body=7&grd=3&isl=2",
@@ -1437,7 +1437,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "160": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=160&head=2&eyes=2&body=8&grd=2&isl=3",
@@ -1446,7 +1446,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "161": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=161&head=3&eyes=2&body=5&grd=4&isl=1",
@@ -1491,7 +1491,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "166": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=166&head=2&eyes=2&body=1&grd=4&isl=1",
@@ -1527,7 +1527,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "170": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=170&head=3&eyes=1&body=4&grd=1&isl=3",
@@ -1536,7 +1536,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "171": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=171&head=2&eyes=2&body=5&grd=4&isl=1",
@@ -1554,7 +1554,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "173": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=173&head=5&eyes=4&body=1&grd=5&isl=2",
@@ -1563,7 +1563,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "174": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=174&head=5&eyes=4&body=13&grd=1&isl=1",
@@ -1581,7 +1581,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "176": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=176&head=6&eyes=1&body=5&grd=3&isl=2",
@@ -1590,7 +1590,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "177": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=177&head=3&eyes=3&body=12&grd=3&isl=2",
@@ -1599,7 +1599,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "178": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=178&head=3&eyes=1&body=7&grd=3&isl=1",
@@ -1617,7 +1617,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "180": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=180&head=2&eyes=1&body=3&grd=5&isl=2",
@@ -1626,7 +1626,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "181": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=181&head=1&eyes=2&body=10&grd=4&isl=1",
@@ -1653,7 +1653,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "184": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=184&head=1&eyes=1&body=6&grd=3&isl=1",
@@ -1680,7 +1680,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "187": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=187&head=1&eyes=1&body=5&grd=5&isl=2",
@@ -1689,7 +1689,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "188": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=188&head=4&eyes=2&body=7&grd=1&isl=2",
@@ -1698,7 +1698,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "189": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=189&head=4&eyes=1&body=4&grd=2&isl=1",
@@ -1716,7 +1716,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "191": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=191&head=4&eyes=2&body=7&grd=3&isl=1",
@@ -1734,7 +1734,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "193": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=193&head=3&eyes=4&body=2&grd=2&isl=1",
@@ -1752,7 +1752,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "195": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=195&head=5&eyes=2&body=8&grd=4&isl=1",
@@ -1779,7 +1779,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "198": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=198&head=5&eyes=4&body=5&grd=4&isl=2",
@@ -1788,7 +1788,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "199": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=199&head=4&eyes=2&body=7&grd=4&isl=1",
@@ -1806,7 +1806,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "201": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=201&head=3&eyes=3&body=5&grd=3&isl=3",
@@ -1815,7 +1815,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "202": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=202&head=1&eyes=2&body=5&grd=1&isl=3",
@@ -1824,7 +1824,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "203": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=203&head=1&eyes=3&body=2&grd=1&isl=1",
@@ -1842,7 +1842,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "205": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=205&head=7&eyes=4&body=2&grd=2&isl=2",
@@ -1851,7 +1851,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "206": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=206&head=3&eyes=2&body=1&grd=3&isl=2",
@@ -1860,7 +1860,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "207": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=207&head=4&eyes=3&body=6&grd=4&isl=3",
@@ -1869,7 +1869,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "208": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=208&head=4&eyes=3&body=2&grd=3&isl=1",
@@ -1887,7 +1887,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "210": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=210&head=5&eyes=2&body=9&grd=2&isl=1",
@@ -1923,7 +1923,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "214": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=214&head=1&eyes=1&body=4&grd=1&isl=1",
@@ -1941,7 +1941,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "216": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=216&head=5&eyes=2&body=11&grd=4&isl=2",
@@ -1950,7 +1950,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "217": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=217&head=2&eyes=1&body=2&grd=3&isl=1",
@@ -1968,7 +1968,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "219": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=219&head=2&eyes=2&body=6&grd=2&isl=2",
@@ -1977,7 +1977,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "220": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=220&head=4&eyes=2&body=1&grd=2&isl=2",
@@ -1986,7 +1986,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "221": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=221&head=1&eyes=2&body=5&grd=3&isl=1",
@@ -2004,7 +2004,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "223": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=223&head=2&eyes=2&body=7&grd=2&isl=1",
@@ -2031,7 +2031,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "226": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=226&head=1&eyes=2&body=6&grd=1&isl=2",
@@ -2040,7 +2040,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "227": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=227&head=2&eyes=3&body=4&grd=1&isl=1",
@@ -2058,7 +2058,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "229": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=229&head=4&eyes=1&body=3&grd=2&isl=3",
@@ -2067,7 +2067,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "230": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=230&head=3&eyes=4&body=2&grd=3&isl=2",
@@ -2076,7 +2076,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "231": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=231&head=1&eyes=3&body=5&grd=3&isl=1",
@@ -2103,7 +2103,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "234": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=234&head=5&eyes=1&body=4&grd=3&isl=2",
@@ -2112,7 +2112,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "235": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=235&head=3&eyes=3&body=10&grd=3&isl=1",
@@ -2139,7 +2139,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "238": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=238&head=3&eyes=1&body=11&grd=2&isl=1",
@@ -2166,7 +2166,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "241": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=241&head=1&eyes=2&body=8&grd=1&isl=1",
@@ -2184,7 +2184,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "243": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=243&head=5&eyes=2&body=6&grd=2&isl=1",
@@ -2202,7 +2202,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "245": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=245&head=3&eyes=3&body=4&grd=1&isl=1",
@@ -2220,7 +2220,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "247": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=247&head=6&eyes=2&body=9&grd=3&isl=1",
@@ -2238,7 +2238,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "249": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=249&head=3&eyes=2&body=8&grd=3&isl=1",
@@ -2301,7 +2301,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "256": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=256&head=6&eyes=1&body=8&grd=4&isl=1",
@@ -2319,7 +2319,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "258": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=258&head=4&eyes=2&body=8&grd=3&isl=2",
@@ -2328,7 +2328,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "259": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=259&head=2&eyes=1&body=3&grd=2&isl=1",
@@ -2355,7 +2355,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "262": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=262&head=1&eyes=1&body=2&grd=1&isl=2",
@@ -2364,7 +2364,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "263": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=263&head=4&eyes=1&body=4&grd=4&isl=3",
@@ -2373,7 +2373,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "264": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=264&head=1&eyes=1&body=7&grd=1&isl=1",
@@ -2400,7 +2400,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "267": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=267&head=1&eyes=3&body=3&grd=1&isl=3",
@@ -2409,7 +2409,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "268": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=268&head=6&eyes=2&body=10&grd=3&isl=1",
@@ -2427,7 +2427,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "270": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=270&head=4&eyes=4&body=3&grd=4&isl=1",
@@ -2445,7 +2445,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "272": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=272&head=7&eyes=1&body=7&grd=5&isl=2",
@@ -2454,7 +2454,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "273": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=273&head=4&eyes=1&body=6&grd=2&isl=3",
@@ -2463,7 +2463,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "274": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=274&head=3&eyes=2&body=11&grd=4&isl=1",
@@ -2499,7 +2499,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "278": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=278&head=2&eyes=3&body=5&grd=1&isl=2",
@@ -2508,7 +2508,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "279": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=279&head=6&eyes=3&body=3&grd=3&isl=1",
@@ -2526,7 +2526,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "281": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=281&head=1&eyes=3&body=9&grd=4&isl=1",
@@ -2562,7 +2562,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "285": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=285&head=3&eyes=3&body=11&grd=3&isl=1",
@@ -2580,7 +2580,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "287": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=287&head=3&eyes=2&body=10&grd=3&isl=1",
@@ -2598,7 +2598,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "289": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=289&head=1&eyes=1&body=6&grd=2&isl=2",
@@ -2607,7 +2607,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "290": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=290&head=2&eyes=2&body=12&grd=1&isl=1",
@@ -2625,7 +2625,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "292": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=292&head=5&eyes=2&body=8&grd=1&isl=2",
@@ -2634,7 +2634,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "293": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=293&head=5&eyes=1&body=7&grd=4&isl=1",
@@ -2652,7 +2652,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "295": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=295&head=4&eyes=3&body=8&grd=2&isl=1",
@@ -2706,7 +2706,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "301": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=301&head=3&eyes=1&body=6&grd=1&isl=2",
@@ -2715,7 +2715,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "302": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=302&head=4&eyes=2&body=10&grd=1&isl=3",
@@ -2724,7 +2724,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "303": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=303&head=2&eyes=1&body=5&grd=1&isl=1",
@@ -2742,7 +2742,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "305": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=305&head=7&eyes=2&body=2&grd=2&isl=3",
@@ -2751,7 +2751,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "306": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=306&head=1&eyes=1&body=3&grd=4&isl=1",
@@ -2778,7 +2778,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "309": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=309&head=4&eyes=2&body=3&grd=1&isl=2",
@@ -2787,7 +2787,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "310": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=310&head=1&eyes=2&body=3&grd=1&isl=1",
@@ -2832,7 +2832,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "315": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=315&head=3&eyes=2&body=4&grd=2&isl=1",
@@ -2850,7 +2850,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "317": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=317&head=3&eyes=3&body=5&grd=2&isl=2",
@@ -2859,7 +2859,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "318": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=318&head=2&eyes=3&body=10&grd=1&isl=1",
@@ -2904,7 +2904,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "323": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=323&head=5&eyes=2&body=8&grd=5&isl=1",
@@ -2940,7 +2940,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "327": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=327&head=2&eyes=1&body=2&grd=1&isl=2",
@@ -2949,7 +2949,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "328": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=328&head=6&eyes=2&body=4&grd=1&isl=2",
@@ -2958,7 +2958,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "329": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=329&head=3&eyes=2&body=7&grd=5&isl=1",
@@ -2976,7 +2976,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "331": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=331&head=4&eyes=3&body=9&grd=4&isl=2",
@@ -2985,7 +2985,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "332": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=332&head=2&eyes=1&body=10&grd=2&isl=2",
@@ -2994,7 +2994,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "333": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=333&head=4&eyes=1&body=4&grd=1&isl=2",
@@ -3003,7 +3003,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "334": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=334&head=3&eyes=1&body=6&grd=2&isl=3",
@@ -3012,7 +3012,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "335": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=335&head=6&eyes=1&body=9&grd=2&isl=1",
@@ -3030,7 +3030,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "337": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=337&head=8&eyes=2&body=11&grd=1&isl=3",
@@ -3039,7 +3039,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "338": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=338&head=6&eyes=1&body=7&grd=1&isl=1",
@@ -3075,7 +3075,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "342": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=342&head=5&eyes=1&body=1&grd=3&isl=3",
@@ -3084,7 +3084,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "343": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=343&head=2&eyes=1&body=2&grd=1&isl=1",
@@ -3111,7 +3111,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "346": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=346&head=1&eyes=2&body=3&grd=2&isl=1",
@@ -3129,7 +3129,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "348": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=348&head=3&eyes=3&body=10&grd=1&isl=1",
@@ -3147,7 +3147,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "350": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=350&head=1&eyes=3&body=6&grd=1&isl=1",
@@ -3165,7 +3165,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "352": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=352&head=1&eyes=2&body=5&grd=1&isl=1",
@@ -3183,7 +3183,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "354": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=354&head=4&eyes=2&body=7&grd=1&isl=3",
@@ -3192,7 +3192,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "355": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=355&head=3&eyes=1&body=8&grd=1&isl=1",
@@ -3210,7 +3210,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "357": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=357&head=3&eyes=4&body=10&grd=1&isl=1",
@@ -3237,7 +3237,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "360": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=360&head=1&eyes=1&body=7&grd=1&isl=2",
@@ -3246,7 +3246,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "361": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=361&head=3&eyes=1&body=2&grd=1&isl=2",
@@ -3255,7 +3255,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "362": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=362&head=1&eyes=2&body=13&grd=3&isl=2",
@@ -3264,7 +3264,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "363": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=363&head=2&eyes=3&body=9&grd=2&isl=1",
@@ -3309,7 +3309,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "368": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=368&head=1&eyes=1&body=5&grd=3&isl=2",
@@ -3318,7 +3318,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "369": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=369&head=3&eyes=1&body=1&grd=2&isl=1",
@@ -3354,7 +3354,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "373": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=373&head=3&eyes=3&body=8&grd=2&isl=2",
@@ -3363,7 +3363,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "374": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=374&head=1&eyes=2&body=1&grd=2&isl=3",
@@ -3372,7 +3372,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "375": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=375&head=4&eyes=1&body=8&grd=1&isl=2",
@@ -3381,7 +3381,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "376": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=376&head=5&eyes=3&body=12&grd=1&isl=2",
@@ -3390,7 +3390,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "377": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=377&head=4&eyes=4&body=7&grd=2&isl=3",
@@ -3399,7 +3399,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "378": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=378&head=2&eyes=4&body=9&grd=1&isl=3",
@@ -3408,7 +3408,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "379": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=379&head=4&eyes=2&body=2&grd=1&isl=2",
@@ -3417,7 +3417,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "380": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=380&head=1&eyes=3&body=4&grd=5&isl=2",
@@ -3426,7 +3426,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "381": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=381&head=5&eyes=1&body=6&grd=3&isl=1",
@@ -3444,7 +3444,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "383": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=383&head=1&eyes=2&body=1&grd=4&isl=1",
@@ -3462,7 +3462,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "385": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=385&head=5&eyes=3&body=9&grd=2&isl=2",
@@ -3471,7 +3471,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "386": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=386&head=2&eyes=1&body=6&grd=1&isl=1",
@@ -3516,7 +3516,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "391": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=391&head=1&eyes=3&body=2&grd=2&isl=1",
@@ -3543,7 +3543,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "394": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=394&head=4&eyes=2&body=6&grd=2&isl=1",
@@ -3561,7 +3561,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "396": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=396&head=6&eyes=1&body=9&grd=3&isl=2",
@@ -3570,7 +3570,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "397": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=397&head=3&eyes=4&body=9&grd=1&isl=1",
@@ -3597,7 +3597,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "400": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=400&head=1&eyes=2&body=6&grd=1&isl=3",
@@ -3606,7 +3606,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "401": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=401&head=6&eyes=1&body=5&grd=1&isl=2",
@@ -3615,7 +3615,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "402": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=402&head=1&eyes=3&body=2&grd=3&isl=1",
@@ -3642,7 +3642,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "405": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=405&head=2&eyes=4&body=1&grd=1&isl=1",
@@ -3687,7 +3687,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "410": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=410&head=5&eyes=4&body=9&grd=2&isl=3",
@@ -3696,7 +3696,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "411": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=411&head=2&eyes=2&body=4&grd=1&isl=1",
@@ -3723,7 +3723,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "414": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=414&head=2&eyes=3&body=3&grd=4&isl=2",
@@ -3732,7 +3732,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "415": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=415&head=1&eyes=3&body=4&grd=4&isl=3",
@@ -3741,7 +3741,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "416": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=416&head=1&eyes=1&body=10&grd=1&isl=1",
@@ -3786,7 +3786,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "421": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=421&head=1&eyes=1&body=4&grd=1&isl=2",
@@ -3795,7 +3795,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "422": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=422&head=3&eyes=1&body=4&grd=1&isl=2",
@@ -3804,7 +3804,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "423": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=423&head=8&eyes=1&body=6&grd=2&isl=2",
@@ -3813,7 +3813,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "424": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=424&head=1&eyes=2&body=2&grd=3&isl=1",
@@ -3840,7 +3840,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "427": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=427&head=7&eyes=3&body=7&grd=1&isl=2",
@@ -3849,7 +3849,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "428": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=428&head=6&eyes=2&body=6&grd=1&isl=1",
@@ -3885,7 +3885,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "432": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=432&head=3&eyes=1&body=6&grd=4&isl=1",
@@ -3921,7 +3921,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "436": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=436&head=8&eyes=2&body=1&grd=2&isl=1",
@@ -3939,7 +3939,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "438": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=438&head=1&eyes=2&body=1&grd=5&isl=2",
@@ -3948,7 +3948,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "439": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=439&head=4&eyes=3&body=7&grd=1&isl=2",
@@ -3957,7 +3957,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "440": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=440&head=1&eyes=1&body=2&grd=3&isl=2",
@@ -3966,7 +3966,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "441": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=441&head=7&eyes=3&body=3&grd=1&isl=2",
@@ -3975,7 +3975,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "442": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=442&head=1&eyes=3&body=1&grd=2&isl=2",
@@ -3984,7 +3984,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "443": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=443&head=2&eyes=2&body=3&grd=2&isl=2",
@@ -3993,7 +3993,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "444": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=444&head=4&eyes=3&body=5&grd=3&isl=1",
@@ -4011,7 +4011,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "446": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=446&head=3&eyes=2&body=4&grd=1&isl=1",
@@ -4029,7 +4029,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "448": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=448&head=5&eyes=2&body=12&grd=5&isl=1",
@@ -4047,7 +4047,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "450": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=450&head=3&eyes=3&body=3&grd=1&isl=2",
@@ -4056,7 +4056,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "451": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=451&head=2&eyes=2&body=7&grd=3&isl=2",
@@ -4065,7 +4065,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "452": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=452&head=1&eyes=2&body=6&grd=1&isl=1",
@@ -4101,7 +4101,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "456": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=456&head=4&eyes=2&body=8&grd=1&isl=2",
@@ -4110,7 +4110,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "457": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=457&head=1&eyes=3&body=5&grd=4&isl=1",
@@ -4155,7 +4155,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "462": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=462&head=7&eyes=2&body=2&grd=1&isl=1",
@@ -4173,7 +4173,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "464": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=464&head=2&eyes=2&body=12&grd=3&isl=1",
@@ -4191,7 +4191,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "466": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=466&head=2&eyes=1&body=10&grd=1&isl=1",
@@ -4218,7 +4218,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "469": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=469&head=3&eyes=2&body=6&grd=2&isl=1",
@@ -4245,7 +4245,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "472": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=472&head=4&eyes=3&body=7&grd=3&isl=2",
@@ -4254,7 +4254,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "473": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=473&head=2&eyes=2&body=10&grd=2&isl=2",
@@ -4263,7 +4263,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "474": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=474&head=3&eyes=4&body=6&grd=4&isl=2",
@@ -4272,7 +4272,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "475": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=475&head=3&eyes=2&body=3&grd=2&isl=1",
@@ -4290,7 +4290,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "477": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=477&head=3&eyes=3&body=4&grd=3&isl=2",
@@ -4299,7 +4299,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "478": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=478&head=2&eyes=1&body=1&grd=2&isl=1",
@@ -4317,7 +4317,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "480": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=480&head=4&eyes=1&body=2&grd=4&isl=2",
@@ -4326,7 +4326,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "481": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=481&head=5&eyes=1&body=9&grd=5&isl=2",
@@ -4335,7 +4335,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "482": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=482&head=2&eyes=2&body=3&grd=3&isl=2",
@@ -4344,7 +4344,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "483": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=483&head=1&eyes=2&body=5&grd=2&isl=3",
@@ -4353,7 +4353,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "484": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=484&head=4&eyes=2&body=3&grd=2&isl=1",
@@ -4389,7 +4389,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "488": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=488&head=3&eyes=1&body=7&grd=1&isl=2",
@@ -4398,7 +4398,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "489": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=489&head=1&eyes=3&body=7&grd=4&isl=3",
@@ -4407,7 +4407,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "490": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=490&head=1&eyes=1&body=6&grd=3&isl=2",
@@ -4416,7 +4416,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "491": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=491&head=4&eyes=1&body=13&grd=4&isl=3",
@@ -4425,7 +4425,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "492": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=492&head=1&eyes=2&body=3&grd=1&isl=2",
@@ -4434,7 +4434,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "493": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=493&head=5&eyes=3&body=1&grd=1&isl=2",
@@ -4443,7 +4443,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "494": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=494&head=6&eyes=3&body=7&grd=3&isl=1",
@@ -4470,7 +4470,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "497": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=497&head=8&eyes=1&body=1&grd=2&isl=3",
@@ -4479,7 +4479,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "498": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=498&head=8&eyes=2&body=8&grd=1&isl=2",
@@ -4488,7 +4488,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "499": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=499&head=1&eyes=3&body=8&grd=3&isl=3",
@@ -4497,7 +4497,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "500": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=500&head=7&eyes=1&body=2&grd=1&isl=1",
@@ -4542,7 +4542,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "505": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=505&head=2&eyes=1&body=2&grd=4&isl=3",
@@ -4551,7 +4551,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "506": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=506&head=2&eyes=1&body=4&grd=4&isl=2",
@@ -4560,7 +4560,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "507": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=507&head=4&eyes=2&body=4&grd=3&isl=1",
@@ -4578,7 +4578,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "509": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=509&head=3&eyes=2&body=3&grd=1&isl=2",
@@ -4587,7 +4587,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "510": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=510&head=7&eyes=3&body=1&grd=2&isl=1",
@@ -4614,7 +4614,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "513": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=513&head=6&eyes=2&body=8&grd=1&isl=1",
@@ -4632,7 +4632,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "515": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=515&head=4&eyes=1&body=3&grd=3&isl=2",
@@ -4641,7 +4641,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "516": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=516&head=3&eyes=1&body=2&grd=1&isl=3",
@@ -4650,7 +4650,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "517": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=517&head=5&eyes=2&body=12&grd=4&isl=1",
@@ -4668,7 +4668,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "519": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=519&head=1&eyes=2&body=4&grd=1&isl=1",
@@ -4695,7 +4695,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "522": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=522&head=6&eyes=2&body=4&grd=2&isl=1",
@@ -4731,7 +4731,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "526": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=526&head=1&eyes=1&body=5&grd=3&isl=1",
@@ -4758,7 +4758,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "529": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=529&head=3&eyes=1&body=10&grd=3&isl=1",
@@ -4803,7 +4803,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "534": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=534&head=7&eyes=3&body=9&grd=5&isl=2",
@@ -4812,7 +4812,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "535": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=535&head=5&eyes=1&body=10&grd=3&isl=1",
@@ -4839,7 +4839,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "538": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=538&head=1&eyes=1&body=3&grd=4&isl=3",
@@ -4848,7 +4848,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "539": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=539&head=5&eyes=2&body=4&grd=4&isl=2",
@@ -4857,7 +4857,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "540": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=540&head=2&eyes=2&body=9&grd=2&isl=2",
@@ -4866,7 +4866,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "541": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=541&head=4&eyes=3&body=9&grd=3&isl=1",
@@ -4911,7 +4911,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "546": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=546&head=1&eyes=2&body=5&grd=3&isl=2",
@@ -4920,7 +4920,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "547": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=547&head=3&eyes=1&body=3&grd=5&isl=3",
@@ -4929,7 +4929,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "548": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=548&head=4&eyes=3&body=8&grd=3&isl=1",
@@ -4956,7 +4956,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "551": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=551&head=2&eyes=1&body=4&grd=1&isl=3",
@@ -4965,7 +4965,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "552": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=552&head=1&eyes=1&body=9&grd=1&isl=1",
@@ -4992,7 +4992,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "555": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=555&head=3&eyes=2&body=7&grd=1&isl=1",
@@ -5019,7 +5019,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "558": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=558&head=2&eyes=3&body=8&grd=1&isl=1",
@@ -5064,7 +5064,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "563": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=563&head=6&eyes=1&body=2&grd=1&isl=1",
@@ -5100,7 +5100,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "567": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=567&head=3&eyes=3&body=11&grd=3&isl=2",
@@ -5109,7 +5109,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "568": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=568&head=5&eyes=1&body=8&grd=2&isl=3",
@@ -5118,7 +5118,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "569": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=569&head=1&eyes=1&body=6&grd=4&isl=2",
@@ -5127,7 +5127,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "570": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=570&head=3&eyes=4&body=6&grd=5&isl=1",
@@ -5145,7 +5145,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "572": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=572&head=6&eyes=3&body=9&grd=5&isl=1",
@@ -5163,7 +5163,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "574": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=574&head=1&eyes=2&body=2&grd=1&isl=2",
@@ -5172,7 +5172,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "575": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=575&head=2&eyes=2&body=8&grd=3&isl=2",
@@ -5181,7 +5181,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "576": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=576&head=1&eyes=1&body=1&grd=1&isl=1",
@@ -5199,7 +5199,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "578": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=578&head=3&eyes=2&body=11&grd=2&isl=1",
@@ -5235,7 +5235,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "582": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=582&head=7&eyes=1&body=2&grd=4&isl=1",
@@ -5289,7 +5289,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "588": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=588&head=2&eyes=1&body=8&grd=1&isl=2",
@@ -5298,7 +5298,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "589": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=589&head=3&eyes=2&body=1&grd=2&isl=2",
@@ -5307,7 +5307,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "590": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=590&head=3&eyes=3&body=6&grd=3&isl=1",
@@ -5334,7 +5334,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "593": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=593&head=2&eyes=2&body=10&grd=1&isl=3",
@@ -5343,7 +5343,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "594": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=594&head=3&eyes=2&body=7&grd=3&isl=1",
@@ -5361,7 +5361,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "596": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=596&head=4&eyes=4&body=6&grd=2&isl=1",
@@ -5415,7 +5415,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "602": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=602&head=7&eyes=2&body=3&grd=4&isl=2",
@@ -5424,7 +5424,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "603": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=603&head=2&eyes=1&body=5&grd=2&isl=3",
@@ -5433,7 +5433,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "604": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=604&head=3&eyes=2&body=1&grd=1&isl=3",
@@ -5442,7 +5442,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "605": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=605&head=2&eyes=4&body=6&grd=3&isl=1",
@@ -5460,7 +5460,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "607": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=607&head=1&eyes=3&body=7&grd=2&isl=1",
@@ -5487,7 +5487,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "610": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=610&head=1&eyes=3&body=1&grd=3&isl=2",
@@ -5496,7 +5496,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "611": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=611&head=6&eyes=1&body=11&grd=1&isl=1",
@@ -5523,7 +5523,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "614": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=614&head=7&eyes=2&body=7&grd=4&isl=2",
@@ -5532,7 +5532,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "615": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=615&head=8&eyes=1&body=3&grd=5&isl=1",
@@ -5568,7 +5568,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "619": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=619&head=1&eyes=4&body=5&grd=3&isl=1",
@@ -5595,7 +5595,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "622": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=622&head=2&eyes=2&body=1&grd=3&isl=1",
@@ -5631,7 +5631,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "626": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=626&head=4&eyes=1&body=2&grd=1&isl=3",
@@ -5640,7 +5640,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "627": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=627&head=1&eyes=1&body=3&grd=5&isl=1",
@@ -5667,7 +5667,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "630": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=630&head=4&eyes=1&body=1&grd=2&isl=2",
@@ -5676,7 +5676,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "631": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=631&head=8&eyes=1&body=5&grd=3&isl=1",
@@ -5694,7 +5694,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "633": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=633&head=8&eyes=3&body=2&grd=3&isl=1",
@@ -5712,7 +5712,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "635": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=635&head=7&eyes=2&body=8&grd=4&isl=2",
@@ -5721,7 +5721,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "636": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=636&head=3&eyes=1&body=9&grd=5&isl=3",
@@ -5730,7 +5730,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "637": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=637&head=7&eyes=1&body=8&grd=5&isl=1",
@@ -5766,7 +5766,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "641": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=641&head=2&eyes=4&body=3&grd=1&isl=1",
@@ -5784,7 +5784,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "643": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=643&head=2&eyes=3&body=3&grd=2&isl=2",
@@ -5793,7 +5793,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "644": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=644&head=5&eyes=3&body=5&grd=2&isl=1",
@@ -5820,7 +5820,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "647": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=647&head=1&eyes=2&body=11&grd=4&isl=2",
@@ -5829,7 +5829,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "648": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=648&head=2&eyes=2&body=6&grd=5&isl=2",
@@ -5838,7 +5838,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "649": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=649&head=2&eyes=3&body=1&grd=1&isl=1",
@@ -5856,7 +5856,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "651": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=651&head=2&eyes=1&body=8&grd=2&isl=1",
@@ -5874,7 +5874,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "653": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=653&head=2&eyes=2&body=3&grd=4&isl=1",
@@ -5910,7 +5910,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "657": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=657&head=4&eyes=1&body=7&grd=2&isl=3",
@@ -5919,7 +5919,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "658": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=658&head=7&eyes=1&body=3&grd=5&isl=2",
@@ -5928,7 +5928,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "659": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=659&head=5&eyes=1&body=2&grd=1&isl=3",
@@ -5937,7 +5937,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "660": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=660&head=3&eyes=1&body=3&grd=2&isl=1",
@@ -5991,7 +5991,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "666": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=666&head=4&eyes=1&body=3&grd=4&isl=1",
@@ -6009,7 +6009,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "668": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=668&head=8&eyes=1&body=3&grd=1&isl=1",
@@ -6027,7 +6027,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "670": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=670&head=1&eyes=1&body=12&grd=1&isl=2",
@@ -6036,7 +6036,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "671": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=671&head=2&eyes=2&body=1&grd=1&isl=1",
@@ -6054,7 +6054,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "673": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=673&head=1&eyes=2&body=4&grd=1&isl=3",
@@ -6063,7 +6063,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "674": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=674&head=3&eyes=1&body=6&grd=5&isl=1",
@@ -6090,7 +6090,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "677": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=677&head=7&eyes=1&body=4&grd=2&isl=1",
@@ -6108,7 +6108,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "679": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=679&head=1&eyes=2&body=1&grd=5&isl=1",
@@ -6171,7 +6171,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "686": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=686&head=5&eyes=4&body=1&grd=2&isl=1",
@@ -6189,7 +6189,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "688": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=688&head=6&eyes=2&body=2&grd=2&isl=1",
@@ -6216,7 +6216,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "691": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=691&head=2&eyes=1&body=9&grd=3&isl=1",
@@ -6261,7 +6261,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "696": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=696&head=1&eyes=2&body=4&grd=3&isl=3",
@@ -6270,7 +6270,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "697": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=697&head=3&eyes=4&body=8&grd=5&isl=3",
@@ -6279,7 +6279,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "698": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=698&head=3&eyes=2&body=4&grd=4&isl=1",
@@ -6297,7 +6297,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "700": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=700&head=4&eyes=2&body=5&grd=4&isl=1",
@@ -6333,7 +6333,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "704": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=704&head=5&eyes=3&body=5&grd=1&isl=1",
@@ -6369,7 +6369,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "708": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=708&head=1&eyes=3&body=10&grd=3&isl=1",
@@ -6387,7 +6387,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "710": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=710&head=5&eyes=2&body=1&grd=3&isl=3",
@@ -6396,7 +6396,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "711": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=711&head=2&eyes=2&body=5&grd=3&isl=2",
@@ -6405,7 +6405,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "712": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=712&head=1&eyes=1&body=1&grd=4&isl=1",
@@ -6477,7 +6477,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "720": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=720&head=3&eyes=1&body=7&grd=4&isl=1",
@@ -6495,7 +6495,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "722": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=722&head=5&eyes=3&body=9&grd=3&isl=1",
@@ -6567,7 +6567,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "730": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=730&head=1&eyes=2&body=2&grd=2&isl=1",
@@ -6585,7 +6585,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "732": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=732&head=2&eyes=1&body=4&grd=1&isl=2",
@@ -6594,7 +6594,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "733": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=733&head=2&eyes=1&body=9&grd=1&isl=2",
@@ -6603,7 +6603,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "734": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=734&head=5&eyes=3&body=1&grd=3&isl=3",
@@ -6612,7 +6612,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "735": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=735&head=6&eyes=2&body=3&grd=2&isl=2",
@@ -6621,7 +6621,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "736": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=736&head=2&eyes=3&body=2&grd=1&isl=1",
@@ -6639,7 +6639,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "738": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=738&head=3&eyes=1&body=3&grd=4&isl=1",
@@ -6684,7 +6684,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "743": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=743&head=1&eyes=1&body=9&grd=3&isl=2",
@@ -6693,7 +6693,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "744": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=744&head=4&eyes=3&body=6&grd=1&isl=2",
@@ -6702,7 +6702,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "745": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=745&head=2&eyes=3&body=2&grd=1&isl=2",
@@ -6711,7 +6711,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "746": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=746&head=2&eyes=3&body=12&grd=1&isl=1",
@@ -6729,7 +6729,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "748": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=748&head=8&eyes=1&body=2&grd=1&isl=2",
@@ -6738,7 +6738,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "749": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=749&head=2&eyes=4&body=6&grd=2&isl=3",
@@ -6747,7 +6747,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "750": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=750&head=3&eyes=2&body=1&grd=5&isl=2",
@@ -6756,7 +6756,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "751": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=751&head=1&eyes=3&body=5&grd=5&isl=1",
@@ -6810,7 +6810,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "757": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=757&head=1&eyes=3&body=4&grd=5&isl=1",
@@ -6828,7 +6828,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "759": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=759&head=5&eyes=2&body=3&grd=3&isl=1",
@@ -6846,7 +6846,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "761": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=761&head=4&eyes=1&body=2&grd=2&isl=3",
@@ -6855,7 +6855,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "762": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=762&head=5&eyes=1&body=4&grd=3&isl=1",
@@ -6882,7 +6882,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "765": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=765&head=2&eyes=4&body=12&grd=4&isl=1",
@@ -6927,7 +6927,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "770": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=770&head=3&eyes=3&body=12&grd=1&isl=2",
@@ -6936,7 +6936,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "771": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=771&head=4&eyes=1&body=1&grd=1&isl=2",
@@ -6945,7 +6945,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "772": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=772&head=2&eyes=1&body=1&grd=5&isl=2",
@@ -6954,7 +6954,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "773": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=773&head=1&eyes=3&body=4&grd=1&isl=2",
@@ -6963,7 +6963,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "774": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=774&head=7&eyes=3&body=12&grd=1&isl=1",
@@ -6981,7 +6981,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "776": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=776&head=1&eyes=3&body=1&grd=1&isl=1",
@@ -6999,7 +6999,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "778": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=778&head=6&eyes=1&body=2&grd=3&isl=2",
@@ -7008,7 +7008,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "779": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=779&head=1&eyes=4&body=5&grd=1&isl=1",
@@ -7044,7 +7044,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "783": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=783&head=4&eyes=2&body=1&grd=2&isl=1",
@@ -7080,7 +7080,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "787": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=787&head=2&eyes=3&body=12&grd=2&isl=1",
@@ -7098,7 +7098,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "789": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=789&head=1&eyes=1&body=13&grd=3&isl=2",
@@ -7107,7 +7107,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "790": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=790&head=3&eyes=3&body=8&grd=3&isl=2",
@@ -7116,7 +7116,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "791": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=791&head=5&eyes=4&body=5&grd=3&isl=2",
@@ -7125,7 +7125,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "792": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=792&head=1&eyes=4&body=2&grd=1&isl=1",
@@ -7143,7 +7143,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "794": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=794&head=1&eyes=2&body=7&grd=3&isl=1",
@@ -7161,7 +7161,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "796": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=796&head=3&eyes=2&body=1&grd=2&isl=3",
@@ -7170,7 +7170,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "797": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=797&head=6&eyes=4&body=1&grd=1&isl=2",
@@ -7179,7 +7179,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "798": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=798&head=6&eyes=1&body=3&grd=1&isl=2",
@@ -7188,7 +7188,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "799": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=799&head=3&eyes=4&body=1&grd=4&isl=2",
@@ -7197,7 +7197,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "800": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=800&head=3&eyes=1&body=3&grd=2&isl=2",
@@ -7206,7 +7206,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "801": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=801&head=2&eyes=3&body=6&grd=1&isl=1",
@@ -7233,7 +7233,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "804": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=804&head=6&eyes=1&body=4&grd=2&isl=2",
@@ -7242,7 +7242,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "805": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=805&head=2&eyes=1&body=6&grd=1&isl=3",
@@ -7251,7 +7251,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "806": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=806&head=5&eyes=3&body=3&grd=1&isl=3",
@@ -7260,7 +7260,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "807": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=807&head=6&eyes=4&body=4&grd=1&isl=1",
@@ -7278,7 +7278,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "809": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=809&head=5&eyes=3&body=5&grd=4&isl=1",
@@ -7296,7 +7296,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "811": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=811&head=6&eyes=1&body=4&grd=1&isl=2",
@@ -7305,7 +7305,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "812": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=812&head=5&eyes=1&body=7&grd=3&isl=2",
@@ -7314,7 +7314,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "813": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=813&head=6&eyes=2&body=5&grd=5&isl=3",
@@ -7323,7 +7323,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "814": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=814&head=4&eyes=4&body=6&grd=1&isl=1",
@@ -7341,7 +7341,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "816": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=816&head=4&eyes=2&body=2&grd=1&isl=1",
@@ -7359,7 +7359,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "818": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=818&head=2&eyes=1&body=3&grd=3&isl=2",
@@ -7368,7 +7368,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "819": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=819&head=3&eyes=4&body=2&grd=3&isl=3",
@@ -7377,7 +7377,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "820": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=820&head=8&eyes=2&body=4&grd=1&isl=3",
@@ -7386,7 +7386,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "821": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=821&head=2&eyes=4&body=6&grd=4&isl=1",
@@ -7404,7 +7404,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "823": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=823&head=3&eyes=3&body=3&grd=1&isl=1",
@@ -7422,7 +7422,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "825": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=825&head=1&eyes=2&body=7&grd=2&isl=2",
@@ -7431,7 +7431,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "826": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=826&head=1&eyes=1&body=1&grd=2&isl=3",
@@ -7440,7 +7440,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "827": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=827&head=4&eyes=1&body=4&grd=2&isl=2",
@@ -7449,7 +7449,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "828": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=828&head=8&eyes=3&body=2&grd=2&isl=2",
@@ -7458,7 +7458,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "829": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=829&head=6&eyes=1&body=6&grd=1&isl=1",
@@ -7476,7 +7476,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "831": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=831&head=8&eyes=2&body=1&grd=1&isl=2",
@@ -7485,7 +7485,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "832": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=832&head=3&eyes=2&body=1&grd=1&isl=1",
@@ -7503,7 +7503,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "834": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=834&head=7&eyes=3&body=11&grd=1&isl=3",
@@ -7512,7 +7512,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "835": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=835&head=1&eyes=1&body=9&grd=5&isl=1",
@@ -7566,7 +7566,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "841": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=841&head=1&eyes=1&body=9&grd=2&isl=1",
@@ -7620,7 +7620,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "847": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=847&head=8&eyes=3&body=1&grd=5&isl=1",
@@ -7665,7 +7665,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "852": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=852&head=1&eyes=2&body=10&grd=1&isl=2",
@@ -7674,7 +7674,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "853": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=853&head=4&eyes=2&body=9&grd=3&isl=1",
@@ -7719,7 +7719,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "858": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=858&head=7&eyes=3&body=8&grd=5&isl=3",
@@ -7728,7 +7728,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "859": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=859&head=5&eyes=2&body=1&grd=2&isl=2",
@@ -7737,7 +7737,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "860": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=860&head=6&eyes=1&body=2&grd=5&isl=1",
@@ -7755,7 +7755,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "862": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=862&head=2&eyes=2&body=1&grd=3&isl=2",
@@ -7764,7 +7764,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "863": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=863&head=7&eyes=1&body=1&grd=1&isl=1",
@@ -7791,7 +7791,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "866": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=866&head=6&eyes=1&body=2&grd=1&isl=3",
@@ -7800,7 +7800,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "867": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=867&head=2&eyes=1&body=2&grd=2&isl=3",
@@ -7809,7 +7809,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "868": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=868&head=1&eyes=1&body=7&grd=3&isl=2",
@@ -7818,7 +7818,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "869": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=869&head=5&eyes=2&body=8&grd=3&isl=1",
@@ -7854,7 +7854,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "873": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=873&head=3&eyes=3&body=2&grd=2&isl=3",
@@ -7863,7 +7863,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "874": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=874&head=8&eyes=1&body=12&grd=1&isl=1",
@@ -7881,7 +7881,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "876": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=876&head=3&eyes=2&body=7&grd=3&isl=2",
@@ -7890,7 +7890,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "877": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=877&head=1&eyes=4&body=2&grd=1&isl=3",
@@ -7899,7 +7899,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "878": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=878&head=1&eyes=1&body=5&grd=1&isl=1",
@@ -7917,7 +7917,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "880": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=880&head=8&eyes=1&body=4&grd=1&isl=3",
@@ -7926,7 +7926,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "881": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=881&head=2&eyes=1&body=3&grd=2&isl=2",
@@ -7935,7 +7935,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "882": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=882&head=5&eyes=2&body=9&grd=4&isl=3",
@@ -7944,7 +7944,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "883": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=883&head=7&eyes=3&body=9&grd=3&isl=3",
@@ -7953,7 +7953,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "884": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=884&head=8&eyes=2&body=2&grd=2&isl=3",
@@ -7962,7 +7962,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "885": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=885&head=1&eyes=2&body=11&grd=4&isl=1",
@@ -7989,7 +7989,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "888": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=888&head=3&eyes=1&body=6&grd=3&isl=2",
@@ -7998,7 +7998,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "889": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=889&head=2&eyes=2&body=12&grd=2&isl=2",
@@ -8007,7 +8007,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "890": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=890&head=3&eyes=1&body=1&grd=1&isl=2",
@@ -8016,7 +8016,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "891": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=891&head=2&eyes=1&body=4&grd=1&isl=1",
@@ -8043,7 +8043,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "894": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=894&head=4&eyes=3&body=6&grd=1&isl=1",
@@ -8061,7 +8061,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "896": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=896&head=3&eyes=4&body=1&grd=3&isl=3",
@@ -8070,7 +8070,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "897": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=897&head=2&eyes=1&body=7&grd=1&isl=3",
@@ -8079,7 +8079,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "898": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=898&head=6&eyes=2&body=9&grd=1&isl=1",
@@ -8097,7 +8097,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "900": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=900&head=7&eyes=2&body=5&grd=2&isl=1",
@@ -8115,7 +8115,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "902": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=902&head=4&eyes=1&body=2&grd=1&isl=2",
@@ -8124,7 +8124,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "903": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=903&head=2&eyes=4&body=10&grd=1&isl=1",
@@ -8142,7 +8142,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "905": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=905&head=4&eyes=1&body=3&grd=5&isl=3",
@@ -8151,7 +8151,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "906": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=906&head=5&eyes=4&body=8&grd=2&isl=3",
@@ -8160,7 +8160,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "907": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=907&head=3&eyes=2&body=3&grd=1&isl=1",
@@ -8178,7 +8178,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "909": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=909&head=6&eyes=2&body=5&grd=3&isl=1",
@@ -8196,7 +8196,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "911": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=911&head=2&eyes=1&body=9&grd=5&isl=2",
@@ -8205,7 +8205,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "912": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=912&head=5&eyes=1&body=3&grd=2&isl=2",
@@ -8214,7 +8214,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "913": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=913&head=1&eyes=2&body=3&grd=3&isl=2",
@@ -8223,7 +8223,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "914": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=914&head=5&eyes=1&body=1&grd=4&isl=2",
@@ -8232,7 +8232,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "915": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=915&head=4&eyes=1&body=7&grd=1&isl=2",
@@ -8241,7 +8241,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "916": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=916&head=3&eyes=2&body=2&grd=2&isl=1",
@@ -8268,7 +8268,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "919": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=919&head=3&eyes=1&body=11&grd=2&isl=2",
@@ -8277,7 +8277,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "920": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=920&head=1&eyes=2&body=6&grd=5&isl=2",
@@ -8286,7 +8286,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "921": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=921&head=2&eyes=2&body=4&grd=1&isl=2",
@@ -8295,7 +8295,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "922": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=922&head=7&eyes=1&body=7&grd=2&isl=1",
@@ -8313,7 +8313,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "924": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=924&head=2&eyes=2&body=11&grd=3&isl=1",
@@ -8340,7 +8340,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "927": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=927&head=2&eyes=1&body=8&grd=2&isl=2",
@@ -8349,7 +8349,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "928": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=928&head=4&eyes=2&body=1&grd=2&isl=3",
@@ -8358,7 +8358,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "929": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=929&head=2&eyes=2&body=6&grd=4&isl=1",
@@ -8376,7 +8376,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "931": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=931&head=4&eyes=1&body=1&grd=2&isl=1",
@@ -8394,7 +8394,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "933": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=933&head=3&eyes=2&body=4&grd=4&isl=3",
@@ -8403,7 +8403,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "934": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=934&head=3&eyes=2&body=9&grd=1&isl=1",
@@ -8421,7 +8421,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "936": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=936&head=6&eyes=1&body=6&grd=2&isl=2",
@@ -8430,7 +8430,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "937": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=937&head=6&eyes=4&body=3&grd=2&isl=2",
@@ -8439,7 +8439,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "938": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=938&head=3&eyes=2&body=5&grd=1&isl=1",
@@ -8457,7 +8457,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "940": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=940&head=1&eyes=1&body=13&grd=3&isl=1",
@@ -8475,7 +8475,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "942": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=942&head=8&eyes=1&body=6&grd=1&isl=3",
@@ -8484,7 +8484,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "943": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=943&head=1&eyes=1&body=2&grd=2&isl=2",
@@ -8493,7 +8493,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "944": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=944&head=1&eyes=3&body=4&grd=1&isl=3",
@@ -8502,7 +8502,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "945": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=945&head=1&eyes=3&body=4&grd=2&isl=1",
@@ -8538,7 +8538,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "949": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=949&head=1&eyes=1&body=11&grd=3&isl=2",
@@ -8547,7 +8547,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "950": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=950&head=6&eyes=2&body=1&grd=1&isl=1",
@@ -8565,7 +8565,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "952": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=952&head=2&eyes=3&body=4&grd=2&isl=1",
@@ -8592,7 +8592,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "955": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=955&head=6&eyes=1&body=1&grd=3&isl=3",
@@ -8601,7 +8601,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "956": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=956&head=4&eyes=1&body=5&grd=4&isl=1",
@@ -8628,7 +8628,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "959": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=959&head=1&eyes=4&body=6&grd=1&isl=1",
@@ -8646,7 +8646,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "961": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=961&head=2&eyes=3&body=9&grd=5&isl=1",
@@ -8673,7 +8673,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "964": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=964&head=7&eyes=2&body=4&grd=1&isl=1",
@@ -8691,7 +8691,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "966": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=966&head=5&eyes=1&body=8&grd=2&isl=2",
@@ -8700,7 +8700,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "967": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=967&head=1&eyes=1&body=1&grd=5&isl=2",
@@ -8709,7 +8709,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "968": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=968&head=5&eyes=4&body=3&grd=1&isl=2",
@@ -8718,7 +8718,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "969": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=969&head=5&eyes=2&body=8&grd=2&isl=2",
@@ -8727,7 +8727,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "970": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=970&head=1&eyes=2&body=10&grd=1&isl=1",
@@ -8754,7 +8754,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "973": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=973&head=2&eyes=2&body=2&grd=5&isl=1",
@@ -8781,7 +8781,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "976": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=976&head=2&eyes=4&body=6&grd=2&isl=2",
@@ -8790,7 +8790,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "977": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=977&head=3&eyes=3&body=4&grd=2&isl=2",
@@ -8799,7 +8799,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "978": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=978&head=4&eyes=4&body=2&grd=1&isl=2",
@@ -8808,7 +8808,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "979": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=979&head=3&eyes=3&body=6&grd=2&isl=2",
@@ -8817,7 +8817,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "980": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=980&head=3&eyes=2&body=11&grd=3&isl=2",
@@ -8826,7 +8826,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "981": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=981&head=4&eyes=3&body=5&grd=4&isl=1",
@@ -8844,7 +8844,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "983": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=983&head=5&eyes=1&body=10&grd=2&isl=1",
@@ -8862,7 +8862,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "985": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=985&head=1&eyes=4&body=6&grd=3&isl=3",
@@ -8871,7 +8871,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "986": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=986&head=4&eyes=2&body=5&grd=3&isl=2",
@@ -8880,7 +8880,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "987": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=987&head=7&eyes=2&body=2&grd=5&isl=2",
@@ -8889,7 +8889,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "988": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=988&head=2&eyes=1&body=13&grd=5&isl=1",
@@ -8916,7 +8916,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "991": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=991&head=1&eyes=3&body=3&grd=4&isl=1",
@@ -8934,7 +8934,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "993": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=993&head=2&eyes=3&body=1&grd=4&isl=1",
@@ -8961,7 +8961,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "996": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=996&head=3&eyes=1&body=4&grd=2&isl=1",
@@ -8979,7 +8979,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "998": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=998&head=6&eyes=3&body=1&grd=5&isl=1",
@@ -8997,7 +8997,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1000": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1000&head=7&eyes=1&body=8&grd=1&isl=1",
@@ -9015,7 +9015,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1002": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1002&head=2&eyes=2&body=4&grd=2&isl=3",
@@ -9024,7 +9024,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1003": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1003&head=2&eyes=4&body=5&grd=2&isl=3",
@@ -9033,7 +9033,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1004": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1004&head=7&eyes=4&body=13&grd=2&isl=1",
@@ -9060,7 +9060,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1007": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1007&head=1&eyes=4&body=9&grd=4&isl=1",
@@ -9087,7 +9087,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1010": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1010&head=1&eyes=4&body=3&grd=1&isl=1",
@@ -9114,7 +9114,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1013": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1013&head=4&eyes=3&body=7&grd=1&isl=3",
@@ -9123,7 +9123,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1014": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1014&head=4&eyes=1&body=3&grd=1&isl=2",
@@ -9132,7 +9132,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1015": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1015&head=1&eyes=4&body=4&grd=4&isl=2",
@@ -9141,7 +9141,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1016": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1016&head=3&eyes=2&body=6&grd=3&isl=2",
@@ -9150,7 +9150,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1017": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1017&head=6&eyes=4&body=8&grd=5&isl=1",
@@ -9186,7 +9186,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1021": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1021&head=5&eyes=1&body=6&grd=1&isl=1",
@@ -9204,7 +9204,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1023": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1023&head=5&eyes=2&body=3&grd=1&isl=1",
@@ -9222,7 +9222,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1025": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1025&head=4&eyes=1&body=4&grd=1&isl=1",
@@ -9240,7 +9240,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1027": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1027&head=2&eyes=1&body=4&grd=3&isl=1",
@@ -9276,7 +9276,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1031": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1031&head=3&eyes=3&body=7&grd=2&isl=1",
@@ -9312,7 +9312,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1035": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1035&head=3&eyes=1&body=1&grd=4&isl=2",
@@ -9321,7 +9321,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1036": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1036&head=2&eyes=2&body=2&grd=2&isl=3",
@@ -9330,7 +9330,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1037": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1037&head=1&eyes=4&body=9&grd=2&isl=2",
@@ -9339,7 +9339,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1038": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1038&head=2&eyes=2&body=5&grd=1&isl=1",
@@ -9357,7 +9357,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1040": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1040&head=3&eyes=1&body=9&grd=1&isl=3",
@@ -9366,7 +9366,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1041": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1041&head=3&eyes=4&body=3&grd=1&isl=2",
@@ -9375,7 +9375,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1042": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1042&head=1&eyes=3&body=2&grd=4&isl=1",
@@ -9429,7 +9429,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1048": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1048&head=2&eyes=1&body=4&grd=2&isl=1",
@@ -9456,7 +9456,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1051": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1051&head=6&eyes=4&body=3&grd=2&isl=1",
@@ -9510,7 +9510,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1057": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1057&head=2&eyes=1&body=10&grd=4&isl=1",
@@ -9537,7 +9537,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1060": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1060&head=2&eyes=3&body=6&grd=2&isl=1",
@@ -9564,7 +9564,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1063": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1063&head=5&eyes=1&body=9&grd=3&isl=3",
@@ -9573,7 +9573,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1064": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1064&head=6&eyes=3&body=11&grd=3&isl=1",
@@ -9609,7 +9609,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1068": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1068&head=2&eyes=2&body=7&grd=3&isl=1",
@@ -9636,7 +9636,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1071": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1071&head=2&eyes=1&body=7&grd=3&isl=2",
@@ -9645,7 +9645,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1072": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1072&head=4&eyes=1&body=6&grd=5&isl=1",
@@ -9663,7 +9663,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1074": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1074&head=4&eyes=1&body=6&grd=4&isl=1",
@@ -9681,7 +9681,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1076": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1076&head=8&eyes=2&body=2&grd=2&isl=1",
@@ -9708,7 +9708,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1079": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1079&head=3&eyes=2&body=5&grd=1&isl=2",
@@ -9717,7 +9717,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1080": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1080&head=3&eyes=3&body=7&grd=1&isl=1",
@@ -9735,7 +9735,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1082": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1082&head=1&eyes=1&body=1&grd=2&isl=1",
@@ -9753,7 +9753,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1084": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1084&head=6&eyes=1&body=6&grd=3&isl=2",
@@ -9762,7 +9762,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1085": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1085&head=2&eyes=2&body=2&grd=3&isl=2",
@@ -9771,7 +9771,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1086": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1086&head=3&eyes=2&body=12&grd=1&isl=2",
@@ -9780,7 +9780,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1087": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1087&head=4&eyes=2&body=2&grd=2&isl=3",
@@ -9789,7 +9789,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1088": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1088&head=2&eyes=2&body=3&grd=3&isl=3",
@@ -9798,7 +9798,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1089": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1089&head=3&eyes=4&body=4&grd=1&isl=2",
@@ -9807,7 +9807,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1090": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1090&head=7&eyes=2&body=3&grd=1&isl=2",
@@ -9816,7 +9816,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1091": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1091&head=3&eyes=1&body=4&grd=3&isl=2",
@@ -9825,7 +9825,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1092": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1092&head=4&eyes=1&body=1&grd=3&isl=2",
@@ -9834,7 +9834,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1093": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1093&head=3&eyes=2&body=8&grd=1&isl=2",
@@ -9843,7 +9843,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1094": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1094&head=3&eyes=2&body=3&grd=4&isl=3",
@@ -9852,7 +9852,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1095": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1095&head=1&eyes=3&body=4&grd=4&isl=2",
@@ -9861,7 +9861,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1096": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1096&head=8&eyes=2&body=4&grd=3&isl=1",
@@ -9879,7 +9879,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1098": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1098&head=2&eyes=1&body=10&grd=1&isl=2",
@@ -9888,7 +9888,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1099": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1099&head=7&eyes=3&body=1&grd=1&isl=3",
@@ -9897,7 +9897,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1100": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1100&head=4&eyes=4&body=7&grd=3&isl=1",
@@ -9942,7 +9942,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1105": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1105&head=1&eyes=3&body=1&grd=4&isl=2",
@@ -9951,7 +9951,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1106": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1106&head=3&eyes=3&body=11&grd=2&isl=2",
@@ -9960,7 +9960,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1107": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1107&head=5&eyes=4&body=3&grd=1&isl=3",
@@ -9969,7 +9969,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1108": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1108&head=4&eyes=2&body=1&grd=1&isl=1",
@@ -9987,7 +9987,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1110": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1110&head=4&eyes=1&body=3&grd=5&isl=1",
@@ -10005,7 +10005,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1112": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1112&head=4&eyes=1&body=3&grd=3&isl=1",
@@ -10023,7 +10023,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1114": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1114&head=5&eyes=2&body=9&grd=1&isl=1",
@@ -10050,7 +10050,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1117": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1117&head=6&eyes=4&body=9&grd=1&isl=1",
@@ -10068,7 +10068,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1119": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1119&head=7&eyes=3&body=6&grd=3&isl=1",
@@ -10086,7 +10086,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1121": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1121&head=7&eyes=2&body=4&grd=3&isl=2",
@@ -10095,7 +10095,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1122": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1122&head=2&eyes=4&body=4&grd=2&isl=2",
@@ -10104,7 +10104,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1123": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1123&head=5&eyes=1&body=3&grd=4&isl=1",
@@ -10122,7 +10122,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1125": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1125&head=8&eyes=3&body=9&grd=2&isl=1",
@@ -10140,7 +10140,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1127": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1127&head=8&eyes=3&body=3&grd=3&isl=1",
@@ -10167,7 +10167,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1130": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1130&head=2&eyes=1&body=10&grd=1&isl=3",
@@ -10176,7 +10176,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1131": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1131&head=2&eyes=4&body=5&grd=4&isl=1",
@@ -10194,7 +10194,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1133": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1133&head=4&eyes=1&body=3&grd=2&isl=2",
@@ -10203,7 +10203,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1134": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1134&head=6&eyes=3&body=8&grd=1&isl=1",
@@ -10230,7 +10230,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1137": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1137&head=6&eyes=2&body=2&grd=2&isl=3",
@@ -10239,7 +10239,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1138": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1138&head=3&eyes=1&body=10&grd=1&isl=2",
@@ -10248,7 +10248,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1139": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1139&head=3&eyes=3&body=8&grd=4&isl=3",
@@ -10257,7 +10257,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1140": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1140&head=3&eyes=3&body=2&grd=2&isl=1",
@@ -10284,7 +10284,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1143": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1143&head=2&eyes=1&body=2&grd=1&isl=3",
@@ -10293,7 +10293,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1144": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1144&head=1&eyes=1&body=4&grd=3&isl=2",
@@ -10302,7 +10302,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1145": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1145&head=1&eyes=2&body=7&grd=1&isl=2",
@@ -10311,7 +10311,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1146": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1146&head=6&eyes=4&body=1&grd=3&isl=1",
@@ -10329,7 +10329,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1148": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1148&head=4&eyes=1&body=7&grd=2&isl=1",
@@ -10347,7 +10347,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1150": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1150&head=7&eyes=2&body=6&grd=3&isl=1",
@@ -10392,7 +10392,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1155": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1155&head=3&eyes=2&body=1&grd=4&isl=1",
@@ -10410,7 +10410,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1157": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1157&head=4&eyes=1&body=5&grd=1&isl=1",
@@ -10428,7 +10428,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1159": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1159&head=2&eyes=4&body=6&grd=4&isl=2",
@@ -10437,7 +10437,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1160": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1160&head=4&eyes=1&body=7&grd=1&isl=3",
@@ -10446,7 +10446,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1161": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1161&head=5&eyes=3&body=1&grd=1&isl=3",
@@ -10455,7 +10455,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1162": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1162&head=8&eyes=3&body=7&grd=1&isl=2",
@@ -10464,7 +10464,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1163": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1163&head=7&eyes=2&body=13&grd=3&isl=2",
@@ -10473,7 +10473,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1164": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1164&head=1&eyes=2&body=8&grd=3&isl=2",
@@ -10482,7 +10482,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1165": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1165&head=3&eyes=3&body=9&grd=2&isl=1",
@@ -10527,7 +10527,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1170": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1170&head=5&eyes=3&body=6&grd=5&isl=2",
@@ -10536,7 +10536,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1171": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1171&head=4&eyes=1&body=3&grd=1&isl=1",
@@ -10554,7 +10554,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1173": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1173&head=5&eyes=4&body=3&grd=2&isl=1",
@@ -10572,7 +10572,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1175": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1175&head=8&eyes=3&body=7&grd=3&isl=2",
@@ -10581,7 +10581,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1176": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1176&head=1&eyes=1&body=5&grd=1&isl=2",
@@ -10590,7 +10590,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1177": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1177&head=4&eyes=2&body=9&grd=5&isl=2",
@@ -10599,7 +10599,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1178": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1178&head=5&eyes=1&body=7&grd=5&isl=1",
@@ -10626,7 +10626,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1181": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1181&head=4&eyes=3&body=3&grd=1&isl=2",
@@ -10635,7 +10635,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1182": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1182&head=2&eyes=2&body=2&grd=1&isl=3",
@@ -10644,7 +10644,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1183": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1183&head=3&eyes=3&body=8&grd=1&isl=2",
@@ -10653,7 +10653,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1184": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1184&head=1&eyes=4&body=3&grd=3&isl=1",
@@ -10671,7 +10671,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1186": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1186&head=1&eyes=1&body=3&grd=2&isl=1",
@@ -10698,7 +10698,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1189": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1189&head=7&eyes=1&body=7&grd=3&isl=3",
@@ -10707,7 +10707,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1190": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1190&head=1&eyes=4&body=13&grd=5&isl=1",
@@ -10725,7 +10725,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1192": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1192&head=2&eyes=4&body=6&grd=1&isl=1",
@@ -10770,7 +10770,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1197": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1197&head=1&eyes=3&body=2&grd=1&isl=3",
@@ -10779,7 +10779,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1198": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1198&head=6&eyes=1&body=4&grd=5&isl=3",
@@ -10788,7 +10788,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1199": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1199&head=5&eyes=1&body=10&grd=5&isl=2",
@@ -10797,7 +10797,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1200": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1200&head=2&eyes=2&body=11&grd=1&isl=2",
@@ -10806,7 +10806,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1201": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1201&head=6&eyes=1&body=6&grd=2&isl=1",
@@ -10824,7 +10824,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1203": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1203&head=8&eyes=3&body=4&grd=1&isl=1",
@@ -10851,7 +10851,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1206": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1206&head=7&eyes=1&body=11&grd=4&isl=1",
@@ -10869,7 +10869,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1208": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1208&head=1&eyes=4&body=7&grd=1&isl=2",
@@ -10878,7 +10878,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1209": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1209&head=1&eyes=2&body=12&grd=5&isl=1",
@@ -10896,7 +10896,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1211": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1211&head=6&eyes=4&body=3&grd=5&isl=2",
@@ -10905,7 +10905,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1212": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1212&head=6&eyes=3&body=11&grd=4&isl=2",
@@ -10914,7 +10914,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1213": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1213&head=5&eyes=2&body=8&grd=2&isl=3",
@@ -10923,7 +10923,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1214": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1214&head=5&eyes=2&body=4&grd=1&isl=2",
@@ -10932,7 +10932,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1215": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1215&head=5&eyes=2&body=6&grd=1&isl=1",
@@ -10959,7 +10959,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1218": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1218&head=2&eyes=2&body=7&grd=5&isl=2",
@@ -10968,7 +10968,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1219": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1219&head=8&eyes=1&body=2&grd=5&isl=3",
@@ -10977,7 +10977,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1220": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1220&head=3&eyes=1&body=2&grd=2&isl=1",
@@ -10995,7 +10995,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1222": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1222&head=1&eyes=2&body=12&grd=1&isl=2",
@@ -11004,7 +11004,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1223": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1223&head=3&eyes=1&body=2&grd=3&isl=2",
@@ -11013,7 +11013,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1224": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1224&head=2&eyes=2&body=11&grd=4&isl=1",
@@ -11031,7 +11031,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1226": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1226&head=3&eyes=1&body=7&grd=2&isl=1",
@@ -11058,7 +11058,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1229": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1229&head=1&eyes=4&body=7&grd=5&isl=3",
@@ -11067,7 +11067,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1230": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1230&head=3&eyes=3&body=4&grd=3&isl=1",
@@ -11112,7 +11112,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1235": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1235&head=1&eyes=4&body=2&grd=4&isl=1",
@@ -11130,7 +11130,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1237": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1237&head=3&eyes=1&body=5&grd=1&isl=2",
@@ -11139,7 +11139,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1238": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1238&head=4&eyes=2&body=5&grd=1&isl=2",
@@ -11148,7 +11148,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1239": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1239&head=4&eyes=2&body=9&grd=1&isl=3",
@@ -11157,7 +11157,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1240": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1240&head=2&eyes=1&body=6&grd=5&isl=2",
@@ -11166,7 +11166,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1241": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1241&head=7&eyes=1&body=8&grd=2&isl=1",
@@ -11184,7 +11184,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1243": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1243&head=8&eyes=1&body=6&grd=1&isl=1",
@@ -11202,7 +11202,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1245": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1245&head=8&eyes=1&body=12&grd=3&isl=1",
@@ -11265,7 +11265,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1252": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1252&head=2&eyes=4&body=1&grd=4&isl=1",
@@ -11283,7 +11283,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1254": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1254&head=1&eyes=1&body=4&grd=2&isl=2",
@@ -11292,7 +11292,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1255": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1255&head=1&eyes=4&body=2&grd=4&isl=3",
@@ -11301,7 +11301,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1256": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1256&head=3&eyes=2&body=9&grd=1&isl=2",
@@ -11310,7 +11310,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1257": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1257&head=7&eyes=1&body=5&grd=4&isl=1",
@@ -11364,7 +11364,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1263": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1263&head=3&eyes=2&body=9&grd=4&isl=2",
@@ -11373,7 +11373,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1264": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1264&head=5&eyes=4&body=11&grd=3&isl=2",
@@ -11382,7 +11382,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1265": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1265&head=5&eyes=3&body=7&grd=3&isl=3",
@@ -11391,7 +11391,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1266": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1266&head=3&eyes=2&body=4&grd=3&isl=3",
@@ -11400,7 +11400,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1267": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1267&head=6&eyes=2&body=4&grd=4&isl=3",
@@ -11409,7 +11409,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1268": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1268&head=3&eyes=1&body=1&grd=4&isl=1",
@@ -11427,7 +11427,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1270": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1270&head=3&eyes=4&body=12&grd=1&isl=2",
@@ -11436,7 +11436,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1271": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1271&head=2&eyes=1&body=4&grd=5&isl=2",
@@ -11445,7 +11445,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1272": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1272&head=2&eyes=2&body=6&grd=3&isl=1",
@@ -11463,7 +11463,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1274": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1274&head=7&eyes=4&body=1&grd=2&isl=2",
@@ -11472,7 +11472,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1275": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1275&head=6&eyes=3&body=5&grd=2&isl=1",
@@ -11490,7 +11490,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1277": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1277&head=1&eyes=1&body=3&grd=4&isl=2",
@@ -11499,7 +11499,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1278": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1278&head=7&eyes=1&body=1&grd=3&isl=2",
@@ -11508,7 +11508,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1279": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1279&head=2&eyes=1&body=3&grd=4&isl=1",
@@ -11526,7 +11526,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1281": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1281&head=2&eyes=2&body=1&grd=5&isl=2",
@@ -11535,7 +11535,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1282": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1282&head=5&eyes=2&body=1&grd=2&isl=1",
@@ -11553,7 +11553,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1284": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1284&head=2&eyes=1&body=3&grd=3&isl=3",
@@ -11562,7 +11562,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1285": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1285&head=6&eyes=3&body=10&grd=1&isl=1",
@@ -11589,7 +11589,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1288": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1288&head=3&eyes=1&body=13&grd=2&isl=1",
@@ -11607,7 +11607,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1290": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1290&head=6&eyes=1&body=10&grd=2&isl=1",
@@ -11652,7 +11652,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1295": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1295&head=4&eyes=2&body=6&grd=5&isl=2",
@@ -11661,7 +11661,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1296": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1296&head=2&eyes=2&body=6&grd=3&isl=3",
@@ -11670,7 +11670,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1297": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1297&head=1&eyes=3&body=1&grd=4&isl=3",
@@ -11679,7 +11679,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1298": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1298&head=1&eyes=1&body=11&grd=1&isl=2",
@@ -11688,7 +11688,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1299": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1299&head=1&eyes=3&body=6&grd=2&isl=2",
@@ -11697,7 +11697,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1300": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1300&head=2&eyes=3&body=4&grd=4&isl=3",
@@ -11706,7 +11706,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1301": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1301&head=1&eyes=2&body=11&grd=2&isl=1",
@@ -11724,7 +11724,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1303": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1303&head=1&eyes=3&body=6&grd=2&isl=3",
@@ -11733,7 +11733,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1304": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1304&head=5&eyes=1&body=5&grd=5&isl=2",
@@ -11742,7 +11742,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1305": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1305&head=1&eyes=2&body=6&grd=4&isl=2",
@@ -11751,7 +11751,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1306": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1306&head=6&eyes=1&body=7&grd=2&isl=1",
@@ -11769,7 +11769,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1308": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1308&head=4&eyes=3&body=1&grd=1&isl=2",
@@ -11778,7 +11778,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1309": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1309&head=1&eyes=1&body=6&grd=4&isl=1",
@@ -11796,7 +11796,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1311": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1311&head=5&eyes=3&body=4&grd=5&isl=1",
@@ -11814,7 +11814,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1313": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1313&head=4&eyes=1&body=6&grd=2&isl=1",
@@ -11832,7 +11832,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1315": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1315&head=6&eyes=4&body=9&grd=2&isl=3",
@@ -11841,7 +11841,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1316": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1316&head=6&eyes=1&body=3&grd=4&isl=1",
@@ -11877,7 +11877,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1320": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1320&head=4&eyes=1&body=3&grd=3&isl=3",
@@ -11886,7 +11886,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1321": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1321&head=2&eyes=2&body=9&grd=2&isl=1",
@@ -11913,7 +11913,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1324": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1324&head=3&eyes=1&body=4&grd=3&isl=1",
@@ -11931,7 +11931,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1326": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1326&head=1&eyes=2&body=9&grd=2&isl=2",
@@ -11940,7 +11940,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1327": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1327&head=1&eyes=1&body=3&grd=1&isl=1",
@@ -11958,7 +11958,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1329": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1329&head=5&eyes=2&body=4&grd=5&isl=1",
@@ -11994,7 +11994,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1333": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1333&head=6&eyes=4&body=5&grd=3&isl=1",
@@ -12021,7 +12021,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1336": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1336&head=5&eyes=1&body=3&grd=3&isl=3",
@@ -12030,7 +12030,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1337": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1337&head=2&eyes=2&body=3&grd=1&isl=1",
@@ -12048,7 +12048,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1339": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1339&head=4&eyes=4&body=2&grd=5&isl=1",
@@ -12066,7 +12066,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1341": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1341&head=4&eyes=2&body=5&grd=2&isl=3",
@@ -12075,7 +12075,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1342": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1342&head=1&eyes=1&body=2&grd=2&isl=1",
@@ -12093,7 +12093,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1344": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1344&head=3&eyes=1&body=6&grd=4&isl=3",
@@ -12102,7 +12102,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1345": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1345&head=1&eyes=3&body=7&grd=1&isl=1",
@@ -12129,7 +12129,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1348": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1348&head=3&eyes=2&body=1&grd=4&isl=2",
@@ -12138,7 +12138,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1349": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1349&head=4&eyes=3&body=4&grd=3&isl=3",
@@ -12147,7 +12147,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1350": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1350&head=4&eyes=4&body=2&grd=3&isl=2",
@@ -12156,7 +12156,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1351": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1351&head=4&eyes=1&body=9&grd=4&isl=1",
@@ -12174,7 +12174,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1353": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1353&head=1&eyes=2&body=2&grd=2&isl=3",
@@ -12183,7 +12183,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1354": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1354&head=5&eyes=2&body=2&grd=3&isl=1",
@@ -12228,7 +12228,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1359": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1359&head=5&eyes=4&body=7&grd=1&isl=1",
@@ -12246,7 +12246,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1361": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1361&head=1&eyes=1&body=4&grd=4&isl=1",
@@ -12264,7 +12264,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1363": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1363&head=4&eyes=3&body=5&grd=1&isl=2",
@@ -12273,7 +12273,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1364": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1364&head=4&eyes=3&body=6&grd=2&isl=3",
@@ -12282,7 +12282,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1365": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1365&head=4&eyes=2&body=12&grd=2&isl=3",
@@ -12291,7 +12291,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1366": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1366&head=3&eyes=4&body=7&grd=1&isl=2",
@@ -12300,7 +12300,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1367": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1367&head=2&eyes=1&body=5&grd=5&isl=3",
@@ -12309,7 +12309,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1368": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1368&head=4&eyes=3&body=7&grd=3&isl=1",
@@ -12327,7 +12327,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1370": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1370&head=3&eyes=3&body=2&grd=3&isl=2",
@@ -12336,7 +12336,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1371": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1371&head=2&eyes=3&body=7&grd=3&isl=1",
@@ -12372,7 +12372,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1375": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1375&head=8&eyes=1&body=3&grd=4&isl=3",
@@ -12381,7 +12381,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1376": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1376&head=3&eyes=3&body=11&grd=1&isl=1",
@@ -12408,7 +12408,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1379": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1379&head=5&eyes=2&body=9&grd=2&isl=2",
@@ -12417,7 +12417,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1380": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1380&head=2&eyes=1&body=12&grd=3&isl=1",
@@ -12435,7 +12435,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1382": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1382&head=4&eyes=4&body=5&grd=2&isl=2",
@@ -12444,7 +12444,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1383": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1383&head=2&eyes=3&body=6&grd=3&isl=2",
@@ -12453,7 +12453,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1384": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1384&head=2&eyes=4&body=6&grd=1&isl=3",
@@ -12462,7 +12462,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1385": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1385&head=1&eyes=2&body=7&grd=2&isl=1",
@@ -12480,7 +12480,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1387": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1387&head=2&eyes=1&body=1&grd=2&isl=2",
@@ -12489,7 +12489,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1388": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1388&head=2&eyes=3&body=13&grd=3&isl=1",
@@ -12534,7 +12534,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1393": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1393&head=1&eyes=3&body=3&grd=4&isl=2",
@@ -12543,7 +12543,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1394": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1394&head=2&eyes=3&body=5&grd=2&isl=2",
@@ -12552,7 +12552,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1395": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1395&head=6&eyes=2&body=9&grd=2&isl=1",
@@ -12588,7 +12588,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1399": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1399&head=6&eyes=2&body=3&grd=2&isl=1",
@@ -12606,7 +12606,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1401": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1401&head=4&eyes=3&body=7&grd=4&isl=2",
@@ -12615,7 +12615,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1402": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1402&head=2&eyes=1&body=1&grd=1&isl=2",
@@ -12624,7 +12624,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1403": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1403&head=6&eyes=3&body=8&grd=1&isl=2",
@@ -12633,7 +12633,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1404": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1404&head=4&eyes=3&body=2&grd=2&isl=1",
@@ -12651,7 +12651,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1406": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1406&head=7&eyes=2&body=2&grd=3&isl=2",
@@ -12660,7 +12660,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1407": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1407&head=3&eyes=4&body=10&grd=3&isl=1",
@@ -12678,7 +12678,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1409": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1409&head=7&eyes=2&body=2&grd=5&isl=1",
@@ -12696,7 +12696,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1411": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1411&head=4&eyes=3&body=2&grd=1&isl=2",
@@ -12705,7 +12705,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1412": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1412&head=3&eyes=1&body=6&grd=2&isl=2",
@@ -12714,7 +12714,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1413": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1413&head=5&eyes=2&body=9&grd=4&isl=2",
@@ -12723,7 +12723,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1414": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1414&head=6&eyes=1&body=4&grd=2&isl=3",
@@ -12732,7 +12732,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1415": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1415&head=2&eyes=1&body=3&grd=4&isl=2",
@@ -12741,7 +12741,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1416": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1416&head=4&eyes=2&body=9&grd=1&isl=2",
@@ -12750,7 +12750,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1417": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1417&head=3&eyes=1&body=7&grd=2&isl=2",
@@ -12759,7 +12759,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1418": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1418&head=2&eyes=2&body=3&grd=1&isl=2",
@@ -12768,7 +12768,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1419": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1419&head=6&eyes=1&body=6&grd=4&isl=1",
@@ -12795,7 +12795,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1422": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1422&head=6&eyes=2&body=8&grd=3&isl=2",
@@ -12804,7 +12804,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1423": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1423&head=5&eyes=2&body=5&grd=2&isl=2",
@@ -12813,7 +12813,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1424": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1424&head=2&eyes=1&body=5&grd=3&isl=3",
@@ -12822,7 +12822,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1425": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1425&head=7&eyes=3&body=4&grd=1&isl=2",
@@ -12831,7 +12831,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1426": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1426&head=4&eyes=2&body=8&grd=4&isl=3",
@@ -12840,7 +12840,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1427": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1427&head=4&eyes=4&body=6&grd=4&isl=1",
@@ -12912,7 +12912,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1435": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1435&head=2&eyes=1&body=5&grd=1&isl=3",
@@ -12921,7 +12921,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1436": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1436&head=5&eyes=3&body=7&grd=2&isl=3",
@@ -12930,7 +12930,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1437": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1437&head=4&eyes=3&body=1&grd=2&isl=1",
@@ -12948,7 +12948,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1439": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1439&head=3&eyes=2&body=6&grd=4&isl=1",
@@ -12975,7 +12975,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1442": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1442&head=3&eyes=2&body=6&grd=4&isl=2",
@@ -12984,7 +12984,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1443": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1443&head=6&eyes=2&body=6&grd=2&isl=2",
@@ -12993,7 +12993,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1444": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1444&head=4&eyes=2&body=2&grd=3&isl=3",
@@ -13002,7 +13002,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1445": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1445&head=2&eyes=4&body=10&grd=2&isl=1",
@@ -13020,7 +13020,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1447": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1447&head=4&eyes=2&body=3&grd=4&isl=1",
@@ -13065,7 +13065,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1452": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1452&head=8&eyes=1&body=4&grd=4&isl=3",
@@ -13074,7 +13074,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1453": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1453&head=4&eyes=2&body=3&grd=3&isl=1",
@@ -13101,7 +13101,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1456": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1456&head=3&eyes=3&body=3&grd=2&isl=1",
@@ -13119,7 +13119,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1458": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1458&head=4&eyes=3&body=1&grd=2&isl=2",
@@ -13128,7 +13128,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1459": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1459&head=1&eyes=4&body=11&grd=2&isl=2",
@@ -13137,7 +13137,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1460": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1460&head=2&eyes=2&body=11&grd=2&isl=1",
@@ -13155,7 +13155,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1462": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1462&head=2&eyes=1&body=7&grd=1&isl=2",
@@ -13164,7 +13164,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1463": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1463&head=3&eyes=2&body=10&grd=1&isl=1",
@@ -13182,7 +13182,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1465": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1465&head=6&eyes=2&body=8&grd=2&isl=1",
@@ -13209,7 +13209,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1468": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1468&head=2&eyes=3&body=5&grd=2&isl=1",
@@ -13227,7 +13227,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1470": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1470&head=5&eyes=4&body=6&grd=3&isl=1",
@@ -13245,7 +13245,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1472": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1472&head=2&eyes=1&body=1&grd=1&isl=3",
@@ -13254,7 +13254,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1473": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1473&head=5&eyes=3&body=8&grd=2&isl=2",
@@ -13263,7 +13263,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1474": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1474&head=1&eyes=1&body=3&grd=1&isl=3",
@@ -13272,7 +13272,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1475": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1475&head=8&eyes=1&body=3&grd=2&isl=1",
@@ -13290,7 +13290,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1477": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1477&head=7&eyes=2&body=1&grd=1&isl=2",
@@ -13299,7 +13299,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1478": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1478&head=7&eyes=3&body=9&grd=3&isl=1",
@@ -13317,7 +13317,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1480": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1480&head=1&eyes=1&body=5&grd=4&isl=2",
@@ -13326,7 +13326,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1481": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1481&head=6&eyes=1&body=4&grd=1&isl=3",
@@ -13335,7 +13335,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1482": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1482&head=4&eyes=1&body=10&grd=3&isl=2",
@@ -13344,7 +13344,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1483": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1483&head=2&eyes=2&body=2&grd=2&isl=2",
@@ -13353,7 +13353,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1484": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1484&head=2&eyes=2&body=3&grd=3&isl=1",
@@ -13380,7 +13380,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1487": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1487&head=7&eyes=2&body=8&grd=1&isl=3",
@@ -13389,7 +13389,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1488": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1488&head=6&eyes=2&body=10&grd=4&isl=2",
@@ -13398,7 +13398,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1489": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1489&head=8&eyes=2&body=3&grd=1&isl=3",
@@ -13407,7 +13407,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1490": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1490&head=1&eyes=2&body=4&grd=3&isl=1",
@@ -13425,7 +13425,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1492": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1492&head=6&eyes=1&body=4&grd=3&isl=1",
@@ -13443,7 +13443,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1494": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1494&head=6&eyes=1&body=2&grd=4&isl=2",
@@ -13452,7 +13452,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1495": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1495&head=1&eyes=4&body=2&grd=3&isl=2",
@@ -13461,7 +13461,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1496": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1496&head=3&eyes=3&body=6&grd=5&isl=1",
@@ -13479,7 +13479,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1498": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1498&head=2&eyes=2&body=1&grd=1&isl=2",
@@ -13488,7 +13488,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1499": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1499&head=5&eyes=1&body=2&grd=2&isl=1",
@@ -13506,7 +13506,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1501": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1501&head=2&eyes=1&body=10&grd=2&isl=1",
@@ -13524,7 +13524,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1503": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1503&head=3&eyes=2&body=2&grd=1&isl=2",
@@ -13533,7 +13533,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1504": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1504&head=2&eyes=2&body=3&grd=5&isl=1",
@@ -13569,7 +13569,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1508": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1508&head=6&eyes=2&body=6&grd=2&isl=3",
@@ -13578,7 +13578,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1509": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1509&head=5&eyes=2&body=2&grd=2&isl=2",
@@ -13587,7 +13587,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1510": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1510&head=1&eyes=4&body=4&grd=5&isl=3",
@@ -13596,7 +13596,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1511": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1511&head=6&eyes=1&body=1&grd=1&isl=3",
@@ -13605,7 +13605,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1512": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1512&head=7&eyes=2&body=5&grd=1&isl=2",
@@ -13614,7 +13614,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1513": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1513&head=1&eyes=1&body=1&grd=4&isl=3",
@@ -13623,7 +13623,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1514": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1514&head=1&eyes=2&body=11&grd=1&isl=3",
@@ -13632,7 +13632,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1515": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1515&head=2&eyes=3&body=2&grd=2&isl=2",
@@ -13641,7 +13641,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1516": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1516&head=6&eyes=2&body=9&grd=1&isl=3",
@@ -13650,7 +13650,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1517": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1517&head=4&eyes=1&body=9&grd=2&isl=2",
@@ -13659,7 +13659,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1518": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1518&head=6&eyes=1&body=7&grd=1&isl=3",
@@ -13668,7 +13668,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1519": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1519&head=5&eyes=2&body=11&grd=3&isl=1",
@@ -13686,7 +13686,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1521": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1521&head=7&eyes=3&body=3&grd=4&isl=3",
@@ -13695,7 +13695,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1522": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1522&head=3&eyes=2&body=7&grd=2&isl=2",
@@ -13704,7 +13704,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1523": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1523&head=4&eyes=2&body=10&grd=2&isl=2",
@@ -13713,7 +13713,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1524": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1524&head=1&eyes=4&body=11&grd=2&isl=1",
@@ -13731,7 +13731,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1526": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1526&head=1&eyes=4&body=5&grd=5&isl=3",
@@ -13740,7 +13740,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1527": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1527&head=3&eyes=1&body=10&grd=1&isl=3",
@@ -13749,7 +13749,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1528": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1528&head=5&eyes=1&body=9&grd=4&isl=1",
@@ -13767,7 +13767,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1530": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1530&head=3&eyes=4&body=4&grd=4&isl=1",
@@ -13785,7 +13785,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1532": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1532&head=1&eyes=1&body=5&grd=2&isl=2",
@@ -13794,7 +13794,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1533": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1533&head=3&eyes=4&body=2&grd=2&isl=2",
@@ -13803,7 +13803,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1534": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1534&head=6&eyes=1&body=6&grd=3&isl=1",
@@ -13821,7 +13821,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1536": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1536&head=2&eyes=1&body=3&grd=4&isl=3",
@@ -13830,7 +13830,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1537": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1537&head=3&eyes=2&body=9&grd=3&isl=1",
@@ -13848,7 +13848,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1539": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1539&head=8&eyes=4&body=8&grd=3&isl=2",
@@ -13857,7 +13857,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1540": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1540&head=4&eyes=2&body=6&grd=3&isl=2",
@@ -13866,7 +13866,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1541": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1541&head=1&eyes=1&body=2&grd=1&isl=3",
@@ -13875,7 +13875,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1542": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1542&head=8&eyes=1&body=8&grd=1&isl=1",
@@ -13911,7 +13911,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1546": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1546&head=4&eyes=3&body=3&grd=1&isl=1",
@@ -13929,7 +13929,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1548": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1548&head=2&eyes=4&body=6&grd=5&isl=1",
@@ -13947,7 +13947,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1550": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1550&head=1&eyes=2&body=8&grd=4&isl=1",
@@ -13965,7 +13965,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1552": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1552&head=5&eyes=1&body=3&grd=5&isl=2",
@@ -13974,7 +13974,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1553": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1553&head=3&eyes=2&body=2&grd=4&isl=1",
@@ -13992,7 +13992,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1555": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1555&head=2&eyes=2&body=9&grd=1&isl=2",
@@ -14001,7 +14001,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1556": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1556&head=1&eyes=2&body=9&grd=1&isl=1",
@@ -14019,7 +14019,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1558": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1558&head=1&eyes=1&body=5&grd=4&isl=1",
@@ -14046,7 +14046,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1561": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1561&head=6&eyes=3&body=8&grd=2&isl=2",
@@ -14055,7 +14055,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1562": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1562&head=6&eyes=2&body=3&grd=4&isl=1",
@@ -14073,7 +14073,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1564": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1564&head=6&eyes=2&body=13&grd=2&isl=3",
@@ -14082,7 +14082,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1565": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1565&head=3&eyes=2&body=7&grd=5&isl=2",
@@ -14091,7 +14091,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1566": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1566&head=7&eyes=2&body=7&grd=3&isl=1",
@@ -14109,7 +14109,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1568": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1568&head=4&eyes=3&body=8&grd=4&isl=2",
@@ -14118,7 +14118,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1569": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1569&head=3&eyes=3&body=2&grd=5&isl=1",
@@ -14136,7 +14136,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1571": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1571&head=3&eyes=1&body=3&grd=2&isl=3",
@@ -14145,7 +14145,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1572": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1572&head=5&eyes=1&body=10&grd=4&isl=2",
@@ -14154,7 +14154,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1573": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1573&head=5&eyes=3&body=10&grd=5&isl=3",
@@ -14163,7 +14163,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1574": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1574&head=3&eyes=1&body=12&grd=3&isl=1",
@@ -14190,7 +14190,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1577": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1577&head=6&eyes=4&body=1&grd=2&isl=1",
@@ -14208,7 +14208,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1579": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1579&head=7&eyes=2&body=2&grd=1&isl=3",
@@ -14217,7 +14217,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1580": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1580&head=5&eyes=4&body=5&grd=3&isl=1",
@@ -14235,7 +14235,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1582": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1582&head=7&eyes=1&body=2&grd=3&isl=1",
@@ -14253,7 +14253,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1584": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1584&head=4&eyes=4&body=8&grd=3&isl=1",
@@ -14271,7 +14271,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1586": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1586&head=7&eyes=1&body=3&grd=2&isl=2",
@@ -14280,7 +14280,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1587": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1587&head=5&eyes=4&body=10&grd=5&isl=1",
@@ -14298,7 +14298,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1589": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1589&head=4&eyes=3&body=7&grd=2&isl=1",
@@ -14316,7 +14316,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1591": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1591&head=4&eyes=3&body=7&grd=5&isl=1",
@@ -14343,7 +14343,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1594": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1594&head=7&eyes=1&body=4&grd=3&isl=1",
@@ -14361,7 +14361,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1596": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1596&head=5&eyes=2&body=12&grd=3&isl=2",
@@ -14370,7 +14370,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1597": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1597&head=3&eyes=4&body=1&grd=1&isl=2",
@@ -14379,7 +14379,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1598": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1598&head=1&eyes=1&body=13&grd=2&isl=1",
@@ -14397,7 +14397,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1600": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1600&head=3&eyes=3&body=11&grd=4&isl=1",
@@ -14424,7 +14424,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1603": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1603&head=3&eyes=2&body=2&grd=2&isl=3",
@@ -14433,7 +14433,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1604": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1604&head=1&eyes=3&body=8&grd=2&isl=3",
@@ -14442,7 +14442,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1605": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1605&head=4&eyes=2&body=4&grd=3&isl=3",
@@ -14451,7 +14451,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1606": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1606&head=3&eyes=3&body=1&grd=2&isl=2",
@@ -14460,7 +14460,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1607": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1607&head=8&eyes=3&body=8&grd=1&isl=1",
@@ -14478,7 +14478,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1609": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1609&head=5&eyes=2&body=5&grd=1&isl=1",
@@ -14496,7 +14496,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1611": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1611&head=1&eyes=3&body=2&grd=5&isl=3",
@@ -14505,7 +14505,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1612": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1612&head=1&eyes=2&body=5&grd=5&isl=2",
@@ -14514,7 +14514,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1613": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1613&head=6&eyes=2&body=8&grd=2&isl=3",
@@ -14523,7 +14523,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1614": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1614&head=5&eyes=4&body=5&grd=5&isl=1",
@@ -14550,7 +14550,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1617": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1617&head=1&eyes=3&body=10&grd=1&isl=1",
@@ -14568,7 +14568,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1619": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1619&head=7&eyes=1&body=11&grd=4&isl=2",
@@ -14577,7 +14577,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1620": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1620&head=4&eyes=3&body=8&grd=1&isl=3",
@@ -14586,7 +14586,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1621": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1621&head=4&eyes=3&body=9&grd=1&isl=1",
@@ -14604,7 +14604,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1623": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1623&head=5&eyes=3&body=9&grd=1&isl=1",
@@ -14622,7 +14622,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1625": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1625&head=3&eyes=1&body=2&grd=4&isl=3",
@@ -14631,7 +14631,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1626": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1626&head=5&eyes=2&body=6&grd=4&isl=2",
@@ -14640,7 +14640,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1627": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1627&head=2&eyes=3&body=4&grd=3&isl=3",
@@ -14649,7 +14649,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1628": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1628&head=4&eyes=3&body=11&grd=3&isl=2",
@@ -14658,7 +14658,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1629": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1629&head=2&eyes=1&body=10&grd=2&isl=3",
@@ -14667,7 +14667,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1630": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1630&head=5&eyes=1&body=12&grd=2&isl=2",
@@ -14676,7 +14676,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1631": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1631&head=3&eyes=3&body=6&grd=2&isl=3",
@@ -14685,7 +14685,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1632": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1632&head=8&eyes=2&body=8&grd=2&isl=2",
@@ -14694,7 +14694,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1633": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1633&head=3&eyes=4&body=5&grd=1&isl=3",
@@ -14703,7 +14703,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1634": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1634&head=7&eyes=1&body=2&grd=1&isl=3",
@@ -14712,7 +14712,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1635": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1635&head=7&eyes=3&body=3&grd=3&isl=1",
@@ -14739,7 +14739,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1638": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1638&head=4&eyes=1&body=5&grd=3&isl=2",
@@ -14748,7 +14748,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1639": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1639&head=4&eyes=4&body=3&grd=3&isl=1",
@@ -14766,7 +14766,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1641": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1641&head=3&eyes=2&body=3&grd=1&isl=3",
@@ -14775,7 +14775,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1642": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1642&head=7&eyes=1&body=5&grd=3&isl=1",
@@ -14802,7 +14802,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1645": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1645&head=6&eyes=3&body=1&grd=4&isl=1",
@@ -14820,7 +14820,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1647": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1647&head=7&eyes=4&body=6&grd=4&isl=3",
@@ -14829,7 +14829,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1648": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1648&head=1&eyes=1&body=9&grd=4&isl=3",
@@ -14838,7 +14838,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1649": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1649&head=3&eyes=2&body=8&grd=2&isl=3",
@@ -14847,7 +14847,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1650": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1650&head=8&eyes=1&body=5&grd=3&isl=3",
@@ -14856,7 +14856,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1651": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1651&head=2&eyes=3&body=1&grd=3&isl=2",
@@ -14865,7 +14865,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1652": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1652&head=1&eyes=2&body=4&grd=3&isl=2",
@@ -14874,7 +14874,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1653": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1653&head=8&eyes=4&body=11&grd=1&isl=1",
@@ -14892,7 +14892,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1655": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1655&head=7&eyes=1&body=3&grd=3&isl=1",
@@ -14919,7 +14919,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1658": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1658&head=6&eyes=3&body=6&grd=5&isl=2",
@@ -14928,7 +14928,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1659": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1659&head=4&eyes=2&body=4&grd=2&isl=2",
@@ -14937,7 +14937,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1660": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1660&head=7&eyes=2&body=5&grd=5&isl=1",
@@ -14982,7 +14982,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1665": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1665&head=5&eyes=1&body=2&grd=3&isl=2",
@@ -14991,7 +14991,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1666": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1666&head=7&eyes=2&body=1&grd=4&isl=2",
@@ -15000,7 +15000,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1667": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1667&head=8&eyes=3&body=9&grd=3&isl=2",
@@ -15009,7 +15009,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1668": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1668&head=4&eyes=2&body=8&grd=2&isl=1",
@@ -15027,7 +15027,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1670": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1670&head=6&eyes=1&body=1&grd=3&isl=1",
@@ -15045,7 +15045,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1672": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1672&head=4&eyes=3&body=2&grd=2&isl=2",
@@ -15054,7 +15054,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1673": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1673&head=1&eyes=3&body=5&grd=4&isl=3",
@@ -15063,7 +15063,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1674": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1674&head=4&eyes=1&body=13&grd=1&isl=2",
@@ -15072,7 +15072,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1675": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1675&head=4&eyes=4&body=10&grd=1&isl=2",
@@ -15081,7 +15081,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1676": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1676&head=1&eyes=4&body=10&grd=1&isl=1",
@@ -15117,7 +15117,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1680": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1680&head=1&eyes=2&body=3&grd=4&isl=1",
@@ -15135,7 +15135,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1682": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1682&head=5&eyes=2&body=6&grd=1&isl=2",
@@ -15144,7 +15144,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1683": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1683&head=1&eyes=4&body=10&grd=1&isl=3",
@@ -15153,7 +15153,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1684": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1684&head=3&eyes=2&body=2&grd=3&isl=2",
@@ -15162,7 +15162,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1685": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1685&head=2&eyes=2&body=2&grd=4&isl=3",
@@ -15171,7 +15171,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1686": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1686&head=1&eyes=1&body=1&grd=5&isl=3",
@@ -15180,7 +15180,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1687": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1687&head=2&eyes=4&body=12&grd=4&isl=2",
@@ -15189,7 +15189,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1688": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1688&head=1&eyes=4&body=2&grd=3&isl=3",
@@ -15198,7 +15198,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1689": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1689&head=3&eyes=1&body=8&grd=2&isl=2",
@@ -15207,7 +15207,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1690": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1690&head=6&eyes=3&body=5&grd=4&isl=1",
@@ -15225,7 +15225,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1692": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1692&head=1&eyes=3&body=10&grd=2&isl=1",
@@ -15270,7 +15270,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1697": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1697&head=4&eyes=2&body=7&grd=2&isl=2",
@@ -15279,7 +15279,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1698": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1698&head=1&eyes=4&body=5&grd=2&isl=2",
@@ -15288,7 +15288,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1699": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1699&head=7&eyes=4&body=5&grd=1&isl=1",
@@ -15306,7 +15306,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1701": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1701&head=2&eyes=1&body=1&grd=3&isl=3",
@@ -15315,7 +15315,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1702": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1702&head=1&eyes=2&body=4&grd=5&isl=2",
@@ -15324,7 +15324,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1703": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1703&head=1&eyes=3&body=3&grd=2&isl=3",
@@ -15333,7 +15333,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1704": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1704&head=8&eyes=4&body=5&grd=1&isl=3",
@@ -15342,7 +15342,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1705": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1705&head=2&eyes=1&body=4&grd=4&isl=3",
@@ -15351,7 +15351,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1706": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1706&head=1&eyes=1&body=9&grd=3&isl=1",
@@ -15369,7 +15369,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1708": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1708&head=4&eyes=1&body=8&grd=3&isl=1",
@@ -15387,7 +15387,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1710": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1710&head=2&eyes=4&body=5&grd=1&isl=1",
@@ -15405,7 +15405,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1712": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1712&head=7&eyes=2&body=9&grd=2&isl=1",
@@ -15423,7 +15423,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1714": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1714&head=2&eyes=4&body=5&grd=3&isl=3",
@@ -15432,7 +15432,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1715": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1715&head=4&eyes=2&body=1&grd=1&isl=3",
@@ -15441,7 +15441,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1716": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1716&head=2&eyes=4&body=2&grd=4&isl=1",
@@ -15459,7 +15459,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1718": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1718&head=4&eyes=2&body=5&grd=5&isl=1",
@@ -15477,7 +15477,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1720": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1720&head=3&eyes=1&body=10&grd=5&isl=1",
@@ -15504,7 +15504,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1723": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1723&head=2&eyes=3&body=4&grd=4&isl=2",
@@ -15513,7 +15513,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1724": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1724&head=1&eyes=2&body=4&grd=5&isl=3",
@@ -15522,7 +15522,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1725": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1725&head=1&eyes=4&body=5&grd=4&isl=1",
@@ -15540,7 +15540,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1727": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1727&head=3&eyes=1&body=7&grd=3&isl=2",
@@ -15549,7 +15549,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1728": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1728&head=8&eyes=2&body=2&grd=3&isl=2",
@@ -15558,7 +15558,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1729": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1729&head=7&eyes=2&body=6&grd=2&isl=2",
@@ -15567,7 +15567,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1730": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1730&head=3&eyes=1&body=6&grd=4&isl=2",
@@ -15576,7 +15576,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1731": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1731&head=2&eyes=2&body=4&grd=4&isl=2",
@@ -15585,7 +15585,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1732": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1732&head=8&eyes=3&body=7&grd=1&isl=1",
@@ -15612,7 +15612,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1735": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1735&head=7&eyes=4&body=4&grd=2&isl=1",
@@ -15630,7 +15630,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1737": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1737&head=1&eyes=4&body=9&grd=3&isl=1",
@@ -15648,7 +15648,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1739": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1739&head=1&eyes=2&body=10&grd=5&isl=1",
@@ -15666,7 +15666,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1741": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1741&head=5&eyes=1&body=5&grd=1&isl=3",
@@ -15675,7 +15675,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1742": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1742&head=1&eyes=3&body=5&grd=2&isl=3",
@@ -15684,7 +15684,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1743": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1743&head=4&eyes=2&body=5&grd=3&isl=1",
@@ -15702,7 +15702,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1745": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1745&head=2&eyes=3&body=7&grd=1&isl=2",
@@ -15711,7 +15711,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1746": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1746&head=3&eyes=2&body=13&grd=2&isl=2",
@@ -15720,7 +15720,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1747": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1747&head=6&eyes=2&body=9&grd=3&isl=3",
@@ -15729,7 +15729,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1748": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1748&head=1&eyes=3&body=7&grd=3&isl=1",
@@ -15747,7 +15747,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1750": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1750&head=4&eyes=3&body=2&grd=2&isl=3",
@@ -15756,7 +15756,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1751": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1751&head=6&eyes=2&body=2&grd=3&isl=2",
@@ -15765,7 +15765,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1752": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1752&head=2&eyes=4&body=2&grd=4&isl=2",
@@ -15774,7 +15774,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1753": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1753&head=6&eyes=3&body=3&grd=4&isl=1",
@@ -15792,7 +15792,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1755": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1755&head=4&eyes=4&body=3&grd=2&isl=2",
@@ -15801,7 +15801,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1756": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1756&head=7&eyes=2&body=2&grd=2&isl=1",
@@ -15819,7 +15819,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1758": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1758&head=2&eyes=1&body=5&grd=3&isl=1",
@@ -15864,7 +15864,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1763": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1763&head=1&eyes=1&body=2&grd=4&isl=1",
@@ -15882,7 +15882,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1765": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1765&head=4&eyes=3&body=9&grd=4&isl=1",
@@ -15900,7 +15900,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1767": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1767&head=4&eyes=2&body=8&grd=3&isl=1",
@@ -15927,7 +15927,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1770": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1770&head=3&eyes=1&body=4&grd=2&isl=2",
@@ -15936,7 +15936,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1771": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1771&head=8&eyes=1&body=1&grd=1&isl=3",
@@ -15945,7 +15945,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1772": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1772&head=4&eyes=2&body=12&grd=1&isl=1",
@@ -15963,7 +15963,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1774": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1774&head=7&eyes=1&body=13&grd=3&isl=1",
@@ -16017,7 +16017,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1780": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1780&head=5&eyes=2&body=13&grd=4&isl=1",
@@ -16035,7 +16035,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1782": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1782&head=2&eyes=2&body=4&grd=5&isl=2",
@@ -16044,7 +16044,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1783": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1783&head=3&eyes=2&body=4&grd=2&isl=2",
@@ -16053,7 +16053,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1784": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1784&head=6&eyes=1&body=3&grd=2&isl=2",
@@ -16062,7 +16062,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1785": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1785&head=3&eyes=3&body=1&grd=4&isl=2",
@@ -16071,7 +16071,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1786": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1786&head=5&eyes=2&body=11&grd=1&isl=2",
@@ -16080,7 +16080,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1787": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1787&head=1&eyes=2&body=1&grd=3&isl=2",
@@ -16089,7 +16089,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1788": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1788&head=3&eyes=2&body=11&grd=1&isl=2",
@@ -16098,7 +16098,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1789": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1789&head=8&eyes=1&body=1&grd=2&isl=2",
@@ -16107,7 +16107,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1790": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1790&head=8&eyes=1&body=7&grd=2&isl=2",
@@ -16116,7 +16116,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1791": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1791&head=6&eyes=2&body=5&grd=2&isl=2",
@@ -16125,7 +16125,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1792": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1792&head=4&eyes=4&body=7&grd=1&isl=1",
@@ -16143,7 +16143,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1794": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1794&head=3&eyes=3&body=2&grd=1&isl=2",
@@ -16152,7 +16152,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1795": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1795&head=5&eyes=1&body=11&grd=2&isl=1",
@@ -16170,7 +16170,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1797": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1797&head=7&eyes=1&body=4&grd=1&isl=2",
@@ -16179,7 +16179,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1798": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1798&head=6&eyes=1&body=3&grd=3&isl=1",
@@ -16197,7 +16197,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1800": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1800&head=8&eyes=2&body=9&grd=5&isl=2",
@@ -16206,7 +16206,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1801": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1801&head=6&eyes=2&body=9&grd=4&isl=2",
@@ -16215,7 +16215,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1802": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1802&head=6&eyes=2&body=2&grd=4&isl=1",
@@ -16278,7 +16278,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1809": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1809&head=1&eyes=3&body=3&grd=4&isl=3",
@@ -16287,7 +16287,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1810": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1810&head=3&eyes=3&body=1&grd=5&isl=2",
@@ -16296,7 +16296,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1811": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1811&head=7&eyes=1&body=5&grd=5&isl=1",
@@ -16314,7 +16314,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1813": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1813&head=3&eyes=1&body=8&grd=1&isl=3",
@@ -16323,7 +16323,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1814": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1814&head=3&eyes=1&body=2&grd=2&isl=2",
@@ -16332,7 +16332,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1815": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1815&head=4&eyes=1&body=8&grd=3&isl=2",
@@ -16341,7 +16341,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1816": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1816&head=1&eyes=3&body=9&grd=3&isl=3",
@@ -16350,7 +16350,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1817": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1817&head=7&eyes=3&body=4&grd=3&isl=2",
@@ -16359,7 +16359,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1818": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1818&head=4&eyes=4&body=3&grd=1&isl=1",
@@ -16377,7 +16377,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1820": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1820&head=6&eyes=1&body=8&grd=3&isl=1",
@@ -16395,7 +16395,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1822": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1822&head=4&eyes=2&body=5&grd=4&isl=2",
@@ -16404,7 +16404,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1823": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1823&head=2&eyes=3&body=12&grd=5&isl=1",
@@ -16422,7 +16422,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1825": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1825&head=3&eyes=3&body=10&grd=1&isl=2",
@@ -16431,7 +16431,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1826": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1826&head=6&eyes=2&body=3&grd=3&isl=3",
@@ -16440,7 +16440,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1827": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1827&head=1&eyes=2&body=6&grd=3&isl=1",
@@ -16458,7 +16458,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1829": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1829&head=3&eyes=3&body=5&grd=1&isl=2",
@@ -16467,7 +16467,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1830": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1830&head=1&eyes=1&body=7&grd=5&isl=1",
@@ -16485,7 +16485,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1832": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1832&head=5&eyes=3&body=1&grd=2&isl=2",
@@ -16494,7 +16494,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1833": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1833&head=8&eyes=2&body=8&grd=3&isl=1",
@@ -16521,7 +16521,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1836": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1836&head=2&eyes=2&body=6&grd=5&isl=1",
@@ -16539,7 +16539,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1838": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1838&head=5&eyes=2&body=5&grd=3&isl=2",
@@ -16548,7 +16548,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1839": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1839&head=4&eyes=1&body=6&grd=1&isl=1",
@@ -16566,7 +16566,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1841": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1841&head=6&eyes=3&body=8&grd=4&isl=1",
@@ -16584,7 +16584,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1843": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1843&head=1&eyes=3&body=3&grd=5&isl=1",
@@ -16611,7 +16611,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1846": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1846&head=1&eyes=4&body=3&grd=4&isl=1",
@@ -16638,7 +16638,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1849": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1849&head=3&eyes=4&body=2&grd=3&isl=1",
@@ -16665,7 +16665,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1852": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1852&head=7&eyes=1&body=3&grd=5&isl=1",
@@ -16701,7 +16701,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1856": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1856&head=7&eyes=4&body=11&grd=1&isl=1",
@@ -16719,7 +16719,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1858": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1858&head=3&eyes=3&body=8&grd=5&isl=1",
@@ -16737,7 +16737,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1860": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1860&head=3&eyes=4&body=7&grd=2&isl=1",
@@ -16773,7 +16773,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1864": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1864&head=2&eyes=4&body=4&grd=3&isl=2",
@@ -16782,7 +16782,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1865": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1865&head=1&eyes=4&body=4&grd=1&isl=2",
@@ -16791,7 +16791,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1866": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1866&head=2&eyes=3&body=10&grd=2&isl=1",
@@ -16809,7 +16809,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1868": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1868&head=7&eyes=1&body=5&grd=2&isl=1",
@@ -16827,7 +16827,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1870": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1870&head=4&eyes=3&body=7&grd=4&isl=1",
@@ -16845,7 +16845,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1872": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1872&head=2&eyes=2&body=12&grd=1&isl=3",
@@ -16854,7 +16854,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1873": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1873&head=1&eyes=1&body=1&grd=3&isl=1",
@@ -16872,7 +16872,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1875": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1875&head=1&eyes=4&body=9&grd=5&isl=2",
@@ -16881,7 +16881,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1876": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1876&head=3&eyes=2&body=4&grd=2&isl=3",
@@ -16890,7 +16890,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1877": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1877&head=8&eyes=3&body=2&grd=3&isl=2",
@@ -16899,7 +16899,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1878": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1878&head=6&eyes=3&body=4&grd=2&isl=1",
@@ -16917,7 +16917,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1880": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1880&head=8&eyes=2&body=8&grd=2&isl=3",
@@ -16926,7 +16926,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1881": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1881&head=5&eyes=2&body=4&grd=1&isl=3",
@@ -16935,7 +16935,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1882": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1882&head=2&eyes=3&body=1&grd=1&isl=2",
@@ -16944,7 +16944,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1883": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1883&head=7&eyes=4&body=3&grd=4&isl=2",
@@ -16953,7 +16953,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1884": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1884&head=2&eyes=2&body=8&grd=1&isl=3",
@@ -16962,7 +16962,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1885": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1885&head=5&eyes=1&body=10&grd=1&isl=3",
@@ -16971,7 +16971,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1886": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1886&head=8&eyes=1&body=2&grd=2&isl=1",
@@ -16998,7 +16998,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1889": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1889&head=4&eyes=4&body=5&grd=1&isl=1",
@@ -17016,7 +17016,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1891": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1891&head=2&eyes=1&body=8&grd=5&isl=1",
@@ -17034,7 +17034,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1893": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1893&head=1&eyes=3&body=6&grd=1&isl=2",
@@ -17043,7 +17043,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1894": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1894&head=5&eyes=1&body=9&grd=2&isl=2",
@@ -17052,7 +17052,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1895": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1895&head=2&eyes=1&body=3&grd=1&isl=3",
@@ -17061,7 +17061,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1896": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1896&head=1&eyes=4&body=5&grd=1&isl=2",
@@ -17070,7 +17070,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1897": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1897&head=2&eyes=4&body=4&grd=4&isl=3",
@@ -17079,7 +17079,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1898": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1898&head=3&eyes=1&body=4&grd=4&isl=1",
@@ -17097,7 +17097,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1900": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1900&head=3&eyes=3&body=3&grd=2&isl=2",
@@ -17106,7 +17106,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1901": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1901&head=1&eyes=3&body=1&grd=3&isl=1",
@@ -17124,7 +17124,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1903": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1903&head=1&eyes=4&body=11&grd=3&isl=1",
@@ -17151,7 +17151,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1906": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1906&head=4&eyes=1&body=11&grd=5&isl=2",
@@ -17160,7 +17160,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1907": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1907&head=5&eyes=2&body=4&grd=2&isl=3",
@@ -17169,7 +17169,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1908": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1908&head=1&eyes=2&body=1&grd=5&isl=3",
@@ -17178,7 +17178,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1909": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1909&head=8&eyes=1&body=7&grd=4&isl=1",
@@ -17196,7 +17196,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1911": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1911&head=4&eyes=1&body=8&grd=1&isl=3",
@@ -17205,7 +17205,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1912": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1912&head=4&eyes=2&body=3&grd=1&isl=3",
@@ -17214,7 +17214,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1913": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1913&head=4&eyes=3&body=10&grd=4&isl=3",
@@ -17223,7 +17223,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1914": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1914&head=5&eyes=1&body=11&grd=4&isl=3",
@@ -17232,7 +17232,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1915": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1915&head=1&eyes=1&body=9&grd=5&isl=3",
@@ -17241,7 +17241,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1916": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1916&head=2&eyes=1&body=3&grd=2&isl=3",
@@ -17250,7 +17250,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1917": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1917&head=4&eyes=3&body=4&grd=4&isl=3",
@@ -17259,7 +17259,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1918": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1918&head=7&eyes=2&body=6&grd=1&isl=1",
@@ -17277,7 +17277,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1920": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1920&head=8&eyes=1&body=7&grd=1&isl=3",
@@ -17286,7 +17286,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1921": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1921&head=3&eyes=1&body=8&grd=2&isl=3",
@@ -17295,7 +17295,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1922": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1922&head=1&eyes=2&body=11&grd=1&isl=1",
@@ -17313,7 +17313,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1924": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1924&head=4&eyes=2&body=5&grd=1&isl=1",
@@ -17331,7 +17331,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1926": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1926&head=6&eyes=1&body=6&grd=5&isl=2",
@@ -17340,7 +17340,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1927": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1927&head=2&eyes=2&body=5&grd=3&isl=1",
@@ -17367,7 +17367,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1930": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1930&head=1&eyes=2&body=5&grd=4&isl=1",
@@ -17394,7 +17394,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1933": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1933&head=1&eyes=4&body=6&grd=2&isl=1",
@@ -17412,7 +17412,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1935": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1935&head=4&eyes=1&body=9&grd=4&isl=2",
@@ -17421,7 +17421,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1936": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1936&head=4&eyes=1&body=8&grd=4&isl=1",
@@ -17448,7 +17448,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1939": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1939&head=1&eyes=3&body=12&grd=2&isl=1",
@@ -17466,7 +17466,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1941": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1941&head=1&eyes=2&body=13&grd=5&isl=2",
@@ -17475,7 +17475,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1942": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1942&head=3&eyes=1&body=11&grd=3&isl=1",
@@ -17493,7 +17493,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1944": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1944&head=1&eyes=3&body=4&grd=4&isl=1",
@@ -17529,7 +17529,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1948": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1948&head=6&eyes=2&body=7&grd=3&isl=2",
@@ -17538,7 +17538,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1949": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1949&head=5&eyes=2&body=7&grd=2&isl=2",
@@ -17547,7 +17547,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1950": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1950&head=1&eyes=4&body=1&grd=1&isl=1",
@@ -17565,7 +17565,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1952": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1952&head=3&eyes=1&body=5&grd=5&isl=1",
@@ -17619,7 +17619,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1958": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1958&head=6&eyes=3&body=6&grd=3&isl=2",
@@ -17628,7 +17628,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1959": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1959&head=4&eyes=3&body=2&grd=4&isl=3",
@@ -17637,7 +17637,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1960": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1960&head=6&eyes=2&body=2&grd=3&isl=3",
@@ -17646,7 +17646,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1961": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1961&head=2&eyes=4&body=2&grd=3&isl=1",
@@ -17709,7 +17709,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1968": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1968&head=6&eyes=2&body=5&grd=1&isl=2",
@@ -17718,7 +17718,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1969": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1969&head=5&eyes=2&body=5&grd=2&isl=1",
@@ -17736,7 +17736,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1971": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1971&head=2&eyes=2&body=1&grd=4&isl=3",
@@ -17745,7 +17745,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1972": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1972&head=5&eyes=3&body=3&grd=2&isl=2",
@@ -17754,7 +17754,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1973": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1973&head=6&eyes=4&body=1&grd=4&isl=1",
@@ -17772,7 +17772,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1975": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1975&head=2&eyes=1&body=12&grd=2&isl=2",
@@ -17781,7 +17781,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1976": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1976&head=7&eyes=2&body=6&grd=3&isl=2",
@@ -17790,7 +17790,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1977": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1977&head=6&eyes=2&body=8&grd=2&isl=2",
@@ -17799,7 +17799,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1978": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1978&head=5&eyes=1&body=11&grd=1&isl=3",
@@ -17808,7 +17808,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1979": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1979&head=3&eyes=1&body=11&grd=4&isl=1",
@@ -17835,7 +17835,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1982": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1982&head=1&eyes=4&body=7&grd=5&isl=1",
@@ -17862,7 +17862,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1985": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1985&head=1&eyes=2&body=10&grd=2&isl=1",
@@ -17889,7 +17889,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1988": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1988&head=2&eyes=4&body=1&grd=3&isl=1",
@@ -17925,7 +17925,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "1992": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1992&head=7&eyes=3&body=11&grd=1&isl=1",
@@ -17961,7 +17961,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1996": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1996&head=1&eyes=1&body=10&grd=5&isl=1",
@@ -17988,7 +17988,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "1999": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=1999&head=2&eyes=2&body=5&grd=4&isl=3",
@@ -17997,7 +17997,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2000": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2000&head=1&eyes=1&body=11&grd=5&isl=3",
@@ -18006,7 +18006,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2001": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2001&head=3&eyes=3&body=9&grd=1&isl=3",
@@ -18015,7 +18015,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2002": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2002&head=6&eyes=3&body=2&grd=5&isl=3",
@@ -18024,7 +18024,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2003": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2003&head=1&eyes=3&body=6&grd=5&isl=1",
@@ -18042,7 +18042,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2005": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2005&head=3&eyes=1&body=6&grd=3&isl=3",
@@ -18051,7 +18051,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2006": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2006&head=3&eyes=1&body=5&grd=2&isl=3",
@@ -18060,7 +18060,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2007": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2007&head=4&eyes=3&body=10&grd=5&isl=1",
@@ -18078,7 +18078,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2009": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2009&head=7&eyes=1&body=2&grd=3&isl=2",
@@ -18087,7 +18087,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2010": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2010&head=8&eyes=1&body=7&grd=5&isl=2",
@@ -18096,7 +18096,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2011": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2011&head=2&eyes=4&body=11&grd=1&isl=3",
@@ -18105,7 +18105,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2012": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2012&head=2&eyes=4&body=4&grd=4&isl=2",
@@ -18114,7 +18114,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2013": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2013&head=4&eyes=2&body=6&grd=2&isl=3",
@@ -18123,7 +18123,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2014": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2014&head=3&eyes=2&body=1&grd=3&isl=1",
@@ -18150,7 +18150,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2017": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2017&head=8&eyes=3&body=8&grd=2&isl=3",
@@ -18159,7 +18159,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2018": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2018&head=1&eyes=2&body=7&grd=4&isl=1",
@@ -18231,7 +18231,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2026": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2026&head=2&eyes=2&body=3&grd=1&isl=3",
@@ -18240,7 +18240,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2027": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2027&head=4&eyes=1&body=6&grd=5&isl=2",
@@ -18249,7 +18249,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2028": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2028&head=8&eyes=1&body=9&grd=3&isl=3",
@@ -18258,7 +18258,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2029": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2029&head=4&eyes=3&body=1&grd=4&isl=1",
@@ -18285,7 +18285,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2032": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2032&head=2&eyes=1&body=2&grd=4&isl=2",
@@ -18294,7 +18294,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2033": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2033&head=7&eyes=1&body=5&grd=1&isl=2",
@@ -18303,7 +18303,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2034": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2034&head=3&eyes=3&body=7&grd=3&isl=1",
@@ -18321,7 +18321,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2036": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2036&head=4&eyes=1&body=7&grd=5&isl=2",
@@ -18330,7 +18330,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2037": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2037&head=1&eyes=3&body=2&grd=4&isl=2",
@@ -18339,7 +18339,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2038": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2038&head=3&eyes=4&body=13&grd=3&isl=2",
@@ -18348,7 +18348,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2039": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2039&head=6&eyes=1&body=5&grd=4&isl=2",
@@ -18357,7 +18357,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2040": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2040&head=2&eyes=1&body=9&grd=2&isl=2",
@@ -18366,7 +18366,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2041": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2041&head=8&eyes=2&body=10&grd=2&isl=2",
@@ -18375,7 +18375,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2042": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2042&head=6&eyes=2&body=4&grd=3&isl=2",
@@ -18384,7 +18384,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2043": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2043&head=5&eyes=3&body=6&grd=4&isl=1",
@@ -18411,7 +18411,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2046": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2046&head=3&eyes=2&body=6&grd=5&isl=1",
@@ -18429,7 +18429,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2048": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2048&head=8&eyes=1&body=13&grd=3&isl=2",
@@ -18438,7 +18438,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2049": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2049&head=2&eyes=4&body=3&grd=3&isl=1",
@@ -18456,7 +18456,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2051": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2051&head=1&eyes=1&body=13&grd=2&isl=2",
@@ -18465,7 +18465,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2052": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2052&head=5&eyes=2&body=9&grd=1&isl=3",
@@ -18474,7 +18474,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2053": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2053&head=1&eyes=3&body=5&grd=1&isl=1",
@@ -18492,7 +18492,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2055": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2055&head=1&eyes=1&body=9&grd=2&isl=3",
@@ -18501,7 +18501,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2056": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2056&head=1&eyes=3&body=9&grd=1&isl=1",
@@ -18519,7 +18519,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2058": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2058&head=3&eyes=1&body=11&grd=3&isl=3",
@@ -18528,7 +18528,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2059": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2059&head=2&eyes=4&body=5&grd=1&isl=2",
@@ -18537,7 +18537,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2060": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2060&head=4&eyes=1&body=1&grd=5&isl=3",
@@ -18546,7 +18546,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2061": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2061&head=2&eyes=4&body=2&grd=2&isl=1",
@@ -18573,7 +18573,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2064": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2064&head=3&eyes=2&body=9&grd=2&isl=3",
@@ -18582,7 +18582,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2065": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2065&head=6&eyes=2&body=8&grd=5&isl=1",
@@ -18600,7 +18600,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2067": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2067&head=7&eyes=1&body=1&grd=4&isl=1",
@@ -18618,7 +18618,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2069": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2069&head=1&eyes=2&body=12&grd=2&isl=2",
@@ -18627,7 +18627,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2070": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2070&head=6&eyes=3&body=5&grd=2&isl=2",
@@ -18636,7 +18636,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2071": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2071&head=2&eyes=4&body=6&grd=2&isl=1",
@@ -18654,7 +18654,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2073": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2073&head=7&eyes=3&body=5&grd=2&isl=1",
@@ -18672,7 +18672,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2075": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2075&head=6&eyes=2&body=4&grd=4&isl=2",
@@ -18681,7 +18681,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2076": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2076&head=4&eyes=1&body=8&grd=5&isl=1",
@@ -18699,7 +18699,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2078": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2078&head=4&eyes=1&body=6&grd=1&isl=3",
@@ -18708,7 +18708,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2079": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2079&head=7&eyes=2&body=8&grd=4&isl=1",
@@ -18726,7 +18726,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2081": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2081&head=6&eyes=1&body=10&grd=3&isl=2",
@@ -18735,7 +18735,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2082": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2082&head=6&eyes=1&body=10&grd=4&isl=2",
@@ -18744,7 +18744,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2083": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2083&head=2&eyes=2&body=1&grd=1&isl=3",
@@ -18753,7 +18753,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2084": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2084&head=3&eyes=3&body=3&grd=4&isl=2",
@@ -18762,7 +18762,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2085": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2085&head=1&eyes=1&body=12&grd=2&isl=2",
@@ -18771,7 +18771,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2086": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2086&head=6&eyes=1&body=3&grd=3&isl=2",
@@ -18780,7 +18780,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2087": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2087&head=8&eyes=3&body=3&grd=2&isl=1",
@@ -18798,7 +18798,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2089": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2089&head=2&eyes=1&body=7&grd=3&isl=1",
@@ -18816,7 +18816,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2091": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2091&head=7&eyes=3&body=2&grd=5&isl=2",
@@ -18825,7 +18825,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2092": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2092&head=2&eyes=4&body=4&grd=5&isl=1",
@@ -18843,7 +18843,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2094": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2094&head=6&eyes=3&body=1&grd=1&isl=2",
@@ -18852,7 +18852,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2095": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2095&head=1&eyes=1&body=3&grd=3&isl=1",
@@ -18870,7 +18870,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2097": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2097&head=1&eyes=1&body=11&grd=3&isl=1",
@@ -18906,7 +18906,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2101": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2101&head=2&eyes=4&body=10&grd=4&isl=2",
@@ -18915,7 +18915,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2102": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2102&head=2&eyes=3&body=4&grd=4&isl=1",
@@ -18942,7 +18942,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2105": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2105&head=2&eyes=3&body=9&grd=2&isl=2",
@@ -18951,7 +18951,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2106": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2106&head=2&eyes=4&body=4&grd=1&isl=1",
@@ -18969,7 +18969,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2108": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2108&head=8&eyes=3&body=1&grd=2&isl=2",
@@ -18978,7 +18978,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2109": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2109&head=3&eyes=4&body=1&grd=2&isl=2",
@@ -18987,7 +18987,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2110": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2110&head=6&eyes=2&body=6&grd=2&isl=1",
@@ -19005,7 +19005,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2112": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2112&head=2&eyes=3&body=5&grd=1&isl=3",
@@ -19014,7 +19014,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2113": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2113&head=2&eyes=1&body=9&grd=4&isl=1",
@@ -19032,7 +19032,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2115": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2115&head=8&eyes=2&body=2&grd=3&isl=3",
@@ -19041,7 +19041,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2116": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2116&head=5&eyes=1&body=6&grd=2&isl=3",
@@ -19050,7 +19050,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2117": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2117&head=3&eyes=3&body=1&grd=4&isl=1",
@@ -19068,7 +19068,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2119": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2119&head=6&eyes=1&body=1&grd=4&isl=2",
@@ -19077,7 +19077,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2120": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2120&head=8&eyes=2&body=1&grd=4&isl=2",
@@ -19086,7 +19086,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2121": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2121&head=4&eyes=1&body=6&grd=3&isl=1",
@@ -19104,7 +19104,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2123": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2123&head=1&eyes=2&body=3&grd=1&isl=3",
@@ -19113,7 +19113,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2124": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2124&head=4&eyes=3&body=1&grd=3&isl=1",
@@ -19131,7 +19131,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2126": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2126&head=3&eyes=1&body=2&grd=4&isl=1",
@@ -19149,7 +19149,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2128": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2128&head=6&eyes=2&body=10&grd=2&isl=2",
@@ -19158,7 +19158,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2129": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2129&head=2&eyes=3&body=7&grd=4&isl=1",
@@ -19176,7 +19176,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2131": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2131&head=5&eyes=3&body=6&grd=1&isl=1",
@@ -19221,7 +19221,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2136": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2136&head=4&eyes=4&body=5&grd=2&isl=1",
@@ -19239,7 +19239,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2138": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2138&head=8&eyes=1&body=12&grd=2&isl=2",
@@ -19248,7 +19248,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2139": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2139&head=3&eyes=1&body=3&grd=4&isl=2",
@@ -19257,7 +19257,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2140": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2140&head=3&eyes=3&body=5&grd=4&isl=1",
@@ -19284,7 +19284,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2143": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2143&head=5&eyes=1&body=13&grd=4&isl=1",
@@ -19302,7 +19302,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2145": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2145&head=4&eyes=4&body=9&grd=1&isl=3",
@@ -19311,7 +19311,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2146": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2146&head=4&eyes=2&body=11&grd=5&isl=1",
@@ -19329,7 +19329,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2148": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2148&head=5&eyes=2&body=2&grd=1&isl=1",
@@ -19347,7 +19347,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2150": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2150&head=5&eyes=3&body=7&grd=1&isl=1",
@@ -19392,7 +19392,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2155": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2155&head=5&eyes=3&body=12&grd=3&isl=1",
@@ -19410,7 +19410,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2157": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2157&head=1&eyes=3&body=6&grd=3&isl=1",
@@ -19428,7 +19428,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2159": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2159&head=5&eyes=3&body=1&grd=5&isl=1",
@@ -19446,7 +19446,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2161": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2161&head=8&eyes=4&body=4&grd=2&isl=3",
@@ -19455,7 +19455,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2162": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2162&head=7&eyes=2&body=10&grd=1&isl=1",
@@ -19473,7 +19473,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2164": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2164&head=1&eyes=2&body=11&grd=5&isl=1",
@@ -19491,7 +19491,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2166": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2166&head=5&eyes=4&body=8&grd=1&isl=2",
@@ -19500,7 +19500,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2167": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2167&head=1&eyes=1&body=3&grd=3&isl=3",
@@ -19509,7 +19509,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2168": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2168&head=1&eyes=1&body=5&grd=5&isl=1",
@@ -19527,7 +19527,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2170": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2170&head=6&eyes=1&body=9&grd=2&isl=2",
@@ -19536,7 +19536,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2171": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2171&head=3&eyes=1&body=11&grd=5&isl=3",
@@ -19545,7 +19545,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2172": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2172&head=2&eyes=1&body=12&grd=2&isl=3",
@@ -19554,7 +19554,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2173": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2173&head=6&eyes=2&body=6&grd=4&isl=1",
@@ -19590,7 +19590,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2177": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2177&head=1&eyes=1&body=6&grd=5&isl=2",
@@ -19599,7 +19599,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2178": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2178&head=5&eyes=2&body=12&grd=3&isl=1",
@@ -19644,7 +19644,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2183": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2183&head=6&eyes=1&body=9&grd=3&isl=1",
@@ -19662,7 +19662,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2185": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2185&head=4&eyes=1&body=2&grd=2&isl=2",
@@ -19671,7 +19671,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2186": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2186&head=7&eyes=1&body=9&grd=1&isl=1",
@@ -19689,7 +19689,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2188": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2188&head=2&eyes=3&body=3&grd=5&isl=1",
@@ -19716,7 +19716,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2191": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2191&head=2&eyes=3&body=7&grd=2&isl=1",
@@ -19734,7 +19734,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2193": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2193&head=2&eyes=4&body=7&grd=4&isl=2",
@@ -19743,7 +19743,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2194": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2194&head=1&eyes=4&body=4&grd=1&isl=1",
@@ -19761,7 +19761,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2196": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2196&head=6&eyes=1&body=1&grd=4&isl=3",
@@ -19770,7 +19770,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2197": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2197&head=6&eyes=3&body=8&grd=2&isl=3",
@@ -19779,7 +19779,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2198": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2198&head=2&eyes=3&body=1&grd=2&isl=3",
@@ -19788,7 +19788,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2199": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2199&head=2&eyes=2&body=7&grd=3&isl=3",
@@ -19797,7 +19797,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2200": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2200&head=1&eyes=1&body=12&grd=3&isl=2",
@@ -19806,7 +19806,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2201": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2201&head=1&eyes=2&body=2&grd=4&isl=2",
@@ -19815,7 +19815,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2202": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2202&head=5&eyes=3&body=8&grd=1&isl=2",
@@ -19824,7 +19824,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2203": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2203&head=8&eyes=1&body=2&grd=4&isl=1",
@@ -19842,7 +19842,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2205": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2205&head=1&eyes=1&body=4&grd=4&isl=2",
@@ -19851,7 +19851,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2206": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2206&head=1&eyes=4&body=8&grd=4&isl=1",
@@ -19896,7 +19896,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2211": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2211&head=4&eyes=4&body=7&grd=3&isl=2",
@@ -19905,7 +19905,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2212": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2212&head=4&eyes=2&body=1&grd=3&isl=3",
@@ -19914,7 +19914,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2213": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2213&head=4&eyes=2&body=5&grd=2&isl=1",
@@ -19941,7 +19941,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2216": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2216&head=7&eyes=4&body=8&grd=4&isl=1",
@@ -19959,7 +19959,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2218": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2218&head=2&eyes=1&body=6&grd=2&isl=3",
@@ -19968,7 +19968,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2219": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2219&head=3&eyes=1&body=7&grd=4&isl=2",
@@ -19977,7 +19977,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2220": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2220&head=1&eyes=2&body=4&grd=4&isl=1",
@@ -20004,7 +20004,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2223": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2223&head=7&eyes=1&body=1&grd=3&isl=1",
@@ -20058,7 +20058,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2229": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2229&head=3&eyes=2&body=4&grd=1&isl=3",
@@ -20067,7 +20067,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2230": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2230&head=3&eyes=3&body=8&grd=2&isl=1",
@@ -20085,7 +20085,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2232": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2232&head=2&eyes=4&body=8&grd=2&isl=2",
@@ -20094,7 +20094,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2233": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2233&head=3&eyes=3&body=2&grd=4&isl=1",
@@ -20112,7 +20112,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2235": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2235&head=3&eyes=2&body=2&grd=1&isl=1",
@@ -20130,7 +20130,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2237": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2237&head=1&eyes=2&body=12&grd=3&isl=2",
@@ -20139,7 +20139,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2238": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2238&head=6&eyes=4&body=7&grd=3&isl=2",
@@ -20148,7 +20148,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2239": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2239&head=1&eyes=3&body=2&grd=2&isl=3",
@@ -20157,7 +20157,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2240": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2240&head=2&eyes=3&body=10&grd=3&isl=1",
@@ -20175,7 +20175,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2242": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2242&head=6&eyes=1&body=7&grd=4&isl=1",
@@ -20193,7 +20193,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2244": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2244&head=5&eyes=2&body=11&grd=5&isl=3",
@@ -20202,7 +20202,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2245": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2245&head=5&eyes=1&body=12&grd=3&isl=3",
@@ -20211,7 +20211,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2246": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2246&head=6&eyes=4&body=7&grd=1&isl=3",
@@ -20220,7 +20220,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2247": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2247&head=2&eyes=2&body=12&grd=4&isl=3",
@@ -20229,7 +20229,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2248": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2248&head=4&eyes=3&body=6&grd=2&isl=2",
@@ -20238,7 +20238,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2249": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2249&head=5&eyes=1&body=10&grd=1&isl=1",
@@ -20256,7 +20256,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2251": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2251&head=3&eyes=2&body=2&grd=4&isl=2",
@@ -20265,7 +20265,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2252": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2252&head=3&eyes=2&body=10&grd=4&isl=3",
@@ -20274,7 +20274,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2253": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2253&head=2&eyes=4&body=7&grd=1&isl=1",
@@ -20292,7 +20292,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2255": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2255&head=1&eyes=2&body=12&grd=1&isl=3",
@@ -20301,7 +20301,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2256": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2256&head=7&eyes=1&body=1&grd=4&isl=2",
@@ -20310,7 +20310,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2257": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2257&head=2&eyes=2&body=8&grd=1&isl=1",
@@ -20328,7 +20328,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2259": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2259&head=3&eyes=2&body=4&grd=3&isl=2",
@@ -20337,7 +20337,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2260": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2260&head=6&eyes=1&body=11&grd=5&isl=1",
@@ -20355,7 +20355,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2262": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2262&head=3&eyes=1&body=11&grd=1&isl=2",
@@ -20364,7 +20364,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2263": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2263&head=3&eyes=3&body=1&grd=5&isl=1",
@@ -20391,7 +20391,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2266": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2266&head=5&eyes=1&body=9&grd=5&isl=3",
@@ -20400,7 +20400,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2267": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2267&head=1&eyes=4&body=6&grd=1&isl=3",
@@ -20409,7 +20409,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2268": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2268&head=7&eyes=1&body=7&grd=2&isl=2",
@@ -20418,7 +20418,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2269": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2269&head=3&eyes=3&body=5&grd=2&isl=1",
@@ -20436,7 +20436,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2271": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2271&head=5&eyes=3&body=2&grd=2&isl=2",
@@ -20445,7 +20445,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2272": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2272&head=6&eyes=4&body=5&grd=1&isl=3",
@@ -20454,7 +20454,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2273": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2273&head=1&eyes=1&body=10&grd=5&isl=2",
@@ -20463,7 +20463,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2274": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2274&head=8&eyes=4&body=11&grd=3&isl=2",
@@ -20472,7 +20472,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2275": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2275&head=1&eyes=4&body=8&grd=3&isl=2",
@@ -20481,7 +20481,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2276": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2276&head=1&eyes=2&body=3&grd=4&isl=2",
@@ -20490,7 +20490,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2277": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2277&head=1&eyes=3&body=7&grd=5&isl=2",
@@ -20499,7 +20499,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2278": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2278&head=3&eyes=2&body=2&grd=1&isl=3",
@@ -20508,7 +20508,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2279": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2279&head=4&eyes=4&body=8&grd=4&isl=3",
@@ -20517,7 +20517,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2280": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2280&head=8&eyes=1&body=1&grd=5&isl=1",
@@ -20535,7 +20535,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2282": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2282&head=4&eyes=3&body=12&grd=2&isl=1",
@@ -20562,7 +20562,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2285": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2285&head=7&eyes=2&body=7&grd=2&isl=1",
@@ -20580,7 +20580,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2287": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2287&head=7&eyes=1&body=7&grd=1&isl=2",
@@ -20589,7 +20589,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2288": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2288&head=3&eyes=1&body=5&grd=4&isl=1",
@@ -20607,7 +20607,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2290": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2290&head=7&eyes=3&body=2&grd=3&isl=3",
@@ -20616,7 +20616,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2291": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2291&head=2&eyes=4&body=5&grd=3&isl=1",
@@ -20652,7 +20652,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2295": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2295&head=4&eyes=3&body=2&grd=1&isl=3",
@@ -20661,7 +20661,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2296": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2296&head=3&eyes=4&body=6&grd=2&isl=1",
@@ -20679,7 +20679,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2298": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2298&head=1&eyes=4&body=9&grd=2&isl=1",
@@ -20706,7 +20706,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2301": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2301&head=6&eyes=4&body=5&grd=2&isl=3",
@@ -20715,7 +20715,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2302": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2302&head=5&eyes=4&body=4&grd=3&isl=1",
@@ -20733,7 +20733,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2304": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2304&head=7&eyes=2&body=1&grd=3&isl=1",
@@ -20751,7 +20751,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2306": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2306&head=7&eyes=2&body=4&grd=3&isl=1",
@@ -20769,7 +20769,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2308": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2308&head=1&eyes=2&body=6&grd=5&isl=3",
@@ -20778,7 +20778,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2309": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2309&head=7&eyes=2&body=1&grd=4&isl=1",
@@ -20796,7 +20796,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2311": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2311&head=5&eyes=1&body=2&grd=3&isl=3",
@@ -20805,7 +20805,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2312": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2312&head=7&eyes=2&body=5&grd=3&isl=3",
@@ -20814,7 +20814,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2313": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2313&head=2&eyes=3&body=7&grd=3&isl=3",
@@ -20823,7 +20823,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2314": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2314&head=1&eyes=1&body=10&grd=1&isl=3",
@@ -20832,7 +20832,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2315": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2315&head=6&eyes=1&body=8&grd=1&isl=3",
@@ -20841,7 +20841,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2316": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2316&head=3&eyes=4&body=10&grd=1&isl=2",
@@ -20850,7 +20850,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2317": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2317&head=6&eyes=3&body=5&grd=3&isl=1",
@@ -20868,7 +20868,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2319": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2319&head=2&eyes=2&body=12&grd=2&isl=1",
@@ -20886,7 +20886,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2321": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2321&head=5&eyes=3&body=6&grd=1&isl=3",
@@ -20895,7 +20895,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2322": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2322&head=6&eyes=3&body=3&grd=2&isl=1",
@@ -20913,7 +20913,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2324": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2324&head=2&eyes=1&body=6&grd=2&isl=2",
@@ -20922,7 +20922,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2325": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2325&head=6&eyes=1&body=4&grd=4&isl=3",
@@ -20931,7 +20931,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2326": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2326&head=2&eyes=3&body=10&grd=2&isl=2",
@@ -20940,7 +20940,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2327": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2327&head=2&eyes=1&body=10&grd=4&isl=2",
@@ -20949,7 +20949,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2328": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2328&head=8&eyes=2&body=2&grd=1&isl=3",
@@ -20958,7 +20958,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2329": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2329&head=6&eyes=1&body=11&grd=3&isl=3",
@@ -20967,7 +20967,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2330": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2330&head=8&eyes=1&body=9&grd=1&isl=1",
@@ -20985,7 +20985,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2332": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2332&head=3&eyes=2&body=5&grd=2&isl=1",
@@ -21003,7 +21003,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2334": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2334&head=7&eyes=3&body=3&grd=2&isl=1",
@@ -21039,7 +21039,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2338": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2338&head=2&eyes=4&body=13&grd=3&isl=2",
@@ -21048,7 +21048,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2339": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2339&head=4&eyes=4&body=1&grd=4&isl=1",
@@ -21075,7 +21075,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2342": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2342&head=6&eyes=2&body=5&grd=3&isl=3",
@@ -21084,7 +21084,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2343": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2343&head=4&eyes=2&body=9&grd=4&isl=1",
@@ -21102,7 +21102,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2345": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2345&head=7&eyes=2&body=7&grd=5&isl=1",
@@ -21120,7 +21120,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2347": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2347&head=4&eyes=4&body=11&grd=3&isl=1",
@@ -21138,7 +21138,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2349": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2349&head=6&eyes=1&body=4&grd=4&isl=1",
@@ -21156,7 +21156,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2351": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2351&head=1&eyes=4&body=4&grd=3&isl=1",
@@ -21174,7 +21174,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2353": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2353&head=5&eyes=4&body=2&grd=2&isl=1",
@@ -21210,7 +21210,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2357": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2357&head=1&eyes=4&body=10&grd=4&isl=1",
@@ -21228,7 +21228,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2359": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2359&head=4&eyes=2&body=8&grd=1&isl=1",
@@ -21246,7 +21246,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2361": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2361&head=2&eyes=1&body=7&grd=4&isl=1",
@@ -21273,7 +21273,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2364": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2364&head=2&eyes=4&body=7&grd=2&isl=1",
@@ -21291,7 +21291,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2366": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2366&head=3&eyes=2&body=9&grd=1&isl=3",
@@ -21300,7 +21300,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2367": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2367&head=5&eyes=1&body=4&grd=5&isl=1",
@@ -21318,7 +21318,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2369": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2369&head=2&eyes=1&body=11&grd=5&isl=2",
@@ -21327,7 +21327,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2370": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2370&head=6&eyes=1&body=4&grd=1&isl=1",
@@ -21345,7 +21345,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2372": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2372&head=4&eyes=3&body=5&grd=5&isl=2",
@@ -21354,7 +21354,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2373": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2373&head=1&eyes=1&body=11&grd=2&isl=1",
@@ -21372,7 +21372,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2375": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2375&head=3&eyes=3&body=12&grd=1&isl=1",
@@ -21390,7 +21390,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2377": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2377&head=2&eyes=2&body=4&grd=1&isl=3",
@@ -21399,7 +21399,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2378": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2378&head=4&eyes=3&body=6&grd=2&isl=1",
@@ -21426,7 +21426,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2381": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2381&head=7&eyes=2&body=13&grd=1&isl=1",
@@ -21444,7 +21444,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2383": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2383&head=7&eyes=4&body=3&grd=2&isl=3",
@@ -21453,7 +21453,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2384": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2384&head=2&eyes=3&body=2&grd=5&isl=2",
@@ -21462,7 +21462,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2385": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2385&head=1&eyes=2&body=9&grd=3&isl=2",
@@ -21471,7 +21471,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2386": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2386&head=5&eyes=1&body=5&grd=3&isl=1",
@@ -21498,7 +21498,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2389": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2389&head=7&eyes=2&body=1&grd=1&isl=3",
@@ -21507,7 +21507,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2390": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2390&head=7&eyes=1&body=4&grd=5&isl=2",
@@ -21516,7 +21516,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2391": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2391&head=5&eyes=1&body=1&grd=5&isl=1",
@@ -21534,7 +21534,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2393": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2393&head=2&eyes=1&body=3&grd=5&isl=1",
@@ -21552,7 +21552,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2395": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2395&head=7&eyes=4&body=4&grd=4&isl=1",
@@ -21570,7 +21570,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2397": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2397&head=2&eyes=3&body=4&grd=1&isl=2",
@@ -21579,7 +21579,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2398": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2398&head=8&eyes=4&body=8&grd=1&isl=2",
@@ -21588,7 +21588,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2399": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2399&head=4&eyes=2&body=6&grd=3&isl=1",
@@ -21624,7 +21624,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2403": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2403&head=5&eyes=3&body=10&grd=4&isl=1",
@@ -21651,7 +21651,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2406": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2406&head=2&eyes=2&body=5&grd=2&isl=2",
@@ -21660,7 +21660,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2407": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2407&head=6&eyes=1&body=12&grd=4&isl=2",
@@ -21669,7 +21669,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2408": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2408&head=4&eyes=1&body=1&grd=2&isl=3",
@@ -21678,7 +21678,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2409": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2409&head=8&eyes=4&body=1&grd=5&isl=3",
@@ -21687,7 +21687,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2410": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2410&head=1&eyes=3&body=5&grd=5&isl=3",
@@ -21696,7 +21696,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2411": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2411&head=5&eyes=2&body=4&grd=3&isl=2",
@@ -21705,7 +21705,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2412": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2412&head=8&eyes=1&body=4&grd=1&isl=1",
@@ -21723,7 +21723,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2414": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2414&head=6&eyes=4&body=10&grd=1&isl=1",
@@ -21750,7 +21750,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2417": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2417&head=7&eyes=1&body=2&grd=1&isl=2",
@@ -21759,7 +21759,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2418": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2418&head=1&eyes=4&body=3&grd=5&isl=1",
@@ -21786,7 +21786,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2421": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2421&head=3&eyes=4&body=8&grd=3&isl=1",
@@ -21804,7 +21804,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2423": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2423&head=2&eyes=3&body=9&grd=3&isl=2",
@@ -21813,7 +21813,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2424": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2424&head=4&eyes=1&body=4&grd=4&isl=1",
@@ -21831,7 +21831,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2426": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2426&head=4&eyes=2&body=2&grd=5&isl=2",
@@ -21840,7 +21840,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2427": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2427&head=1&eyes=3&body=11&grd=4&isl=1",
@@ -21885,7 +21885,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2432": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2432&head=7&eyes=2&body=4&grd=2&isl=2",
@@ -21894,7 +21894,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2433": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2433&head=7&eyes=1&body=6&grd=1&isl=2",
@@ -21903,7 +21903,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2434": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2434&head=2&eyes=1&body=6&grd=3&isl=3",
@@ -21912,7 +21912,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2435": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2435&head=3&eyes=4&body=10&grd=2&isl=3",
@@ -21921,7 +21921,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2436": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2436&head=7&eyes=2&body=4&grd=4&isl=2",
@@ -21930,7 +21930,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2437": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2437&head=1&eyes=2&body=6&grd=5&isl=1",
@@ -21948,7 +21948,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2439": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2439&head=2&eyes=4&body=5&grd=2&isl=2",
@@ -21957,7 +21957,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2440": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2440&head=5&eyes=4&body=3&grd=2&isl=3",
@@ -21966,7 +21966,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2441": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2441&head=4&eyes=1&body=12&grd=1&isl=1",
@@ -21984,7 +21984,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2443": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2443&head=5&eyes=1&body=7&grd=2&isl=1",
@@ -22002,7 +22002,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2445": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2445&head=2&eyes=3&body=2&grd=5&isl=1",
@@ -22020,7 +22020,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2447": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2447&head=3&eyes=3&body=2&grd=1&isl=3",
@@ -22029,7 +22029,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2448": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2448&head=4&eyes=3&body=1&grd=3&isl=2",
@@ -22038,7 +22038,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2449": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2449&head=8&eyes=3&body=3&grd=1&isl=1",
@@ -22056,7 +22056,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2451": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2451&head=2&eyes=1&body=6&grd=4&isl=2",
@@ -22065,7 +22065,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2452": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2452&head=3&eyes=3&body=3&grd=4&isl=3",
@@ -22074,7 +22074,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2453": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2453&head=1&eyes=2&body=3&grd=5&isl=2",
@@ -22083,7 +22083,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2454": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2454&head=4&eyes=1&body=10&grd=1&isl=2",
@@ -22092,7 +22092,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2455": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2455&head=1&eyes=1&body=6&grd=2&isl=3",
@@ -22101,7 +22101,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2456": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2456&head=8&eyes=1&body=4&grd=5&isl=1",
@@ -22119,7 +22119,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2458": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2458&head=3&eyes=1&body=12&grd=3&isl=3",
@@ -22128,7 +22128,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2459": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2459&head=6&eyes=1&body=3&grd=3&isl=3",
@@ -22137,7 +22137,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2460": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2460&head=5&eyes=1&body=4&grd=4&isl=1",
@@ -22155,7 +22155,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2462": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2462&head=2&eyes=1&body=11&grd=3&isl=2",
@@ -22164,7 +22164,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2463": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2463&head=8&eyes=4&body=1&grd=3&isl=1",
@@ -22182,7 +22182,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2465": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2465&head=3&eyes=4&body=11&grd=5&isl=1",
@@ -22200,7 +22200,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2467": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2467&head=7&eyes=3&body=1&grd=2&isl=2",
@@ -22209,7 +22209,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2468": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2468&head=1&eyes=1&body=1&grd=3&isl=3",
@@ -22218,7 +22218,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2469": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2469&head=1&eyes=2&body=8&grd=5&isl=1",
@@ -22245,7 +22245,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2472": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2472&head=7&eyes=2&body=8&grd=2&isl=1",
@@ -22272,7 +22272,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2475": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2475&head=2&eyes=2&body=13&grd=1&isl=1",
@@ -22290,7 +22290,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2477": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2477&head=3&eyes=3&body=11&grd=1&isl=2",
@@ -22299,7 +22299,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2478": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2478&head=5&eyes=1&body=2&grd=5&isl=2",
@@ -22308,7 +22308,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2479": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2479&head=7&eyes=1&body=5&grd=3&isl=2",
@@ -22317,7 +22317,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2480": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2480&head=7&eyes=1&body=10&grd=4&isl=1",
@@ -22335,7 +22335,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2482": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2482&head=6&eyes=3&body=6&grd=1&isl=2",
@@ -22344,7 +22344,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2483": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2483&head=7&eyes=4&body=7&grd=1&isl=2",
@@ -22353,7 +22353,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2484": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2484&head=5&eyes=3&body=2&grd=2&isl=1",
@@ -22371,7 +22371,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2486": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2486&head=6&eyes=1&body=9&grd=5&isl=1",
@@ -22407,7 +22407,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2490": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2490&head=1&eyes=2&body=11&grd=2&isl=2",
@@ -22416,7 +22416,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2491": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2491&head=3&eyes=4&body=5&grd=3&isl=1",
@@ -22434,7 +22434,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2493": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2493&head=3&eyes=2&body=8&grd=5&isl=1",
@@ -22461,7 +22461,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2496": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2496&head=1&eyes=3&body=7&grd=1&isl=2",
@@ -22470,7 +22470,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2497": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2497&head=5&eyes=2&body=2&grd=5&isl=1",
@@ -22497,7 +22497,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2500": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2500&head=3&eyes=1&body=13&grd=5&isl=1",
@@ -22533,7 +22533,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2504": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2504&head=4&eyes=4&body=7&grd=1&isl=2",
@@ -22542,7 +22542,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2505": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2505&head=5&eyes=2&body=11&grd=1&isl=1",
@@ -22560,7 +22560,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2507": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2507&head=3&eyes=2&body=5&grd=4&isl=2",
@@ -22569,7 +22569,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2508": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2508&head=5&eyes=4&body=2&grd=3&isl=1",
@@ -22605,7 +22605,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2512": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2512&head=7&eyes=3&body=5&grd=4&isl=1",
@@ -22623,7 +22623,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2514": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2514&head=7&eyes=4&body=1&grd=1&isl=2",
@@ -22632,7 +22632,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2515": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2515&head=2&eyes=3&body=7&grd=5&isl=3",
@@ -22641,7 +22641,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2516": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2516&head=5&eyes=4&body=5&grd=2&isl=1",
@@ -22677,7 +22677,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2520": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2520&head=3&eyes=2&body=12&grd=2&isl=2",
@@ -22686,7 +22686,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2521": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2521&head=2&eyes=1&body=11&grd=3&isl=1",
@@ -22713,7 +22713,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2524": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2524&head=4&eyes=4&body=9&grd=4&isl=1",
@@ -22731,7 +22731,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2526": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2526&head=7&eyes=3&body=1&grd=3&isl=3",
@@ -22740,7 +22740,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2527": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2527&head=3&eyes=3&body=7&grd=5&isl=2",
@@ -22749,7 +22749,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2528": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2528&head=1&eyes=3&body=11&grd=4&isl=2",
@@ -22758,7 +22758,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2529": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2529&head=6&eyes=4&body=1&grd=2&isl=3",
@@ -22767,7 +22767,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2530": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2530&head=5&eyes=2&body=12&grd=1&isl=2",
@@ -22776,7 +22776,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2531": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2531&head=8&eyes=2&body=7&grd=4&isl=1",
@@ -22812,7 +22812,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2535": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2535&head=7&eyes=3&body=4&grd=2&isl=1",
@@ -22830,7 +22830,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2537": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2537&head=8&eyes=3&body=10&grd=2&isl=1",
@@ -22848,7 +22848,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2539": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2539&head=5&eyes=2&body=3&grd=4&isl=2",
@@ -22857,7 +22857,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2540": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2540&head=1&eyes=4&body=1&grd=1&isl=2",
@@ -22866,7 +22866,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2541": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2541&head=3&eyes=3&body=1&grd=2&isl=1",
@@ -22920,7 +22920,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2547": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2547&head=7&eyes=3&body=3&grd=1&isl=1",
@@ -22938,7 +22938,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2549": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2549&head=4&eyes=4&body=6&grd=1&isl=3",
@@ -22947,7 +22947,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2550": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2550&head=7&eyes=1&body=2&grd=5&isl=2",
@@ -22956,7 +22956,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2551": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2551&head=2&eyes=2&body=9&grd=4&isl=2",
@@ -22965,7 +22965,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2552": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2552&head=7&eyes=2&body=4&grd=5&isl=1",
@@ -22983,7 +22983,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2554": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2554&head=1&eyes=3&body=13&grd=1&isl=3",
@@ -22992,7 +22992,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2555": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2555&head=5&eyes=1&body=8&grd=5&isl=1",
@@ -23010,7 +23010,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2557": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2557&head=2&eyes=4&body=12&grd=2&isl=3",
@@ -23019,7 +23019,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2558": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2558&head=1&eyes=1&body=6&grd=5&isl=1",
@@ -23037,7 +23037,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2560": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2560&head=8&eyes=2&body=3&grd=2&isl=2",
@@ -23046,7 +23046,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2561": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2561&head=6&eyes=3&body=11&grd=1&isl=1",
@@ -23082,7 +23082,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2565": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2565&head=3&eyes=4&body=3&grd=5&isl=1",
@@ -23100,7 +23100,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2567": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2567&head=4&eyes=2&body=6&grd=1&isl=3",
@@ -23109,7 +23109,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2568": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2568&head=4&eyes=4&body=7&grd=3&isl=3",
@@ -23118,7 +23118,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2569": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2569&head=8&eyes=2&body=11&grd=2&isl=1",
@@ -23154,7 +23154,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2573": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2573&head=5&eyes=1&body=9&grd=3&isl=2",
@@ -23163,7 +23163,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2574": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2574&head=2&eyes=4&body=9&grd=1&isl=2",
@@ -23172,7 +23172,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2575": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2575&head=7&eyes=2&body=6&grd=1&isl=3",
@@ -23181,7 +23181,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2576": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2576&head=5&eyes=2&body=2&grd=4&isl=1",
@@ -23208,7 +23208,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2579": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2579&head=5&eyes=3&body=6&grd=2&isl=1",
@@ -23235,7 +23235,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2582": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2582&head=2&eyes=1&body=8&grd=5&isl=2",
@@ -23244,7 +23244,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2583": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2583&head=2&eyes=4&body=9&grd=1&isl=1",
@@ -23262,7 +23262,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2585": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2585&head=8&eyes=2&body=7&grd=1&isl=1",
@@ -23280,7 +23280,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2587": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2587&head=2&eyes=3&body=3&grd=5&isl=2",
@@ -23289,7 +23289,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2588": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2588&head=7&eyes=3&body=4&grd=5&isl=2",
@@ -23298,7 +23298,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2589": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2589&head=1&eyes=4&body=12&grd=2&isl=2",
@@ -23307,7 +23307,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2590": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2590&head=1&eyes=1&body=13&grd=1&isl=2",
@@ -23316,7 +23316,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2591": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2591&head=6&eyes=2&body=12&grd=4&isl=1",
@@ -23334,7 +23334,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2593": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2593&head=3&eyes=2&body=10&grd=5&isl=1",
@@ -23352,7 +23352,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2595": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2595&head=3&eyes=2&body=5&grd=2&isl=3",
@@ -23361,7 +23361,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2596": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2596&head=8&eyes=1&body=11&grd=5&isl=1",
@@ -23397,7 +23397,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2600": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2600&head=4&eyes=1&body=10&grd=2&isl=2",
@@ -23406,7 +23406,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2601": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2601&head=6&eyes=3&body=1&grd=5&isl=2",
@@ -23415,7 +23415,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2602": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2602&head=3&eyes=4&body=1&grd=4&isl=1",
@@ -23433,7 +23433,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2604": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2604&head=6&eyes=3&body=12&grd=4&isl=3",
@@ -23442,7 +23442,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2605": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2605&head=4&eyes=3&body=6&grd=1&isl=3",
@@ -23451,7 +23451,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2606": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2606&head=2&eyes=2&body=7&grd=2&isl=2",
@@ -23460,7 +23460,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2607": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2607&head=8&eyes=4&body=2&grd=4&isl=1",
@@ -23478,7 +23478,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2609": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2609&head=1&eyes=4&body=10&grd=2&isl=1",
@@ -23496,7 +23496,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2611": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2611&head=2&eyes=3&body=10&grd=5&isl=3",
@@ -23505,7 +23505,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2612": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2612&head=5&eyes=2&body=9&grd=3&isl=1",
@@ -23523,7 +23523,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2614": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2614&head=2&eyes=3&body=13&grd=2&isl=1",
@@ -23550,7 +23550,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2617": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2617&head=1&eyes=2&body=13&grd=3&isl=1",
@@ -23577,7 +23577,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2620": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2620&head=4&eyes=1&body=9&grd=2&isl=1",
@@ -23595,7 +23595,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2622": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2622&head=2&eyes=1&body=4&grd=3&isl=2",
@@ -23604,7 +23604,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2623": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2623&head=5&eyes=2&body=13&grd=1&isl=2",
@@ -23613,7 +23613,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2624": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2624&head=6&eyes=1&body=2&grd=4&isl=1",
@@ -23631,7 +23631,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2626": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2626&head=1&eyes=2&body=3&grd=4&isl=3",
@@ -23640,7 +23640,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2627": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2627&head=3&eyes=2&body=11&grd=4&isl=2",
@@ -23649,7 +23649,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2628": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2628&head=7&eyes=1&body=10&grd=1&isl=2",
@@ -23658,7 +23658,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2629": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2629&head=4&eyes=2&body=6&grd=4&isl=1",
@@ -23676,7 +23676,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2631": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2631&head=2&eyes=2&body=1&grd=5&isl=3",
@@ -23685,7 +23685,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2632": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2632&head=8&eyes=1&body=3&grd=3&isl=1",
@@ -23703,7 +23703,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2634": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2634&head=4&eyes=3&body=4&grd=2&isl=2",
@@ -23712,7 +23712,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2635": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2635&head=6&eyes=4&body=2&grd=3&isl=1",
@@ -23748,7 +23748,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2639": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2639&head=2&eyes=4&body=7&grd=3&isl=1",
@@ -23784,7 +23784,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2643": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2643&head=5&eyes=3&body=1&grd=5&isl=3",
@@ -23793,7 +23793,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2644": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2644&head=2&eyes=1&body=12&grd=1&isl=3",
@@ -23802,7 +23802,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2645": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2645&head=7&eyes=1&body=1&grd=5&isl=1",
@@ -23829,7 +23829,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2648": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2648&head=3&eyes=2&body=6&grd=1&isl=3",
@@ -23838,7 +23838,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2649": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2649&head=6&eyes=2&body=1&grd=1&isl=3",
@@ -23847,7 +23847,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2650": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2650&head=2&eyes=4&body=8&grd=4&isl=3",
@@ -23856,7 +23856,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2651": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2651&head=5&eyes=2&body=4&grd=5&isl=3",
@@ -23865,7 +23865,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2652": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2652&head=8&eyes=2&body=1&grd=5&isl=1",
@@ -23892,7 +23892,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2655": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2655&head=4&eyes=4&body=4&grd=3&isl=1",
@@ -23910,7 +23910,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2657": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2657&head=5&eyes=3&body=9&grd=2&isl=1",
@@ -23928,7 +23928,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2659": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2659&head=1&eyes=1&body=8&grd=5&isl=3",
@@ -23937,7 +23937,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2660": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2660&head=1&eyes=3&body=4&grd=3&isl=2",
@@ -23946,7 +23946,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2661": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2661&head=3&eyes=4&body=7&grd=3&isl=2",
@@ -23955,7 +23955,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2662": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2662&head=5&eyes=3&body=13&grd=1&isl=2",
@@ -23964,7 +23964,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2663": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2663&head=3&eyes=1&body=4&grd=3&isl=3",
@@ -23973,7 +23973,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2664": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2664&head=4&eyes=3&body=10&grd=1&isl=1",
@@ -23991,7 +23991,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2666": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2666&head=5&eyes=3&body=2&grd=4&isl=2",
@@ -24000,7 +24000,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2667": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2667&head=2&eyes=1&body=9&grd=5&isl=1",
@@ -24018,7 +24018,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2669": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2669&head=3&eyes=4&body=5&grd=1&isl=1",
@@ -24036,7 +24036,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2671": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2671&head=6&eyes=2&body=3&grd=1&isl=3",
@@ -24045,7 +24045,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2672": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2672&head=4&eyes=2&body=7&grd=2&isl=3",
@@ -24054,7 +24054,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2673": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2673&head=4&eyes=1&body=13&grd=4&isl=2",
@@ -24063,7 +24063,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2674": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2674&head=4&eyes=4&body=9&grd=1&isl=1",
@@ -24081,7 +24081,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2676": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2676&head=6&eyes=2&body=6&grd=5&isl=1",
@@ -24099,7 +24099,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2678": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2678&head=1&eyes=1&body=7&grd=4&isl=3",
@@ -24108,7 +24108,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2679": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2679&head=5&eyes=4&body=5&grd=1&isl=1",
@@ -24135,7 +24135,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2682": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2682&head=2&eyes=3&body=4&grd=1&isl=3",
@@ -24144,7 +24144,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2683": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2683&head=1&eyes=3&body=7&grd=4&isl=1",
@@ -24171,7 +24171,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2686": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2686&head=2&eyes=4&body=7&grd=1&isl=2",
@@ -24180,7 +24180,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2687": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2687&head=5&eyes=2&body=5&grd=1&isl=2",
@@ -24189,7 +24189,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2688": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2688&head=5&eyes=2&body=9&grd=4&isl=1",
@@ -24207,7 +24207,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2690": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2690&head=2&eyes=4&body=4&grd=1&isl=2",
@@ -24216,7 +24216,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2691": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2691&head=8&eyes=4&body=6&grd=1&isl=3",
@@ -24225,7 +24225,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2692": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2692&head=1&eyes=3&body=11&grd=3&isl=3",
@@ -24234,7 +24234,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2693": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2693&head=5&eyes=1&body=9&grd=1&isl=1",
@@ -24252,7 +24252,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2695": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2695&head=2&eyes=1&body=5&grd=4&isl=1",
@@ -24270,7 +24270,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2697": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2697&head=6&eyes=3&body=5&grd=1&isl=2",
@@ -24279,7 +24279,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2698": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2698&head=1&eyes=4&body=11&grd=4&isl=1",
@@ -24297,7 +24297,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2700": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2700&head=4&eyes=1&body=9&grd=1&isl=3",
@@ -24306,7 +24306,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2701": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2701&head=7&eyes=1&body=4&grd=1&isl=3",
@@ -24315,7 +24315,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2702": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2702&head=6&eyes=2&body=4&grd=4&isl=1",
@@ -24360,7 +24360,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2707": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2707&head=3&eyes=1&body=7&grd=5&isl=3",
@@ -24369,7 +24369,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2708": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2708&head=7&eyes=2&body=12&grd=4&isl=1",
@@ -24396,7 +24396,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2711": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2711&head=4&eyes=1&body=5&grd=4&isl=3",
@@ -24405,7 +24405,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2712": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2712&head=7&eyes=2&body=2&grd=3&isl=3",
@@ -24414,7 +24414,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2713": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2713&head=2&eyes=4&body=1&grd=1&isl=2",
@@ -24423,7 +24423,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2714": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2714&head=4&eyes=4&body=12&grd=1&isl=1",
@@ -24450,7 +24450,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2717": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2717&head=8&eyes=3&body=4&grd=1&isl=2",
@@ -24459,7 +24459,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2718": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2718&head=5&eyes=1&body=1&grd=2&isl=3",
@@ -24468,7 +24468,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2719": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2719&head=1&eyes=3&body=12&grd=1&isl=3",
@@ -24477,7 +24477,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2720": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2720&head=3&eyes=4&body=9&grd=2&isl=2",
@@ -24486,7 +24486,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2721": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2721&head=4&eyes=2&body=12&grd=2&isl=1",
@@ -24522,7 +24522,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2725": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2725&head=4&eyes=2&body=10&grd=3&isl=2",
@@ -24531,7 +24531,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2726": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2726&head=1&eyes=1&body=13&grd=1&isl=3",
@@ -24540,7 +24540,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2727": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2727&head=5&eyes=1&body=7&grd=2&isl=3",
@@ -24549,7 +24549,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2728": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2728&head=7&eyes=1&body=5&grd=5&isl=2",
@@ -24558,7 +24558,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2729": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2729&head=1&eyes=3&body=10&grd=4&isl=2",
@@ -24567,7 +24567,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2730": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2730&head=4&eyes=2&body=8&grd=2&isl=2",
@@ -24576,7 +24576,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2731": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2731&head=1&eyes=2&body=9&grd=5&isl=1",
@@ -24621,7 +24621,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2736": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2736&head=2&eyes=2&body=13&grd=2&isl=1",
@@ -24639,7 +24639,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2738": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2738&head=7&eyes=1&body=10&grd=4&isl=2",
@@ -24648,7 +24648,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2739": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2739&head=3&eyes=3&body=10&grd=2&isl=1",
@@ -24666,7 +24666,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2741": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2741&head=2&eyes=4&body=9&grd=2&isl=2",
@@ -24675,7 +24675,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2742": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2742&head=5&eyes=1&body=3&grd=5&isl=3",
@@ -24684,7 +24684,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2743": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2743&head=2&eyes=3&body=6&grd=4&isl=1",
@@ -24702,7 +24702,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2745": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2745&head=1&eyes=4&body=3&grd=3&isl=2",
@@ -24711,7 +24711,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2746": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2746&head=3&eyes=1&body=8&grd=1&isl=2",
@@ -24720,7 +24720,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2747": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2747&head=6&eyes=2&body=11&grd=4&isl=1",
@@ -24738,7 +24738,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2749": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2749&head=5&eyes=3&body=8&grd=2&isl=1",
@@ -24756,7 +24756,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2751": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2751&head=5&eyes=3&body=6&grd=3&isl=1",
@@ -24774,7 +24774,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2753": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2753&head=4&eyes=2&body=2&grd=3&isl=2",
@@ -24783,7 +24783,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2754": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2754&head=1&eyes=4&body=10&grd=3&isl=1",
@@ -24801,7 +24801,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2756": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2756&head=1&eyes=4&body=6&grd=3&isl=1",
@@ -24819,7 +24819,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2758": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2758&head=3&eyes=3&body=6&grd=1&isl=3",
@@ -24828,7 +24828,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2759": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2759&head=4&eyes=1&body=5&grd=2&isl=2",
@@ -24837,7 +24837,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2760": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2760&head=3&eyes=2&body=9&grd=3&isl=3",
@@ -24846,7 +24846,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2761": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2761&head=5&eyes=4&body=7&grd=2&isl=3",
@@ -24855,7 +24855,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2762": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2762&head=4&eyes=2&body=9&grd=5&isl=1",
@@ -24873,7 +24873,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2764": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2764&head=1&eyes=4&body=2&grd=5&isl=1",
@@ -24891,7 +24891,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2766": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2766&head=5&eyes=2&body=12&grd=1&isl=3",
@@ -24900,7 +24900,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2767": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2767&head=6&eyes=4&body=3&grd=4&isl=2",
@@ -24909,7 +24909,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2768": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2768&head=2&eyes=2&body=9&grd=2&isl=3",
@@ -24918,7 +24918,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2769": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2769&head=6&eyes=3&body=9&grd=3&isl=3",
@@ -24927,7 +24927,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2770": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2770&head=3&eyes=4&body=5&grd=2&isl=2",
@@ -24936,7 +24936,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2771": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2771&head=8&eyes=3&body=11&grd=1&isl=1",
@@ -24972,7 +24972,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2775": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2775&head=5&eyes=1&body=8&grd=3&isl=2",
@@ -24981,7 +24981,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2776": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2776&head=6&eyes=2&body=5&grd=3&isl=2",
@@ -24990,7 +24990,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2777": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2777&head=7&eyes=2&body=10&grd=2&isl=2",
@@ -24999,7 +24999,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2778": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2778&head=3&eyes=2&body=11&grd=1&isl=1",
@@ -25017,7 +25017,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2780": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2780&head=1&eyes=3&body=10&grd=5&isl=3",
@@ -25026,7 +25026,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2781": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2781&head=3&eyes=4&body=10&grd=2&isl=2",
@@ -25035,7 +25035,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2782": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2782&head=6&eyes=2&body=8&grd=1&isl=3",
@@ -25044,7 +25044,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2783": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2783&head=5&eyes=2&body=6&grd=2&isl=2",
@@ -25053,7 +25053,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2784": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2784&head=7&eyes=4&body=8&grd=1&isl=2",
@@ -25062,7 +25062,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2785": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2785&head=5&eyes=2&body=10&grd=1&isl=2",
@@ -25071,7 +25071,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2786": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2786&head=7&eyes=1&body=7&grd=2&isl=3",
@@ -25080,7 +25080,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2787": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2787&head=3&eyes=3&body=1&grd=5&isl=3",
@@ -25089,7 +25089,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2788": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2788&head=1&eyes=4&body=4&grd=5&isl=1",
@@ -25107,7 +25107,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2790": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2790&head=4&eyes=4&body=9&grd=3&isl=3",
@@ -25116,7 +25116,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2791": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2791&head=3&eyes=2&body=3&grd=4&isl=2",
@@ -25125,7 +25125,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2792": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2792&head=5&eyes=2&body=9&grd=2&isl=3",
@@ -25134,7 +25134,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2793": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2793&head=5&eyes=4&body=10&grd=2&isl=1",
@@ -25152,7 +25152,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2795": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2795&head=5&eyes=2&body=8&grd=2&isl=1",
@@ -25170,7 +25170,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2797": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2797&head=7&eyes=3&body=1&grd=4&isl=2",
@@ -25179,7 +25179,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2798": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2798&head=2&eyes=3&body=13&grd=1&isl=2",
@@ -25188,7 +25188,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2799": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2799&head=4&eyes=1&body=9&grd=1&isl=1",
@@ -25233,7 +25233,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2804": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2804&head=7&eyes=3&body=8&grd=3&isl=1",
@@ -25251,7 +25251,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2806": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2806&head=4&eyes=1&body=8&grd=2&isl=3",
@@ -25260,7 +25260,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2807": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2807&head=3&eyes=1&body=3&grd=3&isl=2",
@@ -25269,7 +25269,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2808": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2808&head=4&eyes=4&body=3&grd=2&isl=3",
@@ -25278,7 +25278,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2809": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2809&head=5&eyes=3&body=3&grd=3&isl=1",
@@ -25296,7 +25296,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2811": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2811&head=4&eyes=3&body=7&grd=5&isl=2",
@@ -25305,7 +25305,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2812": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2812&head=5&eyes=2&body=5&grd=3&isl=1",
@@ -25323,7 +25323,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2814": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2814&head=5&eyes=2&body=13&grd=2&isl=2",
@@ -25332,7 +25332,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2815": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2815&head=7&eyes=1&body=9&grd=1&isl=2",
@@ -25341,7 +25341,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2816": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2816&head=2&eyes=4&body=13&grd=1&isl=3",
@@ -25350,7 +25350,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2817": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2817&head=4&eyes=1&body=5&grd=3&isl=3",
@@ -25359,7 +25359,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2818": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2818&head=8&eyes=1&body=1&grd=1&isl=1",
@@ -25377,7 +25377,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2820": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2820&head=3&eyes=1&body=10&grd=5&isl=2",
@@ -25386,7 +25386,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2821": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2821&head=8&eyes=1&body=7&grd=4&isl=3",
@@ -25395,7 +25395,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2822": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2822&head=6&eyes=1&body=5&grd=2&isl=1",
@@ -25431,7 +25431,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2826": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2826&head=2&eyes=2&body=6&grd=1&isl=3",
@@ -25440,7 +25440,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2827": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2827&head=6&eyes=3&body=5&grd=1&isl=1",
@@ -25458,7 +25458,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2829": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2829&head=8&eyes=1&body=9&grd=3&isl=2",
@@ -25467,7 +25467,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2830": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2830&head=7&eyes=3&body=2&grd=1&isl=1",
@@ -25485,7 +25485,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2832": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2832&head=3&eyes=3&body=2&grd=5&isl=3",
@@ -25494,7 +25494,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2833": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2833&head=2&eyes=2&body=2&grd=3&isl=3",
@@ -25503,7 +25503,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2834": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2834&head=1&eyes=4&body=4&grd=4&isl=1",
@@ -25521,7 +25521,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2836": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2836&head=3&eyes=3&body=7&grd=4&isl=2",
@@ -25530,7 +25530,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2837": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2837&head=2&eyes=2&body=12&grd=2&isl=3",
@@ -25539,7 +25539,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2838": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2838&head=2&eyes=3&body=1&grd=5&isl=3",
@@ -25548,7 +25548,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2839": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2839&head=3&eyes=2&body=7&grd=1&isl=3",
@@ -25557,7 +25557,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2840": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2840&head=5&eyes=2&body=10&grd=3&isl=1",
@@ -25584,7 +25584,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2843": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2843&head=6&eyes=3&body=9&grd=2&isl=2",
@@ -25593,7 +25593,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2844": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2844&head=3&eyes=4&body=11&grd=1&isl=1",
@@ -25611,7 +25611,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2846": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2846&head=3&eyes=2&body=7&grd=1&isl=2",
@@ -25620,7 +25620,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2847": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2847&head=2&eyes=2&body=10&grd=3&isl=2",
@@ -25629,7 +25629,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2848": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2848&head=6&eyes=3&body=2&grd=3&isl=2",
@@ -25638,7 +25638,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2849": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2849&head=5&eyes=2&body=2&grd=4&isl=3",
@@ -25647,7 +25647,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2850": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2850&head=5&eyes=1&body=4&grd=1&isl=3",
@@ -25656,7 +25656,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2851": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2851&head=3&eyes=1&body=6&grd=3&isl=1",
@@ -25674,7 +25674,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2853": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2853&head=5&eyes=3&body=11&grd=4&isl=2",
@@ -25683,7 +25683,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2854": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2854&head=2&eyes=3&body=8&grd=2&isl=1",
@@ -25701,7 +25701,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2856": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2856&head=8&eyes=1&body=4&grd=4&isl=1",
@@ -25728,7 +25728,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2859": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2859&head=4&eyes=4&body=7&grd=2&isl=1",
@@ -25746,7 +25746,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2861": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2861&head=1&eyes=1&body=12&grd=2&isl=3",
@@ -25755,7 +25755,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2862": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2862&head=6&eyes=3&body=1&grd=2&isl=1",
@@ -25773,7 +25773,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2864": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2864&head=5&eyes=2&body=7&grd=5&isl=3",
@@ -25782,7 +25782,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2865": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2865&head=1&eyes=2&body=2&grd=1&isl=3",
@@ -25791,7 +25791,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2866": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2866&head=8&eyes=1&body=1&grd=3&isl=3",
@@ -25800,7 +25800,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2867": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2867&head=7&eyes=2&body=7&grd=4&isl=3",
@@ -25809,7 +25809,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2868": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2868&head=1&eyes=4&body=4&grd=1&isl=3",
@@ -25818,7 +25818,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2869": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2869&head=1&eyes=3&body=6&grd=4&isl=2",
@@ -25827,7 +25827,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2870": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2870&head=5&eyes=1&body=6&grd=3&isl=3",
@@ -25836,7 +25836,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2871": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2871&head=2&eyes=3&body=1&grd=5&isl=1",
@@ -25854,7 +25854,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2873": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2873&head=6&eyes=4&body=6&grd=1&isl=1",
@@ -25881,7 +25881,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2876": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2876&head=7&eyes=1&body=12&grd=3&isl=1",
@@ -25899,7 +25899,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2878": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2878&head=5&eyes=3&body=2&grd=3&isl=2",
@@ -25908,7 +25908,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2879": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2879&head=4&eyes=4&body=6&grd=3&isl=2",
@@ -25917,7 +25917,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2880": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2880&head=5&eyes=3&body=1&grd=4&isl=1",
@@ -25935,7 +25935,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2882": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2882&head=8&eyes=1&body=3&grd=4&isl=1",
@@ -25953,7 +25953,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2884": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2884&head=1&eyes=2&body=4&grd=5&isl=1",
@@ -25980,7 +25980,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2887": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2887&head=3&eyes=3&body=1&grd=3&isl=2",
@@ -25989,7 +25989,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2888": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2888&head=5&eyes=3&body=11&grd=5&isl=2",
@@ -25998,7 +25998,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2889": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2889&head=3&eyes=2&body=10&grd=4&isl=1",
@@ -26025,7 +26025,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2892": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2892&head=4&eyes=1&body=12&grd=5&isl=1",
@@ -26043,7 +26043,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2894": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2894&head=3&eyes=2&body=10&grd=1&isl=3",
@@ -26052,7 +26052,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2895": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2895&head=1&eyes=4&body=3&grd=3&isl=3",
@@ -26061,7 +26061,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2896": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2896&head=1&eyes=2&body=9&grd=4&isl=1",
@@ -26079,7 +26079,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2898": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2898&head=6&eyes=1&body=3&grd=4&isl=2",
@@ -26088,7 +26088,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2899": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2899&head=3&eyes=3&body=10&grd=2&isl=2",
@@ -26097,7 +26097,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2900": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2900&head=6&eyes=4&body=5&grd=2&isl=2",
@@ -26106,7 +26106,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2901": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2901&head=1&eyes=4&body=2&grd=2&isl=3",
@@ -26115,7 +26115,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2902": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2902&head=2&eyes=4&body=6&grd=4&isl=3",
@@ -26124,7 +26124,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2903": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2903&head=5&eyes=1&body=12&grd=4&isl=3",
@@ -26133,7 +26133,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2904": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2904&head=7&eyes=2&body=3&grd=5&isl=2",
@@ -26142,7 +26142,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2905": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2905&head=3&eyes=3&body=2&grd=4&isl=2",
@@ -26151,7 +26151,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2906": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2906&head=5&eyes=1&body=2&grd=3&isl=1",
@@ -26169,7 +26169,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2908": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2908&head=6&eyes=3&body=2&grd=2&isl=3",
@@ -26178,7 +26178,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2909": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2909&head=2&eyes=3&body=13&grd=1&isl=1",
@@ -26196,7 +26196,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2911": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2911&head=3&eyes=4&body=1&grd=5&isl=1",
@@ -26223,7 +26223,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2914": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2914&head=2&eyes=1&body=10&grd=5&isl=1",
@@ -26250,7 +26250,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2917": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2917&head=4&eyes=1&body=7&grd=5&isl=3",
@@ -26259,7 +26259,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2918": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2918&head=4&eyes=4&body=2&grd=2&isl=2",
@@ -26268,7 +26268,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2919": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2919&head=4&eyes=2&body=11&grd=2&isl=1",
@@ -26286,7 +26286,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2921": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2921&head=4&eyes=3&body=11&grd=2&isl=2",
@@ -26295,7 +26295,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2922": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2922&head=4&eyes=2&body=8&grd=4&isl=1",
@@ -26313,7 +26313,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2924": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2924&head=1&eyes=3&body=12&grd=3&isl=2",
@@ -26322,7 +26322,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2925": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2925&head=4&eyes=3&body=5&grd=2&isl=3",
@@ -26331,7 +26331,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2926": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2926&head=1&eyes=4&body=8&grd=1&isl=1",
@@ -26358,7 +26358,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2929": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2929&head=3&eyes=1&body=7&grd=3&isl=3",
@@ -26367,7 +26367,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2930": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2930&head=2&eyes=4&body=8&grd=1&isl=1",
@@ -26385,7 +26385,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2932": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2932&head=2&eyes=3&body=11&grd=1&isl=2",
@@ -26394,7 +26394,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2933": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2933&head=7&eyes=1&body=11&grd=3&isl=1",
@@ -26412,7 +26412,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2935": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2935&head=5&eyes=2&body=9&grd=1&isl=2",
@@ -26421,7 +26421,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2936": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2936&head=2&eyes=3&body=8&grd=5&isl=1",
@@ -26439,7 +26439,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2938": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2938&head=5&eyes=2&body=1&grd=3&isl=2",
@@ -26448,7 +26448,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2939": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2939&head=1&eyes=4&body=11&grd=3&isl=2",
@@ -26457,7 +26457,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2940": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2940&head=2&eyes=2&body=13&grd=4&isl=1",
@@ -26475,7 +26475,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2942": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2942&head=4&eyes=2&body=10&grd=1&isl=1",
@@ -26511,7 +26511,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2946": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2946&head=3&eyes=2&body=10&grd=4&isl=2",
@@ -26520,7 +26520,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2947": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2947&head=3&eyes=3&body=10&grd=4&isl=1",
@@ -26538,7 +26538,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2949": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2949&head=2&eyes=1&body=3&grd=5&isl=3",
@@ -26547,7 +26547,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2950": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2950&head=6&eyes=4&body=7&grd=1&isl=1",
@@ -26574,7 +26574,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2953": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2953&head=4&eyes=2&body=5&grd=3&isl=3",
@@ -26583,7 +26583,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2954": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2954&head=2&eyes=4&body=2&grd=3&isl=3",
@@ -26592,7 +26592,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2955": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2955&head=8&eyes=2&body=6&grd=1&isl=2",
@@ -26601,7 +26601,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2956": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2956&head=5&eyes=3&body=4&grd=5&isl=2",
@@ -26610,7 +26610,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2957": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2957&head=3&eyes=3&body=12&grd=3&isl=1",
@@ -26628,7 +26628,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2959": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2959&head=1&eyes=2&body=5&grd=5&isl=1",
@@ -26646,7 +26646,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2961": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2961&head=4&eyes=2&body=2&grd=4&isl=3",
@@ -26655,7 +26655,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2962": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2962&head=3&eyes=3&body=3&grd=2&isl=3",
@@ -26664,7 +26664,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2963": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2963&head=7&eyes=1&body=8&grd=3&isl=1",
@@ -26682,7 +26682,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2965": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2965&head=5&eyes=3&body=5&grd=2&isl=2",
@@ -26691,7 +26691,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2966": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2966&head=6&eyes=2&body=10&grd=4&isl=3",
@@ -26700,7 +26700,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2967": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2967&head=5&eyes=1&body=8&grd=4&isl=1",
@@ -26718,7 +26718,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2969": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2969&head=3&eyes=4&body=9&grd=2&isl=3",
@@ -26727,7 +26727,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2970": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2970&head=8&eyes=1&body=12&grd=5&isl=3",
@@ -26736,7 +26736,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2971": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2971&head=5&eyes=3&body=10&grd=3&isl=2",
@@ -26745,7 +26745,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2972": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2972&head=2&eyes=4&body=3&grd=3&isl=2",
@@ -26754,7 +26754,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2973": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2973&head=2&eyes=2&body=11&grd=2&isl=2",
@@ -26763,7 +26763,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2974": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2974&head=1&eyes=1&body=11&grd=1&isl=3",
@@ -26772,7 +26772,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2975": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2975&head=6&eyes=3&body=8&grd=1&isl=3",
@@ -26781,7 +26781,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2976": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2976&head=1&eyes=3&body=12&grd=2&isl=2",
@@ -26790,7 +26790,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2977": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2977&head=3&eyes=1&body=1&grd=5&isl=3",
@@ -26799,7 +26799,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2978": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2978&head=3&eyes=4&body=8&grd=4&isl=1",
@@ -26817,7 +26817,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2980": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2980&head=2&eyes=2&body=7&grd=4&isl=3",
@@ -26826,7 +26826,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2981": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2981&head=8&eyes=1&body=3&grd=2&isl=3",
@@ -26835,7 +26835,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2982": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2982&head=6&eyes=2&body=4&grd=2&isl=2",
@@ -26844,7 +26844,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2983": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2983&head=8&eyes=2&body=1&grd=1&isl=3",
@@ -26853,7 +26853,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2984": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2984&head=8&eyes=1&body=6&grd=3&isl=2",
@@ -26862,7 +26862,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2985": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2985&head=4&eyes=3&body=1&grd=1&isl=1",
@@ -26880,7 +26880,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2987": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2987&head=6&eyes=2&body=5&grd=4&isl=1",
@@ -26898,7 +26898,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2989": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2989&head=3&eyes=2&body=11&grd=5&isl=1",
@@ -26916,7 +26916,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2991": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2991&head=3&eyes=1&body=1&grd=3&isl=2",
@@ -26925,7 +26925,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2992": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2992&head=4&eyes=1&body=8&grd=4&isl=2",
@@ -26934,7 +26934,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2993": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2993&head=4&eyes=2&body=11&grd=2&isl=3",
@@ -26943,7 +26943,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2994": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2994&head=4&eyes=3&body=10&grd=3&isl=1",
@@ -26961,7 +26961,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2996": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2996&head=2&eyes=2&body=7&grd=1&isl=3",
@@ -26970,7 +26970,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "2997": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2997&head=5&eyes=1&body=5&grd=4&isl=1",
@@ -26988,7 +26988,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "2999": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=2999&head=2&eyes=3&body=7&grd=4&isl=2",
@@ -26997,7 +26997,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3000": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3000&head=3&eyes=2&body=11&grd=2&isl=3",
@@ -27006,7 +27006,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3001": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3001&head=1&eyes=2&body=6&grd=3&isl=3",
@@ -27015,7 +27015,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3002": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3002&head=7&eyes=3&body=11&grd=3&isl=3",
@@ -27024,7 +27024,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3003": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3003&head=6&eyes=4&body=1&grd=2&isl=2",
@@ -27033,7 +27033,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3004": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3004&head=4&eyes=3&body=2&grd=3&isl=3",
@@ -27042,7 +27042,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3005": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3005&head=1&eyes=1&body=10&grd=3&isl=3",
@@ -27051,7 +27051,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3006": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3006&head=6&eyes=1&body=11&grd=1&isl=2",
@@ -27060,7 +27060,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3007": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3007&head=3&eyes=4&body=6&grd=1&isl=1",
@@ -27078,7 +27078,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3009": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3009&head=3&eyes=4&body=1&grd=2&isl=1",
@@ -27096,7 +27096,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3011": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3011&head=3&eyes=3&body=13&grd=4&isl=1",
@@ -27114,7 +27114,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3013": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3013&head=1&eyes=2&body=13&grd=1&isl=2",
@@ -27123,7 +27123,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3014": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3014&head=2&eyes=3&body=6&grd=5&isl=1",
@@ -27141,7 +27141,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3016": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3016&head=3&eyes=3&body=3&grd=3&isl=3",
@@ -27150,7 +27150,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3017": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3017&head=5&eyes=4&body=4&grd=2&isl=3",
@@ -27159,7 +27159,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3018": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3018&head=7&eyes=1&body=8&grd=3&isl=2",
@@ -27168,7 +27168,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3019": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3019&head=6&eyes=2&body=3&grd=5&isl=2",
@@ -27177,7 +27177,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3020": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3020&head=1&eyes=3&body=4&grd=3&isl=1",
@@ -27195,7 +27195,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3022": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3022&head=4&eyes=1&body=1&grd=4&isl=2",
@@ -27204,7 +27204,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3023": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3023&head=7&eyes=3&body=9&grd=2&isl=3",
@@ -27213,7 +27213,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3024": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3024&head=6&eyes=4&body=2&grd=2&isl=1",
@@ -27231,7 +27231,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3026": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3026&head=5&eyes=4&body=7&grd=2&isl=1",
@@ -27258,7 +27258,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3029": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3029&head=4&eyes=1&body=4&grd=3&isl=3",
@@ -27267,7 +27267,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3030": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3030&head=2&eyes=4&body=10&grd=3&isl=2",
@@ -27276,7 +27276,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3031": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3031&head=4&eyes=4&body=4&grd=1&isl=2",
@@ -27285,7 +27285,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3032": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3032&head=1&eyes=3&body=4&grd=2&isl=3",
@@ -27294,7 +27294,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3033": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3033&head=4&eyes=1&body=3&grd=5&isl=2",
@@ -27303,7 +27303,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3034": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3034&head=2&eyes=2&body=3&grd=4&isl=3",
@@ -27312,7 +27312,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3035": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3035&head=1&eyes=3&body=7&grd=5&isl=1",
@@ -27330,7 +27330,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3037": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3037&head=5&eyes=4&body=3&grd=4&isl=1",
@@ -27357,7 +27357,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3040": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3040&head=4&eyes=2&body=13&grd=1&isl=3",
@@ -27366,7 +27366,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3041": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3041&head=7&eyes=2&body=9&grd=4&isl=1",
@@ -27393,7 +27393,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3044": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3044&head=1&eyes=3&body=8&grd=1&isl=2",
@@ -27402,7 +27402,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3045": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3045&head=5&eyes=2&body=7&grd=5&isl=2",
@@ -27411,7 +27411,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3046": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3046&head=7&eyes=3&body=4&grd=5&isl=1",
@@ -27429,7 +27429,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3048": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3048&head=2&eyes=3&body=10&grd=4&isl=3",
@@ -27438,7 +27438,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3049": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3049&head=4&eyes=1&body=9&grd=5&isl=2",
@@ -27447,7 +27447,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3050": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3050&head=8&eyes=3&body=5&grd=3&isl=2",
@@ -27456,7 +27456,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3051": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3051&head=3&eyes=1&body=11&grd=2&isl=3",
@@ -27465,7 +27465,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3052": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3052&head=2&eyes=1&body=5&grd=5&isl=1",
@@ -27483,7 +27483,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3054": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3054&head=8&eyes=2&body=4&grd=2&isl=3",
@@ -27492,7 +27492,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3055": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3055&head=5&eyes=4&body=1&grd=1&isl=1",
@@ -27510,7 +27510,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3057": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3057&head=5&eyes=3&body=5&grd=1&isl=3",
@@ -27519,7 +27519,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3058": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3058&head=7&eyes=3&body=6&grd=4&isl=1",
@@ -27537,7 +27537,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3060": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3060&head=6&eyes=2&body=7&grd=2&isl=1",
@@ -27564,7 +27564,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3063": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3063&head=3&eyes=4&body=9&grd=4&isl=2",
@@ -27573,7 +27573,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3064": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3064&head=1&eyes=2&body=10&grd=2&isl=2",
@@ -27582,7 +27582,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3065": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3065&head=2&eyes=4&body=2&grd=1&isl=2",
@@ -27591,7 +27591,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3066": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3066&head=7&eyes=2&body=10&grd=2&isl=1",
@@ -27618,7 +27618,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3069": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3069&head=2&eyes=2&body=5&grd=5&isl=1",
@@ -27636,7 +27636,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3071": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3071&head=8&eyes=2&body=1&grd=2&isl=2",
@@ -27645,7 +27645,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3072": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3072&head=3&eyes=3&body=11&grd=4&isl=3",
@@ -27654,7 +27654,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3073": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3073&head=3&eyes=1&body=10&grd=2&isl=3",
@@ -27663,7 +27663,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3074": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3074&head=8&eyes=2&body=9&grd=2&isl=2",
@@ -27672,7 +27672,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3075": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3075&head=7&eyes=3&body=11&grd=2&isl=2",
@@ -27681,7 +27681,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3076": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3076&head=8&eyes=1&body=4&grd=3&isl=3",
@@ -27690,7 +27690,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3077": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3077&head=8&eyes=2&body=3&grd=3&isl=1",
@@ -27717,7 +27717,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3080": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3080&head=1&eyes=3&body=5&grd=2&isl=1",
@@ -27735,7 +27735,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3082": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3082&head=3&eyes=3&body=9&grd=2&isl=2",
@@ -27744,7 +27744,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3083": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3083&head=3&eyes=4&body=2&grd=5&isl=3",
@@ -27753,7 +27753,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3084": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3084&head=4&eyes=4&body=4&grd=2&isl=1",
@@ -27780,7 +27780,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3087": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3087&head=4&eyes=1&body=12&grd=3&isl=2",
@@ -27789,7 +27789,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3088": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3088&head=6&eyes=2&body=10&grd=4&isl=1",
@@ -27807,7 +27807,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3090": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3090&head=1&eyes=4&body=13&grd=2&isl=1",
@@ -27825,7 +27825,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3092": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3092&head=6&eyes=2&body=11&grd=1&isl=2",
@@ -27834,7 +27834,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3093": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3093&head=5&eyes=3&body=4&grd=3&isl=2",
@@ -27843,7 +27843,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3094": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3094&head=3&eyes=3&body=11&grd=5&isl=1",
@@ -27861,7 +27861,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3096": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3096&head=4&eyes=1&body=8&grd=5&isl=3",
@@ -27870,7 +27870,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3097": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3097&head=6&eyes=1&body=3&grd=5&isl=1",
@@ -27897,7 +27897,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3100": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3100&head=2&eyes=2&body=8&grd=4&isl=2",
@@ -27906,7 +27906,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3101": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3101&head=2&eyes=2&body=11&grd=3&isl=2",
@@ -27915,7 +27915,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3102": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3102&head=7&eyes=1&body=2&grd=2&isl=1",
@@ -27942,7 +27942,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3105": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3105&head=6&eyes=4&body=10&grd=2&isl=3",
@@ -27951,7 +27951,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3106": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3106&head=8&eyes=3&body=1&grd=2&isl=1",
@@ -27969,7 +27969,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3108": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3108&head=3&eyes=2&body=10&grd=1&isl=2",
@@ -27978,7 +27978,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3109": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3109&head=2&eyes=4&body=5&grd=2&isl=1",
@@ -27996,7 +27996,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3111": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3111&head=4&eyes=1&body=3&grd=4&isl=3",
@@ -28005,7 +28005,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3112": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3112&head=3&eyes=3&body=3&grd=5&isl=1",
@@ -28023,7 +28023,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3114": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3114&head=3&eyes=4&body=6&grd=3&isl=3",
@@ -28032,7 +28032,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3115": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3115&head=8&eyes=3&body=5&grd=2&isl=1",
@@ -28068,7 +28068,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3119": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3119&head=4&eyes=3&body=12&grd=1&isl=1",
@@ -28086,7 +28086,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3121": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3121&head=6&eyes=2&body=7&grd=2&isl=2",
@@ -28095,7 +28095,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3122": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3122&head=1&eyes=3&body=1&grd=5&isl=1",
@@ -28113,7 +28113,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3124": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3124&head=6&eyes=1&body=5&grd=4&isl=1",
@@ -28131,7 +28131,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3126": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3126&head=5&eyes=2&body=6&grd=3&isl=1",
@@ -28149,7 +28149,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3128": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3128&head=7&eyes=3&body=7&grd=4&isl=3",
@@ -28158,7 +28158,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3129": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3129&head=6&eyes=2&body=2&grd=3&isl=1",
@@ -28194,7 +28194,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3133": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3133&head=4&eyes=4&body=3&grd=1&isl=2",
@@ -28203,7 +28203,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3134": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3134&head=8&eyes=1&body=11&grd=1&isl=1",
@@ -28221,7 +28221,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3136": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3136&head=5&eyes=3&body=11&grd=2&isl=1",
@@ -28239,7 +28239,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3138": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3138&head=8&eyes=1&body=10&grd=1&isl=2",
@@ -28248,7 +28248,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3139": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3139&head=8&eyes=3&body=9&grd=1&isl=1",
@@ -28266,7 +28266,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3141": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3141&head=4&eyes=1&body=5&grd=5&isl=1",
@@ -28302,7 +28302,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3145": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3145&head=4&eyes=2&body=1&grd=4&isl=3",
@@ -28311,7 +28311,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3146": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3146&head=4&eyes=1&body=1&grd=5&isl=2",
@@ -28320,7 +28320,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3147": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3147&head=7&eyes=3&body=6&grd=2&isl=1",
@@ -28347,7 +28347,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3150": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3150&head=2&eyes=3&body=2&grd=3&isl=3",
@@ -28356,7 +28356,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3151": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3151&head=5&eyes=2&body=7&grd=4&isl=2",
@@ -28365,7 +28365,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3152": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3152&head=7&eyes=1&body=10&grd=3&isl=2",
@@ -28374,7 +28374,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3153": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3153&head=6&eyes=1&body=9&grd=1&isl=1",
@@ -28419,7 +28419,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3158": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3158&head=5&eyes=3&body=5&grd=3&isl=3",
@@ -28428,7 +28428,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3159": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3159&head=6&eyes=2&body=13&grd=3&isl=1",
@@ -28446,7 +28446,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3161": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3161&head=7&eyes=2&body=13&grd=2&isl=2",
@@ -28455,7 +28455,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3162": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3162&head=2&eyes=2&body=9&grd=5&isl=1",
@@ -28473,7 +28473,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3164": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3164&head=2&eyes=3&body=6&grd=2&isl=2",
@@ -28482,7 +28482,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3165": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3165&head=6&eyes=1&body=5&grd=4&isl=3",
@@ -28491,7 +28491,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3166": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3166&head=6&eyes=4&body=10&grd=1&isl=3",
@@ -28500,7 +28500,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3167": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3167&head=3&eyes=4&body=9&grd=2&isl=1",
@@ -28518,7 +28518,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3169": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3169&head=7&eyes=1&body=2&grd=4&isl=2",
@@ -28527,7 +28527,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3170": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3170&head=4&eyes=1&body=12&grd=3&isl=3",
@@ -28536,7 +28536,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3171": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3171&head=2&eyes=4&body=5&grd=3&isl=2",
@@ -28545,7 +28545,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3172": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3172&head=4&eyes=1&body=2&grd=5&isl=1",
@@ -28563,7 +28563,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3174": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3174&head=8&eyes=2&body=3&grd=1&isl=2",
@@ -28572,7 +28572,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3175": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3175&head=5&eyes=2&body=9&grd=3&isl=2",
@@ -28581,7 +28581,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3176": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3176&head=6&eyes=3&body=6&grd=2&isl=1",
@@ -28608,7 +28608,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3179": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3179&head=4&eyes=2&body=6&grd=5&isl=3",
@@ -28617,7 +28617,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3180": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3180&head=8&eyes=3&body=8&grd=3&isl=3",
@@ -28626,7 +28626,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3181": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3181&head=8&eyes=3&body=3&grd=1&isl=3",
@@ -28635,7 +28635,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3182": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3182&head=7&eyes=3&body=8&grd=1&isl=1",
@@ -28653,7 +28653,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3184": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3184&head=6&eyes=3&body=12&grd=1&isl=3",
@@ -28662,7 +28662,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3185": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3185&head=7&eyes=1&body=13&grd=1&isl=2",
@@ -28671,7 +28671,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3186": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3186&head=6&eyes=3&body=5&grd=5&isl=3",
@@ -28680,7 +28680,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3187": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3187&head=2&eyes=3&body=2&grd=5&isl=3",
@@ -28689,7 +28689,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3188": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3188&head=2&eyes=1&body=13&grd=4&isl=1",
@@ -28707,7 +28707,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3190": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3190&head=3&eyes=4&body=7&grd=1&isl=1",
@@ -28725,7 +28725,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3192": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3192&head=5&eyes=2&body=4&grd=5&isl=2",
@@ -28734,7 +28734,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3193": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3193&head=8&eyes=4&body=2&grd=1&isl=1",
@@ -28752,7 +28752,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3195": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3195&head=7&eyes=3&body=3&grd=5&isl=3",
@@ -28761,7 +28761,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3196": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3196&head=5&eyes=1&body=1&grd=1&isl=3",
@@ -28770,7 +28770,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3197": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3197&head=7&eyes=3&body=10&grd=1&isl=1",
@@ -28788,7 +28788,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3199": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3199&head=4&eyes=2&body=8&grd=5&isl=1",
@@ -28806,7 +28806,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3201": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3201&head=8&eyes=4&body=1&grd=3&isl=3",
@@ -28815,7 +28815,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3202": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3202&head=3&eyes=4&body=2&grd=5&isl=1",
@@ -28833,7 +28833,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3204": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3204&head=5&eyes=3&body=1&grd=4&isl=2",
@@ -28842,7 +28842,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3205": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3205&head=3&eyes=3&body=5&grd=5&isl=1",
@@ -28869,7 +28869,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3208": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3208&head=8&eyes=3&body=4&grd=3&isl=2",
@@ -28878,7 +28878,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3209": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3209&head=4&eyes=1&body=6&grd=4&isl=2",
@@ -28887,7 +28887,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3210": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3210&head=1&eyes=3&body=1&grd=2&isl=3",
@@ -28896,7 +28896,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3211": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3211&head=5&eyes=4&body=9&grd=4&isl=2",
@@ -28905,7 +28905,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3212": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3212&head=8&eyes=1&body=7&grd=1&isl=1",
@@ -28923,7 +28923,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3214": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3214&head=7&eyes=3&body=11&grd=2&isl=1",
@@ -28941,7 +28941,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3216": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3216&head=7&eyes=2&body=11&grd=4&isl=1",
@@ -28977,7 +28977,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3220": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3220&head=2&eyes=4&body=6&grd=3&isl=3",
@@ -28986,7 +28986,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3221": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3221&head=6&eyes=3&body=5&grd=2&isl=3",
@@ -28995,7 +28995,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3222": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3222&head=5&eyes=3&body=6&grd=2&isl=2",
@@ -29004,7 +29004,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3223": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3223&head=2&eyes=1&body=10&grd=3&isl=2",
@@ -29013,7 +29013,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3224": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3224&head=5&eyes=1&body=8&grd=3&isl=1",
@@ -29031,7 +29031,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3226": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3226&head=2&eyes=4&body=6&grd=1&isl=2",
@@ -29040,7 +29040,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3227": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3227&head=2&eyes=3&body=2&grd=4&isl=3",
@@ -29049,7 +29049,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3228": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3228&head=5&eyes=3&body=13&grd=1&isl=3",
@@ -29058,7 +29058,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3229": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3229&head=1&eyes=1&body=4&grd=5&isl=2",
@@ -29067,7 +29067,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3230": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3230&head=3&eyes=1&body=7&grd=2&isl=3",
@@ -29076,7 +29076,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3231": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3231&head=1&eyes=3&body=12&grd=3&isl=1",
@@ -29094,7 +29094,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3233": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3233&head=6&eyes=4&body=4&grd=2&isl=1",
@@ -29112,7 +29112,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3235": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3235&head=2&eyes=3&body=3&grd=1&isl=3",
@@ -29121,7 +29121,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3236": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3236&head=4&eyes=2&body=11&grd=3&isl=2",
@@ -29130,7 +29130,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3237": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3237&head=3&eyes=3&body=5&grd=3&isl=2",
@@ -29139,7 +29139,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3238": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3238&head=1&eyes=4&body=2&grd=3&isl=1",
@@ -29157,7 +29157,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3240": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3240&head=2&eyes=1&body=11&grd=1&isl=3",
@@ -29166,7 +29166,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3241": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3241&head=7&eyes=2&body=9&grd=4&isl=3",
@@ -29175,7 +29175,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3242": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3242&head=6&eyes=3&body=12&grd=2&isl=1",
@@ -29202,7 +29202,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3245": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3245&head=7&eyes=2&body=5&grd=5&isl=2",
@@ -29211,7 +29211,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3246": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3246&head=4&eyes=2&body=4&grd=4&isl=3",
@@ -29220,7 +29220,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3247": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3247&head=5&eyes=1&body=13&grd=1&isl=1",
@@ -29238,7 +29238,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3249": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3249&head=3&eyes=2&body=7&grd=4&isl=2",
@@ -29247,7 +29247,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3250": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3250&head=3&eyes=1&body=3&grd=5&isl=2",
@@ -29256,7 +29256,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3251": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3251&head=4&eyes=1&body=4&grd=5&isl=2",
@@ -29265,7 +29265,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3252": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3252&head=4&eyes=1&body=5&grd=1&isl=2",
@@ -29274,7 +29274,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3253": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3253&head=4&eyes=1&body=10&grd=3&isl=1",
@@ -29292,7 +29292,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3255": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3255&head=5&eyes=4&body=2&grd=2&isl=3",
@@ -29301,7 +29301,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3256": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3256&head=5&eyes=3&body=12&grd=1&isl=1",
@@ -29319,7 +29319,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3258": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3258&head=1&eyes=4&body=3&grd=2&isl=3",
@@ -29328,7 +29328,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3259": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3259&head=4&eyes=3&body=1&grd=4&isl=2",
@@ -29337,7 +29337,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3260": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3260&head=5&eyes=1&body=11&grd=1&isl=1",
@@ -29355,7 +29355,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3262": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3262&head=3&eyes=1&body=11&grd=5&isl=2",
@@ -29364,7 +29364,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3263": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3263&head=3&eyes=1&body=7&grd=5&isl=2",
@@ -29373,7 +29373,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3264": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3264&head=5&eyes=1&body=7&grd=4&isl=3",
@@ -29382,7 +29382,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3265": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3265&head=3&eyes=3&body=7&grd=1&isl=3",
@@ -29391,7 +29391,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3266": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3266&head=2&eyes=4&body=7&grd=2&isl=3",
@@ -29400,7 +29400,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3267": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3267&head=5&eyes=3&body=6&grd=3&isl=2",
@@ -29409,7 +29409,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3268": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3268&head=3&eyes=2&body=11&grd=3&isl=1",
@@ -29427,7 +29427,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3270": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3270&head=3&eyes=1&body=13&grd=2&isl=2",
@@ -29436,7 +29436,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3271": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3271&head=3&eyes=3&body=6&grd=4&isl=2",
@@ -29445,7 +29445,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3272": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3272&head=6&eyes=2&body=6&grd=1&isl=2",
@@ -29454,7 +29454,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3273": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3273&head=2&eyes=3&body=4&grd=2&isl=2",
@@ -29463,7 +29463,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3274": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3274&head=2&eyes=4&body=2&grd=2&isl=3",
@@ -29472,7 +29472,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3275": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3275&head=1&eyes=3&body=10&grd=3&isl=2",
@@ -29481,7 +29481,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3276": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3276&head=8&eyes=3&body=11&grd=5&isl=1",
@@ -29499,7 +29499,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3278": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3278&head=3&eyes=1&body=9&grd=4&isl=2",
@@ -29508,7 +29508,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3279": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3279&head=3&eyes=4&body=7&grd=4&isl=2",
@@ -29517,7 +29517,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3280": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3280&head=4&eyes=1&body=11&grd=4&isl=1",
@@ -29535,7 +29535,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3282": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3282&head=7&eyes=1&body=7&grd=4&isl=3",
@@ -29544,7 +29544,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3283": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3283&head=6&eyes=3&body=10&grd=2&isl=1",
@@ -29562,7 +29562,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3285": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3285&head=4&eyes=3&body=1&grd=5&isl=1",
@@ -29580,7 +29580,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3287": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3287&head=1&eyes=3&body=6&grd=1&isl=3",
@@ -29589,7 +29589,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3288": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3288&head=6&eyes=1&body=5&grd=3&isl=3",
@@ -29598,7 +29598,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3289": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3289&head=5&eyes=3&body=3&grd=5&isl=2",
@@ -29607,7 +29607,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3290": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3290&head=4&eyes=3&body=10&grd=2&isl=2",
@@ -29616,7 +29616,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3291": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3291&head=6&eyes=1&body=11&grd=2&isl=2",
@@ -29625,7 +29625,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3292": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3292&head=8&eyes=2&body=3&grd=2&isl=3",
@@ -29634,7 +29634,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3293": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3293&head=8&eyes=3&body=4&grd=4&isl=1",
@@ -29652,7 +29652,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3295": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3295&head=4&eyes=3&body=3&grd=2&isl=2",
@@ -29661,7 +29661,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3296": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3296&head=1&eyes=1&body=13&grd=5&isl=1",
@@ -29679,7 +29679,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3298": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3298&head=1&eyes=2&body=8&grd=3&isl=3",
@@ -29688,7 +29688,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3299": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3299&head=4&eyes=2&body=1&grd=5&isl=1",
@@ -29706,7 +29706,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3301": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3301&head=6&eyes=1&body=2&grd=2&isl=3",
@@ -29715,7 +29715,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3302": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3302&head=4&eyes=2&body=5&grd=4&isl=3",
@@ -29724,7 +29724,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3303": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3303&head=6&eyes=2&body=8&grd=1&isl=2",
@@ -29733,7 +29733,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3304": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3304&head=4&eyes=3&body=2&grd=4&isl=2",
@@ -29742,7 +29742,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3305": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3305&head=4&eyes=1&body=1&grd=1&isl=3",
@@ -29751,7 +29751,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3306": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3306&head=6&eyes=2&body=1&grd=5&isl=3",
@@ -29760,7 +29760,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3307": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3307&head=2&eyes=4&body=3&grd=4&isl=1",
@@ -29778,7 +29778,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3309": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3309&head=5&eyes=4&body=3&grd=4&isl=2",
@@ -29787,7 +29787,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3310": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3310&head=2&eyes=2&body=10&grd=3&isl=1",
@@ -29823,7 +29823,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3314": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3314&head=3&eyes=2&body=8&grd=4&isl=1",
@@ -29850,7 +29850,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3317": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3317&head=1&eyes=1&body=12&grd=3&isl=1",
@@ -29877,7 +29877,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3320": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3320&head=8&eyes=2&body=3&grd=3&isl=3",
@@ -29886,7 +29886,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3321": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3321&head=8&eyes=1&body=3&grd=2&isl=2",
@@ -29895,7 +29895,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3322": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3322&head=5&eyes=2&body=12&grd=2&isl=2",
@@ -29904,7 +29904,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3323": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3323&head=1&eyes=4&body=1&grd=2&isl=3",
@@ -29913,7 +29913,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3324": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3324&head=7&eyes=2&body=5&grd=1&isl=3",
@@ -29922,7 +29922,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3325": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3325&head=7&eyes=3&body=10&grd=3&isl=3",
@@ -29931,7 +29931,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3326": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3326&head=7&eyes=1&body=6&grd=5&isl=2",
@@ -29940,7 +29940,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3327": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3327&head=2&eyes=4&body=4&grd=5&isl=2",
@@ -29949,7 +29949,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3328": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3328&head=7&eyes=2&body=5&grd=4&isl=1",
@@ -29967,7 +29967,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3330": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3330&head=5&eyes=4&body=6&grd=5&isl=1",
@@ -29985,7 +29985,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3332": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3332&head=7&eyes=1&body=9&grd=4&isl=2",
@@ -29994,7 +29994,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3333": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3333&head=4&eyes=1&body=11&grd=1&isl=2",
@@ -30003,7 +30003,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3334": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3334&head=2&eyes=2&body=9&grd=4&isl=3",
@@ -30012,7 +30012,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3335": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3335&head=7&eyes=1&body=2&grd=2&isl=3",
@@ -30021,7 +30021,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3336": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3336&head=5&eyes=4&body=1&grd=3&isl=3",
@@ -30030,7 +30030,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3337": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3337&head=6&eyes=2&body=9&grd=3&isl=2",
@@ -30039,7 +30039,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3338": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3338&head=2&eyes=2&body=8&grd=4&isl=3",
@@ -30048,7 +30048,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3339": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3339&head=5&eyes=1&body=6&grd=1&isl=3",
@@ -30057,7 +30057,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3340": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3340&head=6&eyes=2&body=1&grd=4&isl=2",
@@ -30066,7 +30066,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3341": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3341&head=4&eyes=4&body=6&grd=3&isl=3",
@@ -30075,7 +30075,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3342": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3342&head=3&eyes=4&body=3&grd=4&isl=1",
@@ -30093,7 +30093,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3344": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3344&head=6&eyes=1&body=4&grd=3&isl=2",
@@ -30102,7 +30102,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3345": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3345&head=2&eyes=1&body=9&grd=3&isl=2",
@@ -30111,7 +30111,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3346": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3346&head=7&eyes=2&body=5&grd=2&isl=3",
@@ -30120,7 +30120,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3347": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3347&head=5&eyes=4&body=7&grd=1&isl=3",
@@ -30129,7 +30129,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3348": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3348&head=2&eyes=3&body=3&grd=3&isl=3",
@@ -30138,7 +30138,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3349": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3349&head=3&eyes=3&body=3&grd=3&isl=1",
@@ -30156,7 +30156,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3351": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3351&head=4&eyes=2&body=13&grd=4&isl=1",
@@ -30174,7 +30174,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3353": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3353&head=5&eyes=3&body=6&grd=1&isl=2",
@@ -30183,7 +30183,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3354": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3354&head=5&eyes=3&body=10&grd=3&isl=1",
@@ -30210,7 +30210,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3357": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3357&head=1&eyes=3&body=13&grd=2&isl=1",
@@ -30228,7 +30228,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3359": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3359&head=5&eyes=2&body=10&grd=5&isl=2",
@@ -30237,7 +30237,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3360": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3360&head=8&eyes=1&body=4&grd=2&isl=2",
@@ -30246,7 +30246,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3361": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3361&head=5&eyes=2&body=3&grd=4&isl=1",
@@ -30264,7 +30264,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3363": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3363&head=3&eyes=1&body=6&grd=5&isl=2",
@@ -30273,7 +30273,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3364": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3364&head=6&eyes=4&body=2&grd=5&isl=2",
@@ -30282,7 +30282,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3365": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3365&head=3&eyes=3&body=11&grd=3&isl=3",
@@ -30291,7 +30291,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3366": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3366&head=5&eyes=1&body=4&grd=4&isl=3",
@@ -30300,7 +30300,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3367": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3367&head=1&eyes=3&body=11&grd=5&isl=2",
@@ -30309,7 +30309,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3368": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3368&head=1&eyes=1&body=12&grd=4&isl=3",
@@ -30318,7 +30318,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3369": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3369&head=4&eyes=2&body=8&grd=1&isl=3",
@@ -30327,7 +30327,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3370": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3370&head=6&eyes=2&body=10&grd=2&isl=1",
@@ -30345,7 +30345,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3372": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3372&head=4&eyes=2&body=8&grd=4&isl=2",
@@ -30354,7 +30354,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3373": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3373&head=4&eyes=4&body=7&grd=2&isl=2",
@@ -30363,7 +30363,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3374": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3374&head=2&eyes=3&body=5&grd=4&isl=3",
@@ -30372,7 +30372,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3375": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3375&head=5&eyes=3&body=6&grd=2&isl=3",
@@ -30381,7 +30381,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3376": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3376&head=1&eyes=4&body=6&grd=3&isl=2",
@@ -30390,7 +30390,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3377": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3377&head=4&eyes=3&body=7&grd=2&isl=3",
@@ -30399,7 +30399,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3378": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3378&head=5&eyes=4&body=3&grd=5&isl=2",
@@ -30408,7 +30408,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3379": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3379&head=2&eyes=3&body=9&grd=3&isl=3",
@@ -30417,7 +30417,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3380": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3380&head=7&eyes=1&body=5&grd=1&isl=3",
@@ -30426,7 +30426,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3381": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3381&head=5&eyes=1&body=6&grd=4&isl=2",
@@ -30435,7 +30435,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3382": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3382&head=5&eyes=4&body=10&grd=2&isl=2",
@@ -30444,7 +30444,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3383": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3383&head=5&eyes=2&body=7&grd=2&isl=3",
@@ -30453,7 +30453,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3384": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3384&head=3&eyes=1&body=11&grd=4&isl=2",
@@ -30462,7 +30462,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3385": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3385&head=8&eyes=4&body=2&grd=3&isl=1",
@@ -30480,7 +30480,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3387": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3387&head=8&eyes=3&body=6&grd=2&isl=1",
@@ -30498,7 +30498,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3389": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3389&head=7&eyes=4&body=9&grd=4&isl=1",
@@ -30516,7 +30516,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3391": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3391&head=7&eyes=2&body=2&grd=4&isl=2",
@@ -30525,7 +30525,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3392": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3392&head=5&eyes=2&body=3&grd=4&isl=3",
@@ -30534,7 +30534,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3393": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3393&head=8&eyes=1&body=6&grd=4&isl=2",
@@ -30543,7 +30543,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3394": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3394&head=3&eyes=1&body=3&grd=5&isl=1",
@@ -30588,7 +30588,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3399": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3399&head=4&eyes=3&body=4&grd=1&isl=2",
@@ -30597,7 +30597,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3400": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3400&head=5&eyes=1&body=6&grd=4&isl=3",
@@ -30606,7 +30606,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3401": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3401&head=1&eyes=3&body=7&grd=5&isl=3",
@@ -30615,7 +30615,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3402": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3402&head=6&eyes=1&body=10&grd=1&isl=2",
@@ -30624,7 +30624,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3403": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3403&head=3&eyes=1&body=9&grd=3&isl=3",
@@ -30633,7 +30633,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3404": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3404&head=4&eyes=2&body=13&grd=2&isl=1",
@@ -30651,7 +30651,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3406": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3406&head=1&eyes=3&body=8&grd=4&isl=3",
@@ -30660,7 +30660,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3407": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3407&head=8&eyes=2&body=1&grd=3&isl=2",
@@ -30669,7 +30669,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3408": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3408&head=4&eyes=3&body=6&grd=4&isl=1",
@@ -30687,7 +30687,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3410": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3410&head=7&eyes=1&body=10&grd=2&isl=3",
@@ -30696,7 +30696,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3411": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3411&head=1&eyes=1&body=9&grd=4&isl=1",
@@ -30750,7 +30750,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3417": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3417&head=6&eyes=3&body=2&grd=4&isl=1",
@@ -30768,7 +30768,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3419": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3419&head=5&eyes=4&body=2&grd=4&isl=3",
@@ -30777,7 +30777,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3420": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3420&head=7&eyes=1&body=3&grd=1&isl=2",
@@ -30786,7 +30786,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3421": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3421&head=6&eyes=1&body=13&grd=4&isl=2",
@@ -30795,7 +30795,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3422": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3422&head=3&eyes=3&body=8&grd=5&isl=3",
@@ -30804,7 +30804,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3423": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3423&head=3&eyes=4&body=8&grd=5&isl=2",
@@ -30813,7 +30813,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3424": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3424&head=2&eyes=1&body=13&grd=4&isl=2",
@@ -30822,7 +30822,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3425": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3425&head=2&eyes=4&body=4&grd=2&isl=3",
@@ -30831,7 +30831,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3426": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3426&head=8&eyes=2&body=6&grd=3&isl=2",
@@ -30840,7 +30840,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3427": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3427&head=7&eyes=3&body=2&grd=1&isl=3",
@@ -30849,7 +30849,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3428": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3428&head=3&eyes=2&body=12&grd=3&isl=1",
@@ -30876,7 +30876,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3431": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3431&head=6&eyes=2&body=3&grd=3&isl=1",
@@ -30894,7 +30894,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3433": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3433&head=7&eyes=2&body=9&grd=4&isl=2",
@@ -30903,7 +30903,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3434": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3434&head=4&eyes=4&body=3&grd=4&isl=2",
@@ -30912,7 +30912,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3435": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3435&head=1&eyes=1&body=8&grd=4&isl=3",
@@ -30921,7 +30921,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3436": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3436&head=1&eyes=2&body=12&grd=5&isl=2",
@@ -30930,7 +30930,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3437": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3437&head=1&eyes=3&body=11&grd=1&isl=3",
@@ -30939,7 +30939,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3438": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3438&head=5&eyes=1&body=6&grd=5&isl=3",
@@ -30948,7 +30948,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3439": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3439&head=6&eyes=2&body=11&grd=1&isl=3",
@@ -30957,7 +30957,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3440": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3440&head=3&eyes=4&body=4&grd=2&isl=3",
@@ -30966,7 +30966,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3441": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3441&head=3&eyes=4&body=2&grd=1&isl=3",
@@ -30975,7 +30975,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3442": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3442&head=6&eyes=3&body=8&grd=3&isl=1",
@@ -30993,7 +30993,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3444": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3444&head=6&eyes=3&body=2&grd=1&isl=3",
@@ -31002,7 +31002,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3445": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3445&head=3&eyes=2&body=8&grd=3&isl=3",
@@ -31011,7 +31011,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3446": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3446&head=2&eyes=3&body=10&grd=3&isl=3",
@@ -31020,7 +31020,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3447": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3447&head=6&eyes=3&body=6&grd=5&isl=1",
@@ -31038,7 +31038,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3449": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3449&head=2&eyes=3&body=8&grd=2&isl=2",
@@ -31047,7 +31047,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3450": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3450&head=2&eyes=4&body=1&grd=3&isl=2",
@@ -31056,7 +31056,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3451": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3451&head=1&eyes=3&body=2&grd=5&isl=1",
@@ -31074,7 +31074,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3453": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3453&head=7&eyes=1&body=12&grd=2&isl=3",
@@ -31083,7 +31083,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3454": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3454&head=3&eyes=2&body=8&grd=3&isl=2",
@@ -31092,7 +31092,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3455": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3455&head=5&eyes=1&body=3&grd=1&isl=3",
@@ -31101,7 +31101,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3456": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3456&head=7&eyes=2&body=5&grd=4&isl=2",
@@ -31110,7 +31110,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3457": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3457&head=4&eyes=2&body=8&grd=5&isl=2",
@@ -31119,7 +31119,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3458": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3458&head=3&eyes=3&body=7&grd=2&isl=3",
@@ -31128,7 +31128,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3459": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3459&head=1&eyes=4&body=12&grd=3&isl=1",
@@ -31173,7 +31173,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3464": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3464&head=6&eyes=3&body=8&grd=5&isl=2",
@@ -31182,7 +31182,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3465": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3465&head=4&eyes=1&body=12&grd=4&isl=1",
@@ -31209,7 +31209,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3468": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3468&head=7&eyes=3&body=8&grd=4&isl=2",
@@ -31218,7 +31218,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3469": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3469&head=4&eyes=1&body=3&grd=4&isl=2",
@@ -31227,7 +31227,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3470": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3470&head=4&eyes=2&body=11&grd=4&isl=1",
@@ -31245,7 +31245,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3472": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3472&head=2&eyes=4&body=1&grd=4&isl=3",
@@ -31254,7 +31254,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3473": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3473&head=7&eyes=3&body=5&grd=1&isl=3",
@@ -31263,7 +31263,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3474": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3474&head=5&eyes=2&body=6&grd=1&isl=3",
@@ -31272,7 +31272,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3475": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3475&head=8&eyes=1&body=13&grd=2&isl=1",
@@ -31299,7 +31299,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3478": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3478&head=6&eyes=3&body=4&grd=4&isl=1",
@@ -31335,7 +31335,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3482": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3482&head=6&eyes=1&body=7&grd=3&isl=3",
@@ -31344,7 +31344,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3483": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3483&head=5&eyes=3&body=4&grd=4&isl=2",
@@ -31353,7 +31353,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3484": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3484&head=3&eyes=3&body=11&grd=4&isl=2",
@@ -31362,7 +31362,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3485": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3485&head=4&eyes=1&body=6&grd=4&isl=3",
@@ -31371,7 +31371,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3486": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3486&head=3&eyes=3&body=4&grd=3&isl=3",
@@ -31380,7 +31380,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3487": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3487&head=5&eyes=3&body=7&grd=4&isl=3",
@@ -31389,7 +31389,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3488": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3488&head=8&eyes=2&body=2&grd=3&isl=1",
@@ -31407,7 +31407,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3490": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3490&head=1&eyes=1&body=7&grd=3&isl=3",
@@ -31416,7 +31416,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3491": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3491&head=5&eyes=2&body=10&grd=2&isl=2",
@@ -31425,7 +31425,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3492": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3492&head=2&eyes=4&body=9&grd=3&isl=2",
@@ -31434,7 +31434,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3493": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3493&head=2&eyes=4&body=6&grd=3&isl=2",
@@ -31443,7 +31443,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3494": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3494&head=2&eyes=2&body=9&grd=5&isl=3",
@@ -31452,7 +31452,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3495": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3495&head=1&eyes=3&body=11&grd=2&isl=1",
@@ -31470,7 +31470,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3497": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3497&head=2&eyes=4&body=1&grd=3&isl=3",
@@ -31479,7 +31479,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3498": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3498&head=5&eyes=2&body=9&grd=3&isl=3",
@@ -31488,7 +31488,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3499": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3499&head=4&eyes=3&body=13&grd=3&isl=3",
@@ -31497,7 +31497,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3500": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3500&head=7&eyes=2&body=6&grd=5&isl=2",
@@ -31506,7 +31506,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3501": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3501&head=1&eyes=4&body=8&grd=5&isl=1",
@@ -31524,7 +31524,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3503": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3503&head=7&eyes=1&body=1&grd=5&isl=2",
@@ -31533,7 +31533,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3504": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3504&head=3&eyes=4&body=8&grd=2&isl=2",
@@ -31542,7 +31542,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3505": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3505&head=3&eyes=1&body=5&grd=5&isl=2",
@@ -31551,7 +31551,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3506": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3506&head=8&eyes=2&body=1&grd=1&isl=1",
@@ -31569,7 +31569,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3508": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3508&head=5&eyes=1&body=9&grd=2&isl=3",
@@ -31578,7 +31578,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3509": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3509&head=3&eyes=2&body=4&grd=5&isl=2",
@@ -31587,7 +31587,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3510": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3510&head=7&eyes=3&body=6&grd=1&isl=2",
@@ -31596,7 +31596,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3511": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3511&head=1&eyes=2&body=7&grd=5&isl=2",
@@ -31605,7 +31605,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3512": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3512&head=5&eyes=4&body=7&grd=3&isl=1",
@@ -31623,7 +31623,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3514": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3514&head=6&eyes=3&body=11&grd=1&isl=3",
@@ -31632,7 +31632,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3515": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3515&head=4&eyes=4&body=10&grd=1&isl=1",
@@ -31650,7 +31650,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3517": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3517&head=6&eyes=1&body=9&grd=4&isl=2",
@@ -31659,7 +31659,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3518": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3518&head=5&eyes=3&body=11&grd=2&isl=3",
@@ -31668,7 +31668,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3519": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3519&head=2&eyes=2&body=9&grd=3&isl=3",
@@ -31677,7 +31677,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3520": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3520&head=4&eyes=2&body=12&grd=3&isl=1",
@@ -31713,7 +31713,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3524": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3524&head=5&eyes=2&body=10&grd=2&isl=1",
@@ -31731,7 +31731,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3526": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3526&head=4&eyes=4&body=1&grd=4&isl=3",
@@ -31740,7 +31740,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3527": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3527&head=4&eyes=2&body=3&grd=5&isl=1",
@@ -31767,7 +31767,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3530": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3530&head=4&eyes=2&body=10&grd=4&isl=3",
@@ -31776,7 +31776,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3531": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3531&head=7&eyes=2&body=8&grd=1&isl=2",
@@ -31785,7 +31785,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3532": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3532&head=2&eyes=3&body=6&grd=3&isl=3",
@@ -31794,7 +31794,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3533": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3533&head=8&eyes=1&body=10&grd=4&isl=1",
@@ -31812,7 +31812,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3535": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3535&head=1&eyes=4&body=12&grd=2&isl=1",
@@ -31839,7 +31839,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3538": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3538&head=6&eyes=4&body=4&grd=1&isl=3",
@@ -31848,7 +31848,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3539": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3539&head=1&eyes=1&body=5&grd=5&isl=3",
@@ -31857,7 +31857,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3540": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3540&head=1&eyes=4&body=1&grd=5&isl=1",
@@ -31875,7 +31875,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3542": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3542&head=3&eyes=3&body=4&grd=4&isl=2",
@@ -31884,7 +31884,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3543": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3543&head=8&eyes=1&body=9&grd=1&isl=3",
@@ -31893,7 +31893,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3544": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3544&head=5&eyes=2&body=5&grd=4&isl=1",
@@ -31911,7 +31911,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3546": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3546&head=3&eyes=2&body=13&grd=5&isl=3",
@@ -31920,7 +31920,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3547": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3547&head=4&eyes=3&body=1&grd=5&isl=3",
@@ -31929,7 +31929,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3548": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3548&head=1&eyes=2&body=1&grd=1&isl=3",
@@ -31938,7 +31938,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3549": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3549&head=8&eyes=4&body=2&grd=5&isl=2",
@@ -31947,7 +31947,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3550": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3550&head=3&eyes=3&body=8&grd=4&isl=1",
@@ -31974,7 +31974,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3553": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3553&head=7&eyes=1&body=4&grd=4&isl=1",
@@ -31992,7 +31992,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3555": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3555&head=8&eyes=2&body=7&grd=3&isl=2",
@@ -32001,7 +32001,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3556": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3556&head=5&eyes=3&body=8&grd=1&isl=3",
@@ -32010,7 +32010,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3557": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3557&head=6&eyes=2&body=9&grd=4&isl=1",
@@ -32037,7 +32037,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3560": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3560&head=5&eyes=4&body=13&grd=3&isl=3",
@@ -32046,7 +32046,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3561": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3561&head=7&eyes=2&body=6&grd=3&isl=3",
@@ -32055,7 +32055,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3562": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3562&head=6&eyes=2&body=8&grd=4&isl=3",
@@ -32064,7 +32064,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3563": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3563&head=7&eyes=1&body=5&grd=5&isl=3",
@@ -32073,7 +32073,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3564": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3564&head=7&eyes=2&body=3&grd=4&isl=1",
@@ -32091,7 +32091,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3566": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3566&head=5&eyes=3&body=5&grd=5&isl=3",
@@ -32100,7 +32100,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3567": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3567&head=2&eyes=4&body=11&grd=1&isl=1",
@@ -32118,7 +32118,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3569": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3569&head=5&eyes=4&body=5&grd=1&isl=2",
@@ -32127,7 +32127,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3570": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3570&head=8&eyes=2&body=6&grd=2&isl=2",
@@ -32136,7 +32136,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3571": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3571&head=6&eyes=3&body=11&grd=2&isl=1",
@@ -32154,7 +32154,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3573": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3573&head=7&eyes=4&body=3&grd=3&isl=3",
@@ -32163,7 +32163,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3574": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3574&head=7&eyes=2&body=10&grd=4&isl=2",
@@ -32172,7 +32172,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3575": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3575&head=7&eyes=2&body=11&grd=2&isl=1",
@@ -32190,7 +32190,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3577": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3577&head=6&eyes=1&body=11&grd=2&isl=3",
@@ -32199,7 +32199,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3578": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3578&head=4&eyes=3&body=4&grd=5&isl=2",
@@ -32208,7 +32208,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3579": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3579&head=5&eyes=3&body=7&grd=2&isl=1",
@@ -32226,7 +32226,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3581": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3581&head=7&eyes=1&body=6&grd=2&isl=2",
@@ -32235,7 +32235,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3582": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3582&head=8&eyes=4&body=8&grd=1&isl=1",
@@ -32253,7 +32253,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3584": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3584&head=5&eyes=2&body=10&grd=1&isl=1",
@@ -32271,7 +32271,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3586": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3586&head=5&eyes=2&body=11&grd=2&isl=3",
@@ -32280,7 +32280,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3587": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3587&head=6&eyes=2&body=9&grd=4&isl=3",
@@ -32289,7 +32289,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3588": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3588&head=4&eyes=2&body=7&grd=5&isl=2",
@@ -32298,7 +32298,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3589": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3589&head=6&eyes=2&body=2&grd=4&isl=2",
@@ -32307,7 +32307,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3590": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3590&head=8&eyes=3&body=3&grd=4&isl=3",
@@ -32316,7 +32316,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3591": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3591&head=6&eyes=3&body=9&grd=1&isl=1",
@@ -32334,7 +32334,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3593": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3593&head=3&eyes=3&body=1&grd=4&isl=3",
@@ -32343,7 +32343,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3594": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3594&head=7&eyes=4&body=9&grd=2&isl=1",
@@ -32370,7 +32370,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3597": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3597&head=6&eyes=3&body=10&grd=5&isl=2",
@@ -32379,7 +32379,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3598": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3598&head=4&eyes=3&body=1&grd=5&isl=2",
@@ -32388,7 +32388,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3599": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3599&head=7&eyes=4&body=7&grd=3&isl=1",
@@ -32406,7 +32406,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3601": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3601&head=2&eyes=2&body=12&grd=3&isl=2",
@@ -32415,7 +32415,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3602": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3602&head=6&eyes=4&body=5&grd=4&isl=1",
@@ -32442,7 +32442,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3605": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3605&head=2&eyes=4&body=13&grd=1&isl=2",
@@ -32451,7 +32451,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3606": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3606&head=7&eyes=1&body=3&grd=1&isl=3",
@@ -32460,7 +32460,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3607": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3607&head=7&eyes=3&body=5&grd=5&isl=3",
@@ -32469,7 +32469,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3608": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3608&head=7&eyes=1&body=6&grd=1&isl=3",
@@ -32478,7 +32478,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3609": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3609&head=5&eyes=4&body=3&grd=3&isl=1",
@@ -32496,7 +32496,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3611": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3611&head=8&eyes=1&body=9&grd=2&isl=2",
@@ -32505,7 +32505,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3612": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3612&head=5&eyes=3&body=9&grd=4&isl=1",
@@ -32523,7 +32523,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3614": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3614&head=7&eyes=4&body=4&grd=1&isl=1",
@@ -32541,7 +32541,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3616": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3616&head=3&eyes=3&body=10&grd=4&isl=3",
@@ -32550,7 +32550,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3617": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3617&head=2&eyes=2&body=1&grd=2&isl=3",
@@ -32559,7 +32559,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3618": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3618&head=1&eyes=1&body=8&grd=3&isl=3",
@@ -32568,7 +32568,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3619": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3619&head=7&eyes=3&body=7&grd=5&isl=1",
@@ -32586,7 +32586,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3621": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3621&head=1&eyes=3&body=8&grd=4&isl=2",
@@ -32595,7 +32595,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3622": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3622&head=5&eyes=1&body=8&grd=1&isl=3",
@@ -32604,7 +32604,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3623": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3623&head=7&eyes=1&body=8&grd=2&isl=3",
@@ -32613,7 +32613,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3624": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3624&head=6&eyes=2&body=3&grd=4&isl=2",
@@ -32622,7 +32622,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3625": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3625&head=7&eyes=3&body=9&grd=1&isl=2",
@@ -32631,7 +32631,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3626": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3626&head=5&eyes=3&body=12&grd=3&isl=3",
@@ -32640,7 +32640,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3627": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3627&head=8&eyes=3&body=4&grd=3&isl=1",
@@ -32658,7 +32658,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3629": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3629&head=4&eyes=4&body=9&grd=3&isl=1",
@@ -32694,7 +32694,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3633": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3633&head=6&eyes=3&body=9&grd=4&isl=1",
@@ -32730,7 +32730,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3637": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3637&head=6&eyes=1&body=8&grd=3&isl=2",
@@ -32739,7 +32739,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3638": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3638&head=6&eyes=2&body=2&grd=5&isl=1",
@@ -32757,7 +32757,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3640": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3640&head=7&eyes=1&body=3&grd=3&isl=2",
@@ -32766,7 +32766,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3641": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3641&head=4&eyes=1&body=12&grd=2&isl=3",
@@ -32775,7 +32775,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3642": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3642&head=4&eyes=4&body=9&grd=4&isl=2",
@@ -32784,7 +32784,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3643": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3643&head=7&eyes=4&body=2&grd=1&isl=2",
@@ -32793,7 +32793,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3644": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3644&head=4&eyes=1&body=10&grd=4&isl=2",
@@ -32802,7 +32802,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3645": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3645&head=8&eyes=4&body=1&grd=1&isl=1",
@@ -32838,7 +32838,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3649": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3649&head=6&eyes=3&body=1&grd=5&isl=3",
@@ -32847,7 +32847,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3650": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3650&head=4&eyes=1&body=5&grd=1&isl=3",
@@ -32856,7 +32856,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3651": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3651&head=6&eyes=4&body=7&grd=3&isl=3",
@@ -32865,7 +32865,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3652": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3652&head=5&eyes=4&body=7&grd=1&isl=2",
@@ -32874,7 +32874,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3653": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3653&head=8&eyes=2&body=6&grd=4&isl=3",
@@ -32883,7 +32883,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3654": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3654&head=3&eyes=3&body=13&grd=1&isl=1",
@@ -32901,7 +32901,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3656": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3656&head=2&eyes=2&body=2&grd=5&isl=3",
@@ -32910,7 +32910,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3657": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3657&head=3&eyes=1&body=8&grd=5&isl=1",
@@ -32937,7 +32937,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3660": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3660&head=1&eyes=3&body=10&grd=5&isl=1",
@@ -32955,7 +32955,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3662": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3662&head=3&eyes=4&body=6&grd=3&isl=2",
@@ -32964,7 +32964,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3663": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3663&head=3&eyes=4&body=7&grd=4&isl=1",
@@ -32982,7 +32982,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3665": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3665&head=8&eyes=1&body=9&grd=2&isl=3",
@@ -32991,7 +32991,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3666": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3666&head=8&eyes=3&body=3&grd=5&isl=2",
@@ -33000,7 +33000,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3667": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3667&head=6&eyes=3&body=4&grd=3&isl=3",
@@ -33009,7 +33009,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3668": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3668&head=7&eyes=2&body=8&grd=2&isl=2",
@@ -33018,7 +33018,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3669": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3669&head=4&eyes=4&body=5&grd=5&isl=1",
@@ -33045,7 +33045,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3672": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3672&head=5&eyes=1&body=8&grd=3&isl=3",
@@ -33054,7 +33054,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3673": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3673&head=2&eyes=3&body=11&grd=4&isl=1",
@@ -33072,7 +33072,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3675": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3675&head=8&eyes=4&body=4&grd=5&isl=1",
@@ -33108,7 +33108,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3679": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3679&head=3&eyes=2&body=5&grd=5&isl=3",
@@ -33117,7 +33117,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3680": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3680&head=8&eyes=2&body=12&grd=2&isl=1",
@@ -33144,7 +33144,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3683": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3683&head=4&eyes=4&body=5&grd=4&isl=1",
@@ -33162,7 +33162,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3685": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3685&head=8&eyes=3&body=1&grd=1&isl=3",
@@ -33171,7 +33171,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3686": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3686&head=2&eyes=2&body=11&grd=2&isl=3",
@@ -33180,7 +33180,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3687": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3687&head=6&eyes=3&body=6&grd=1&isl=1",
@@ -33207,7 +33207,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3690": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3690&head=7&eyes=3&body=7&grd=3&isl=1",
@@ -33225,7 +33225,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3692": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3692&head=8&eyes=1&body=1&grd=3&isl=1",
@@ -33261,7 +33261,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3696": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3696&head=6&eyes=4&body=1&grd=4&isl=3",
@@ -33270,7 +33270,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3697": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3697&head=5&eyes=1&body=10&grd=4&isl=1",
@@ -33288,7 +33288,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3699": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3699&head=6&eyes=1&body=11&grd=3&isl=1",
@@ -33333,7 +33333,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3704": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3704&head=8&eyes=4&body=2&grd=1&isl=2",
@@ -33342,7 +33342,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3705": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3705&head=5&eyes=1&body=5&grd=4&isl=2",
@@ -33351,7 +33351,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3706": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3706&head=1&eyes=4&body=12&grd=1&isl=3",
@@ -33360,7 +33360,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3707": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3707&head=3&eyes=2&body=6&grd=5&isl=2",
@@ -33369,7 +33369,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3708": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3708&head=1&eyes=2&body=11&grd=4&isl=3",
@@ -33378,7 +33378,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3709": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3709&head=5&eyes=1&body=4&grd=3&isl=3",
@@ -33387,7 +33387,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3710": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3710&head=7&eyes=4&body=3&grd=2&isl=2",
@@ -33396,7 +33396,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3711": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3711&head=7&eyes=2&body=9&grd=3&isl=2",
@@ -33405,7 +33405,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3712": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3712&head=4&eyes=4&body=11&grd=1&isl=2",
@@ -33414,7 +33414,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3713": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3713&head=3&eyes=3&body=7&grd=3&isl=2",
@@ -33423,7 +33423,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3714": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3714&head=2&eyes=4&body=2&grd=2&isl=2",
@@ -33432,7 +33432,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3715": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3715&head=1&eyes=4&body=3&grd=4&isl=2",
@@ -33441,7 +33441,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3716": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3716&head=1&eyes=1&body=12&grd=4&isl=2",
@@ -33450,7 +33450,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3717": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3717&head=8&eyes=3&body=5&grd=2&isl=2",
@@ -33459,7 +33459,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3718": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3718&head=3&eyes=4&body=4&grd=3&isl=1",
@@ -33477,7 +33477,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3720": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3720&head=1&eyes=2&body=12&grd=5&isl=3",
@@ -33486,7 +33486,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3721": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3721&head=5&eyes=3&body=5&grd=4&isl=2",
@@ -33495,7 +33495,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3722": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3722&head=3&eyes=2&body=7&grd=5&isl=3",
@@ -33504,7 +33504,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3723": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3723&head=2&eyes=4&body=9&grd=3&isl=3",
@@ -33513,7 +33513,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3724": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3724&head=8&eyes=1&body=1&grd=1&isl=2",
@@ -33522,7 +33522,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3725": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3725&head=1&eyes=1&body=11&grd=5&isl=1",
@@ -33540,7 +33540,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3727": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3727&head=4&eyes=3&body=8&grd=3&isl=2",
@@ -33549,7 +33549,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3728": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3728&head=5&eyes=4&body=12&grd=3&isl=2",
@@ -33558,7 +33558,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3729": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3729&head=7&eyes=2&body=10&grd=1&isl=3",
@@ -33567,7 +33567,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3730": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3730&head=4&eyes=4&body=3&grd=5&isl=1",
@@ -33585,7 +33585,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3732": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3732&head=5&eyes=2&body=8&grd=3&isl=2",
@@ -33594,7 +33594,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3733": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3733&head=5&eyes=3&body=2&grd=2&isl=3",
@@ -33603,7 +33603,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3734": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3734&head=3&eyes=1&body=7&grd=5&isl=1",
@@ -33621,7 +33621,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3736": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3736&head=4&eyes=3&body=10&grd=5&isl=3",
@@ -33630,7 +33630,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3737": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3737&head=5&eyes=1&body=3&grd=2&isl=3",
@@ -33639,7 +33639,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3738": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3738&head=7&eyes=4&body=6&grd=2&isl=1",
@@ -33666,7 +33666,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3741": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3741&head=7&eyes=1&body=5&grd=3&isl=3",
@@ -33675,7 +33675,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3742": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3742&head=8&eyes=1&body=7&grd=4&isl=2",
@@ -33684,7 +33684,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3743": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3743&head=3&eyes=4&body=3&grd=1&isl=3",
@@ -33693,7 +33693,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3744": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3744&head=2&eyes=1&body=10&grd=3&isl=3",
@@ -33702,7 +33702,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3745": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3745&head=5&eyes=2&body=11&grd=3&isl=3",
@@ -33711,7 +33711,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3746": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3746&head=3&eyes=3&body=10&grd=4&isl=2",
@@ -33720,7 +33720,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3747": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3747&head=3&eyes=4&body=6&grd=4&isl=1",
@@ -33738,7 +33738,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3749": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3749&head=5&eyes=1&body=6&grd=5&isl=2",
@@ -33747,7 +33747,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3750": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3750&head=4&eyes=3&body=6&grd=3&isl=2",
@@ -33756,7 +33756,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3751": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3751&head=4&eyes=2&body=13&grd=2&isl=2",
@@ -33765,7 +33765,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3752": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3752&head=3&eyes=4&body=9&grd=3&isl=1",
@@ -33783,7 +33783,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3754": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3754&head=1&eyes=2&body=10&grd=1&isl=3",
@@ -33792,7 +33792,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3755": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3755&head=6&eyes=2&body=12&grd=1&isl=2",
@@ -33801,7 +33801,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3756": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3756&head=4&eyes=3&body=10&grd=1&isl=2",
@@ -33810,7 +33810,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3757": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3757&head=2&eyes=4&body=11&grd=3&isl=3",
@@ -33819,7 +33819,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3758": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3758&head=4&eyes=4&body=13&grd=4&isl=3",
@@ -33828,7 +33828,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3759": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3759&head=8&eyes=4&body=3&grd=1&isl=1",
@@ -33846,7 +33846,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3761": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3761&head=8&eyes=2&body=5&grd=3&isl=1",
@@ -33864,7 +33864,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3763": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3763&head=1&eyes=3&body=13&grd=1&isl=1",
@@ -33882,7 +33882,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3765": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3765&head=7&eyes=3&body=10&grd=1&isl=2",
@@ -33891,7 +33891,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3766": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3766&head=4&eyes=4&body=1&grd=3&isl=2",
@@ -33900,7 +33900,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3767": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3767&head=3&eyes=4&body=7&grd=2&isl=3",
@@ -33909,7 +33909,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3768": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3768&head=5&eyes=1&body=7&grd=4&isl=2",
@@ -33918,7 +33918,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3769": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3769&head=8&eyes=2&body=11&grd=1&isl=2",
@@ -33927,7 +33927,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3770": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3770&head=5&eyes=4&body=6&grd=2&isl=1",
@@ -33945,7 +33945,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3772": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3772&head=8&eyes=3&body=3&grd=4&isl=2",
@@ -33954,7 +33954,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3773": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3773&head=1&eyes=4&body=8&grd=2&isl=2",
@@ -33963,7 +33963,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3774": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3774&head=8&eyes=3&body=1&grd=4&isl=1",
@@ -33981,7 +33981,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3776": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3776&head=2&eyes=1&body=7&grd=5&isl=2",
@@ -33990,7 +33990,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3777": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3777&head=3&eyes=1&body=12&grd=4&isl=1",
@@ -34017,7 +34017,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3780": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3780&head=2&eyes=4&body=10&grd=1&isl=2",
@@ -34026,7 +34026,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3781": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3781&head=5&eyes=1&body=5&grd=3&isl=3",
@@ -34035,7 +34035,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3782": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3782&head=5&eyes=1&body=7&grd=3&isl=3",
@@ -34044,7 +34044,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3783": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3783&head=4&eyes=4&body=11&grd=1&isl=3",
@@ -34053,7 +34053,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3784": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3784&head=4&eyes=4&body=4&grd=1&isl=3",
@@ -34062,7 +34062,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3785": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3785&head=5&eyes=4&body=7&grd=3&isl=2",
@@ -34071,7 +34071,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3786": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3786&head=7&eyes=4&body=6&grd=2&isl=3",
@@ -34080,7 +34080,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3787": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3787&head=8&eyes=1&body=5&grd=2&isl=1",
@@ -34107,7 +34107,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3790": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3790&head=3&eyes=3&body=8&grd=4&isl=2",
@@ -34116,7 +34116,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3791": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3791&head=5&eyes=2&body=9&grd=5&isl=1",
@@ -34134,7 +34134,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3793": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3793&head=6&eyes=1&body=5&grd=5&isl=3",
@@ -34143,7 +34143,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3794": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3794&head=3&eyes=1&body=1&grd=5&isl=2",
@@ -34152,7 +34152,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3795": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3795&head=5&eyes=1&body=6&grd=4&isl=1",
@@ -34179,7 +34179,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3798": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3798&head=7&eyes=2&body=3&grd=3&isl=2",
@@ -34188,7 +34188,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3799": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3799&head=6&eyes=4&body=6&grd=1&isl=2",
@@ -34197,7 +34197,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3800": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3800&head=4&eyes=4&body=6&grd=4&isl=2",
@@ -34206,7 +34206,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3801": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3801&head=7&eyes=3&body=1&grd=1&isl=2",
@@ -34215,7 +34215,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3802": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3802&head=8&eyes=3&body=4&grd=3&isl=3",
@@ -34224,7 +34224,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3803": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3803&head=5&eyes=1&body=12&grd=2&isl=1",
@@ -34242,7 +34242,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3805": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3805&head=6&eyes=4&body=2&grd=3&isl=3",
@@ -34251,7 +34251,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3806": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3806&head=5&eyes=1&body=12&grd=5&isl=3",
@@ -34260,7 +34260,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3807": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3807&head=7&eyes=4&body=1&grd=2&isl=1",
@@ -34296,7 +34296,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3811": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3811&head=7&eyes=1&body=11&grd=1&isl=1",
@@ -34314,7 +34314,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3813": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3813&head=7&eyes=1&body=9&grd=5&isl=3",
@@ -34323,7 +34323,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3814": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3814&head=6&eyes=2&body=8&grd=3&isl=1",
@@ -34341,7 +34341,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3816": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3816&head=7&eyes=3&body=6&grd=2&isl=2",
@@ -34350,7 +34350,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3817": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3817&head=5&eyes=4&body=4&grd=2&isl=2",
@@ -34359,7 +34359,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3818": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3818&head=7&eyes=1&body=8&grd=1&isl=3",
@@ -34368,7 +34368,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3819": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3819&head=1&eyes=3&body=9&grd=4&isl=3",
@@ -34377,7 +34377,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3820": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3820&head=8&eyes=2&body=8&grd=4&isl=3",
@@ -34386,7 +34386,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3821": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3821&head=5&eyes=2&body=11&grd=4&isl=3",
@@ -34395,7 +34395,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3822": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3822&head=5&eyes=2&body=13&grd=1&isl=3",
@@ -34404,7 +34404,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3823": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3823&head=1&eyes=4&body=10&grd=2&isl=2",
@@ -34413,7 +34413,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3824": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3824&head=8&eyes=3&body=2&grd=1&isl=2",
@@ -34422,7 +34422,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3825": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3825&head=6&eyes=4&body=6&grd=5&isl=2",
@@ -34431,7 +34431,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3826": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3826&head=7&eyes=3&body=2&grd=3&isl=1",
@@ -34449,7 +34449,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3828": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3828&head=8&eyes=3&body=7&grd=2&isl=1",
@@ -34467,7 +34467,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3830": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3830&head=5&eyes=3&body=1&grd=3&isl=2",
@@ -34476,7 +34476,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3831": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3831&head=4&eyes=1&body=10&grd=4&isl=3",
@@ -34485,7 +34485,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3832": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3832&head=8&eyes=2&body=2&grd=1&isl=2",
@@ -34494,7 +34494,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3833": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3833&head=4&eyes=3&body=11&grd=1&isl=3",
@@ -34503,7 +34503,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3834": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3834&head=8&eyes=1&body=5&grd=5&isl=1",
@@ -34521,7 +34521,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3836": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3836&head=2&eyes=3&body=11&grd=1&isl=3",
@@ -34530,7 +34530,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3837": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3837&head=1&eyes=4&body=8&grd=1&isl=3",
@@ -34539,7 +34539,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3838": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3838&head=8&eyes=2&body=10&grd=5&isl=1",
@@ -34566,7 +34566,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3841": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3841&head=6&eyes=1&body=12&grd=4&isl=3",
@@ -34575,7 +34575,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3842": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3842&head=3&eyes=2&body=5&grd=5&isl=1",
@@ -34611,7 +34611,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3846": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3846&head=7&eyes=4&body=9&grd=5&isl=3",
@@ -34620,7 +34620,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3847": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3847&head=8&eyes=2&body=6&grd=1&isl=1",
@@ -34638,7 +34638,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3849": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3849&head=6&eyes=2&body=4&grd=5&isl=2",
@@ -34647,7 +34647,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3850": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3850&head=8&eyes=2&body=12&grd=3&isl=1",
@@ -34665,7 +34665,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3852": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3852&head=2&eyes=1&body=10&grd=5&isl=2",
@@ -34674,7 +34674,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3853": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3853&head=7&eyes=2&body=11&grd=1&isl=3",
@@ -34683,7 +34683,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3854": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3854&head=6&eyes=1&body=13&grd=3&isl=3",
@@ -34692,7 +34692,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3855": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3855&head=4&eyes=4&body=7&grd=5&isl=2",
@@ -34701,7 +34701,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3856": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3856&head=5&eyes=2&body=4&grd=3&isl=3",
@@ -34710,7 +34710,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3857": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3857&head=6&eyes=3&body=12&grd=5&isl=1",
@@ -34728,7 +34728,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3859": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3859&head=8&eyes=3&body=6&grd=3&isl=3",
@@ -34737,7 +34737,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3860": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3860&head=2&eyes=3&body=8&grd=4&isl=1",
@@ -34755,7 +34755,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3862": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3862&head=3&eyes=2&body=12&grd=1&isl=1",
@@ -34773,7 +34773,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3864": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3864&head=1&eyes=2&body=10&grd=5&isl=2",
@@ -34782,7 +34782,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3865": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3865&head=7&eyes=2&body=3&grd=4&isl=3",
@@ -34791,7 +34791,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3866": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3866&head=1&eyes=4&body=11&grd=4&isl=2",
@@ -34800,7 +34800,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3867": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3867&head=1&eyes=1&body=11&grd=3&isl=3",
@@ -34809,7 +34809,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3868": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3868&head=5&eyes=4&body=8&grd=5&isl=1",
@@ -34827,7 +34827,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3870": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3870&head=6&eyes=3&body=5&grd=3&isl=3",
@@ -34836,7 +34836,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3871": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3871&head=4&eyes=3&body=1&grd=4&isl=3",
@@ -34845,7 +34845,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3872": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3872&head=1&eyes=3&body=6&grd=4&isl=3",
@@ -34854,7 +34854,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3873": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3873&head=3&eyes=4&body=4&grd=4&isl=2",
@@ -34863,7 +34863,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3874": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3874&head=5&eyes=4&body=5&grd=4&isl=1",
@@ -34881,7 +34881,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3876": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3876&head=6&eyes=4&body=7&grd=5&isl=1",
@@ -34899,7 +34899,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3878": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3878&head=4&eyes=3&body=8&grd=5&isl=1",
@@ -34917,7 +34917,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3880": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3880&head=5&eyes=2&body=11&grd=1&isl=3",
@@ -34926,7 +34926,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3881": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3881&head=7&eyes=3&body=10&grd=3&isl=2",
@@ -34935,7 +34935,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3882": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3882&head=6&eyes=3&body=1&grd=1&isl=3",
@@ -34944,7 +34944,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3883": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3883&head=5&eyes=4&body=6&grd=1&isl=1",
@@ -34962,7 +34962,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3885": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3885&head=5&eyes=4&body=9&grd=2&isl=2",
@@ -34971,7 +34971,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3886": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3886&head=6&eyes=4&body=7&grd=5&isl=3",
@@ -34980,7 +34980,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3887": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3887&head=6&eyes=1&body=13&grd=1&isl=1",
@@ -34998,7 +34998,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3889": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3889&head=6&eyes=2&body=3&grd=4&isl=3",
@@ -35007,7 +35007,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3890": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3890&head=6&eyes=2&body=13&grd=5&isl=2",
@@ -35016,7 +35016,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3891": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3891&head=5&eyes=3&body=4&grd=3&isl=1",
@@ -35034,7 +35034,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3893": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3893&head=7&eyes=4&body=2&grd=1&isl=1",
@@ -35052,7 +35052,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3895": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3895&head=2&eyes=4&body=3&grd=4&isl=2",
@@ -35061,7 +35061,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3896": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3896&head=4&eyes=3&body=11&grd=4&isl=2",
@@ -35070,7 +35070,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3897": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3897&head=5&eyes=2&body=11&grd=5&isl=1",
@@ -35088,7 +35088,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3899": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3899&head=8&eyes=4&body=11&grd=1&isl=2",
@@ -35097,7 +35097,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3900": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3900&head=1&eyes=4&body=8&grd=2&isl=3",
@@ -35106,7 +35106,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3901": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3901&head=8&eyes=3&body=3&grd=2&isl=3",
@@ -35115,7 +35115,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3902": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3902&head=2&eyes=2&body=13&grd=3&isl=1",
@@ -35133,7 +35133,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3904": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3904&head=6&eyes=2&body=10&grd=1&isl=1",
@@ -35151,7 +35151,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3906": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3906&head=4&eyes=4&body=1&grd=2&isl=2",
@@ -35160,7 +35160,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3907": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3907&head=2&eyes=3&body=8&grd=2&isl=3",
@@ -35169,7 +35169,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3908": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3908&head=3&eyes=4&body=10&grd=3&isl=2",
@@ -35178,7 +35178,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3909": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3909&head=6&eyes=2&body=12&grd=3&isl=2",
@@ -35187,7 +35187,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3910": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3910&head=7&eyes=1&body=11&grd=1&isl=2",
@@ -35196,7 +35196,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3911": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3911&head=4&eyes=4&body=10&grd=3&isl=1",
@@ -35214,7 +35214,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3913": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3913&head=5&eyes=3&body=8&grd=3&isl=2",
@@ -35223,7 +35223,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3914": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3914&head=2&eyes=3&body=12&grd=4&isl=2",
@@ -35232,7 +35232,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3915": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3915&head=2&eyes=2&body=10&grd=5&isl=2",
@@ -35241,7 +35241,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3916": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3916&head=6&eyes=3&body=7&grd=2&isl=1",
@@ -35259,7 +35259,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3918": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3918&head=7&eyes=3&body=1&grd=2&isl=3",
@@ -35268,7 +35268,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3919": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3919&head=1&eyes=4&body=13&grd=5&isl=2",
@@ -35277,7 +35277,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3920": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3920&head=7&eyes=1&body=10&grd=2&isl=2",
@@ -35286,7 +35286,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3921": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3921&head=5&eyes=1&body=11&grd=2&isl=2",
@@ -35295,7 +35295,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3922": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3922&head=6&eyes=3&body=2&grd=1&isl=2",
@@ -35304,7 +35304,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3923": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3923&head=8&eyes=4&body=7&grd=3&isl=3",
@@ -35313,7 +35313,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3924": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3924&head=1&eyes=4&body=9&grd=2&isl=3",
@@ -35322,7 +35322,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3925": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3925&head=6&eyes=4&body=12&grd=2&isl=1",
@@ -35340,7 +35340,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3927": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3927&head=1&eyes=2&body=13&grd=2&isl=3",
@@ -35349,7 +35349,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3928": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3928&head=4&eyes=3&body=10&grd=2&isl=1",
@@ -35376,7 +35376,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3931": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3931&head=8&eyes=3&body=6&grd=4&isl=1",
@@ -35412,7 +35412,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3935": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3935&head=6&eyes=1&body=9&grd=4&isl=3",
@@ -35421,7 +35421,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3936": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3936&head=4&eyes=3&body=13&grd=1&isl=2",
@@ -35430,7 +35430,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3937": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3937&head=8&eyes=2&body=2&grd=5&isl=1",
@@ -35457,7 +35457,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3940": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3940&head=5&eyes=2&body=11&grd=4&isl=1",
@@ -35475,7 +35475,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3942": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3942&head=3&eyes=4&body=8&grd=1&isl=1",
@@ -35493,7 +35493,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3944": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3944&head=6&eyes=2&body=10&grd=3&isl=2",
@@ -35502,7 +35502,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3945": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3945&head=8&eyes=1&body=11&grd=1&isl=3",
@@ -35511,7 +35511,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3946": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3946&head=4&eyes=1&body=12&grd=4&isl=3",
@@ -35520,7 +35520,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3947": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3947&head=8&eyes=2&body=7&grd=3&isl=1",
@@ -35538,7 +35538,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3949": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3949&head=2&eyes=3&body=7&grd=5&isl=2",
@@ -35547,7 +35547,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3950": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3950&head=6&eyes=4&body=11&grd=1&isl=1",
@@ -35574,7 +35574,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3953": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3953&head=7&eyes=3&body=7&grd=3&isl=2",
@@ -35583,7 +35583,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3954": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3954&head=8&eyes=3&body=8&grd=4&isl=1",
@@ -35619,7 +35619,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3958": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3958&head=2&eyes=1&body=8&grd=4&isl=2",
@@ -35628,7 +35628,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3959": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3959&head=6&eyes=3&body=7&grd=5&isl=1",
@@ -35646,7 +35646,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3961": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3961&head=8&eyes=4&body=3&grd=3&isl=3",
@@ -35655,7 +35655,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3962": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3962&head=6&eyes=4&body=2&grd=1&isl=2",
@@ -35664,7 +35664,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3963": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3963&head=2&eyes=4&body=10&grd=5&isl=3",
@@ -35673,7 +35673,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3964": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3964&head=6&eyes=1&body=2&grd=4&isl=3",
@@ -35682,7 +35682,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3965": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3965&head=2&eyes=3&body=8&grd=4&isl=3",
@@ -35691,7 +35691,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3966": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3966&head=8&eyes=3&body=6&grd=1&isl=1",
@@ -35709,7 +35709,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3968": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3968&head=5&eyes=2&body=13&grd=3&isl=1",
@@ -35727,7 +35727,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3970": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3970&head=7&eyes=2&body=5&grd=3&isl=1",
@@ -35745,7 +35745,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3972": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3972&head=4&eyes=1&body=10&grd=3&isl=3",
@@ -35754,7 +35754,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3973": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3973&head=2&eyes=4&body=1&grd=5&isl=2",
@@ -35763,7 +35763,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3974": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3974&head=6&eyes=2&body=11&grd=2&isl=1",
@@ -35781,7 +35781,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3976": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3976&head=6&eyes=4&body=4&grd=5&isl=1",
@@ -35808,7 +35808,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3979": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3979&head=8&eyes=1&body=11&grd=3&isl=2",
@@ -35817,7 +35817,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3980": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3980&head=4&eyes=4&body=9&grd=2&isl=2",
@@ -35826,7 +35826,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3981": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3981&head=5&eyes=3&body=2&grd=1&isl=3",
@@ -35835,7 +35835,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3982": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3982&head=5&eyes=2&body=8&grd=5&isl=2",
@@ -35844,7 +35844,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3983": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3983&head=6&eyes=1&body=12&grd=1&isl=3",
@@ -35853,7 +35853,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3984": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3984&head=3&eyes=4&body=6&grd=2&isl=2",
@@ -35862,7 +35862,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3985": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3985&head=7&eyes=3&body=2&grd=2&isl=3",
@@ -35871,7 +35871,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3986": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3986&head=4&eyes=2&body=12&grd=1&isl=3",
@@ -35880,7 +35880,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3987": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3987&head=3&eyes=3&body=9&grd=5&isl=1",
@@ -35898,7 +35898,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3989": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3989&head=4&eyes=4&body=11&grd=2&isl=2",
@@ -35907,7 +35907,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3990": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3990&head=4&eyes=2&body=11&grd=1&isl=3",
@@ -35916,7 +35916,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3991": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3991&head=4&eyes=1&body=13&grd=3&isl=3",
@@ -35925,7 +35925,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3992": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3992&head=2&eyes=2&body=5&grd=5&isl=3",
@@ -35934,7 +35934,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3993": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3993&head=8&eyes=1&body=3&grd=4&isl=2",
@@ -35943,7 +35943,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3994": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3994&head=6&eyes=2&body=6&grd=5&isl=2",
@@ -35952,7 +35952,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3995": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3995&head=6&eyes=1&body=2&grd=5&isl=2",
@@ -35961,7 +35961,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3996": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3996&head=4&eyes=3&body=10&grd=5&isl=2",
@@ -35970,7 +35970,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3997": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3997&head=7&eyes=2&body=3&grd=3&isl=3",
@@ -35979,7 +35979,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "3998": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3998&head=6&eyes=1&body=12&grd=1&isl=2",
@@ -35988,7 +35988,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "3999": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=3999&head=7&eyes=3&body=7&grd=4&isl=2",
@@ -35997,7 +35997,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4000": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4000&head=5&eyes=3&body=6&grd=4&isl=3",
@@ -36006,7 +36006,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4001": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4001&head=7&eyes=3&body=5&grd=3&isl=3",
@@ -36015,7 +36015,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4002": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4002&head=5&eyes=1&body=12&grd=5&isl=1",
@@ -36033,7 +36033,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4004": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4004&head=7&eyes=1&body=9&grd=5&isl=1",
@@ -36051,7 +36051,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4006": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4006&head=5&eyes=2&body=6&grd=5&isl=3",
@@ -36060,7 +36060,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4007": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4007&head=4&eyes=3&body=10&grd=3&isl=2",
@@ -36069,7 +36069,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4008": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4008&head=2&eyes=4&body=9&grd=2&isl=3",
@@ -36078,7 +36078,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4009": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4009&head=6&eyes=4&body=5&grd=5&isl=2",
@@ -36087,7 +36087,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4010": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4010&head=2&eyes=4&body=3&grd=2&isl=3",
@@ -36096,7 +36096,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4011": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4011&head=5&eyes=4&body=9&grd=1&isl=1",
@@ -36114,7 +36114,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4013": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4013&head=5&eyes=4&body=4&grd=3&isl=2",
@@ -36123,7 +36123,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4014": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4014&head=8&eyes=3&body=10&grd=3&isl=3",
@@ -36132,7 +36132,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4015": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4015&head=3&eyes=1&body=7&grd=1&isl=3",
@@ -36141,7 +36141,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4016": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4016&head=7&eyes=4&body=10&grd=4&isl=2",
@@ -36150,7 +36150,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4017": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4017&head=5&eyes=3&body=5&grd=2&isl=3",
@@ -36159,7 +36159,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4018": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4018&head=7&eyes=1&body=6&grd=4&isl=1",
@@ -36204,7 +36204,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4023": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4023&head=8&eyes=4&body=5&grd=3&isl=2",
@@ -36213,7 +36213,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4024": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4024&head=4&eyes=4&body=11&grd=5&isl=1",
@@ -36231,7 +36231,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4026": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4026&head=7&eyes=4&body=5&grd=4&isl=3",
@@ -36240,7 +36240,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4027": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4027&head=6&eyes=4&body=12&grd=1&isl=2",
@@ -36249,7 +36249,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4028": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4028&head=8&eyes=1&body=7&grd=2&isl=1",
@@ -36267,7 +36267,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4030": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4030&head=2&eyes=1&body=9&grd=4&isl=3",
@@ -36276,7 +36276,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4031": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4031&head=8&eyes=3&body=3&grd=4&isl=1",
@@ -36294,7 +36294,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4033": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4033&head=4&eyes=4&body=5&grd=1&isl=3",
@@ -36303,7 +36303,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4034": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4034&head=4&eyes=1&body=12&grd=1&isl=2",
@@ -36312,7 +36312,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4035": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4035&head=1&eyes=4&body=10&grd=1&isl=2",
@@ -36321,7 +36321,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4036": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4036&head=8&eyes=4&body=3&grd=2&isl=1",
@@ -36348,7 +36348,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4039": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4039&head=1&eyes=1&body=11&grd=5&isl=2",
@@ -36357,7 +36357,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4040": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4040&head=4&eyes=1&body=11&grd=5&isl=1",
@@ -36375,7 +36375,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4042": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4042&head=7&eyes=1&body=1&grd=2&isl=2",
@@ -36384,7 +36384,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4043": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4043&head=8&eyes=4&body=10&grd=2&isl=3",
@@ -36393,7 +36393,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4044": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4044&head=8&eyes=2&body=4&grd=4&isl=1",
@@ -36411,7 +36411,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4046": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4046&head=6&eyes=2&body=2&grd=4&isl=3",
@@ -36420,7 +36420,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4047": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4047&head=1&eyes=2&body=11&grd=3&isl=2",
@@ -36429,7 +36429,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4048": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4048&head=3&eyes=1&body=11&grd=5&isl=1",
@@ -36447,7 +36447,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4050": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4050&head=4&eyes=2&body=3&grd=5&isl=3",
@@ -36456,7 +36456,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4051": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4051&head=6&eyes=2&body=3&grd=5&isl=1",
@@ -36474,7 +36474,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4053": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4053&head=3&eyes=4&body=5&grd=5&isl=1",
@@ -36492,7 +36492,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4055": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4055&head=4&eyes=3&body=12&grd=1&isl=2",
@@ -36501,7 +36501,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4056": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4056&head=7&eyes=4&body=7&grd=2&isl=2",
@@ -36510,7 +36510,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4057": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4057&head=7&eyes=3&body=9&grd=4&isl=1",
@@ -36528,7 +36528,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4059": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4059&head=3&eyes=1&body=12&grd=5&isl=1",
@@ -36546,7 +36546,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4061": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4061&head=8&eyes=4&body=4&grd=1&isl=1",
@@ -36564,7 +36564,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4063": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4063&head=4&eyes=3&body=11&grd=5&isl=2",
@@ -36573,7 +36573,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4064": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4064&head=5&eyes=2&body=13&grd=2&isl=3",
@@ -36582,7 +36582,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4065": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4065&head=5&eyes=1&body=1&grd=5&isl=3",
@@ -36591,7 +36591,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4066": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4066&head=8&eyes=1&body=11&grd=4&isl=3",
@@ -36600,7 +36600,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4067": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4067&head=8&eyes=4&body=12&grd=2&isl=1",
@@ -36618,7 +36618,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4069": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4069&head=7&eyes=1&body=9&grd=2&isl=2",
@@ -36627,7 +36627,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4070": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4070&head=4&eyes=4&body=10&grd=4&isl=1",
@@ -36645,7 +36645,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4072": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4072&head=3&eyes=3&body=10&grd=5&isl=3",
@@ -36654,7 +36654,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4073": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4073&head=3&eyes=2&body=8&grd=1&isl=3",
@@ -36663,7 +36663,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4074": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4074&head=4&eyes=3&body=6&grd=4&isl=2",
@@ -36672,7 +36672,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4075": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4075&head=1&eyes=3&body=8&grd=4&isl=1",
@@ -36690,7 +36690,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4077": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4077&head=1&eyes=3&body=9&grd=1&isl=3",
@@ -36699,7 +36699,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4078": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4078&head=8&eyes=1&body=8&grd=2&isl=3",
@@ -36708,7 +36708,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4079": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4079&head=3&eyes=4&body=4&grd=5&isl=1",
@@ -36726,7 +36726,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4081": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4081&head=3&eyes=3&body=9&grd=2&isl=3",
@@ -36735,7 +36735,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4082": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4082&head=6&eyes=1&body=12&grd=3&isl=2",
@@ -36744,7 +36744,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4083": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4083&head=5&eyes=2&body=13&grd=2&isl=1",
@@ -36762,7 +36762,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4085": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4085&head=1&eyes=4&body=1&grd=4&isl=2",
@@ -36771,7 +36771,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4086": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4086&head=5&eyes=2&body=5&grd=1&isl=3",
@@ -36780,7 +36780,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4087": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4087&head=6&eyes=4&body=4&grd=3&isl=2",
@@ -36789,7 +36789,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4088": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4088&head=2&eyes=2&body=12&grd=3&isl=3",
@@ -36798,7 +36798,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4089": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4089&head=5&eyes=4&body=11&grd=3&isl=1",
@@ -36816,7 +36816,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4091": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4091&head=1&eyes=4&body=11&grd=5&isl=1",
@@ -36834,7 +36834,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4093": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4093&head=1&eyes=4&body=1&grd=4&isl=3",
@@ -36843,7 +36843,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4094": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4094&head=6&eyes=3&body=6&grd=4&isl=1",
@@ -36861,7 +36861,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4096": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4096&head=8&eyes=4&body=8&grd=2&isl=1",
@@ -36879,7 +36879,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4098": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4098&head=3&eyes=3&body=2&grd=5&isl=2",
@@ -36888,7 +36888,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4099": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4099&head=4&eyes=2&body=4&grd=1&isl=3",
@@ -36897,7 +36897,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4100": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4100&head=7&eyes=4&body=9&grd=2&isl=3",
@@ -36906,7 +36906,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4101": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4101&head=7&eyes=4&body=2&grd=5&isl=2",
@@ -36915,7 +36915,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4102": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4102&head=1&eyes=2&body=13&grd=4&isl=2",
@@ -36924,7 +36924,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4103": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4103&head=7&eyes=4&body=5&grd=3&isl=2",
@@ -36933,7 +36933,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4104": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4104&head=8&eyes=2&body=9&grd=4&isl=1",
@@ -36951,7 +36951,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4106": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4106&head=4&eyes=4&body=5&grd=1&isl=2",
@@ -36960,7 +36960,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4107": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4107&head=7&eyes=4&body=5&grd=1&isl=3",
@@ -36969,7 +36969,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4108": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4108&head=5&eyes=4&body=8&grd=4&isl=1",
@@ -36987,7 +36987,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4110": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4110&head=7&eyes=2&body=3&grd=1&isl=3",
@@ -36996,7 +36996,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4111": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4111&head=4&eyes=2&body=6&grd=3&isl=3",
@@ -37005,7 +37005,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4112": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4112&head=7&eyes=1&body=6&grd=3&isl=1",
@@ -37023,7 +37023,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4114": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4114&head=3&eyes=3&body=12&grd=2&isl=2",
@@ -37032,7 +37032,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4115": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4115&head=5&eyes=3&body=3&grd=5&isl=1",
@@ -37050,7 +37050,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4117": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4117&head=3&eyes=3&body=5&grd=5&isl=3",
@@ -37059,7 +37059,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4118": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4118&head=7&eyes=3&body=4&grd=3&isl=1",
@@ -37086,7 +37086,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4121": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4121&head=8&eyes=2&body=2&grd=4&isl=2",
@@ -37095,7 +37095,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4122": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4122&head=4&eyes=4&body=6&grd=2&isl=2",
@@ -37104,7 +37104,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4123": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4123&head=3&eyes=4&body=11&grd=1&isl=2",
@@ -37113,7 +37113,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4124": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4124&head=8&eyes=3&body=7&grd=4&isl=1",
@@ -37149,7 +37149,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4128": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4128&head=6&eyes=2&body=1&grd=3&isl=2",
@@ -37158,7 +37158,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4129": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4129&head=1&eyes=4&body=7&grd=4&isl=1",
@@ -37176,7 +37176,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4131": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4131&head=3&eyes=2&body=13&grd=3&isl=3",
@@ -37185,7 +37185,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4132": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4132&head=7&eyes=3&body=10&grd=3&isl=1",
@@ -37203,7 +37203,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4134": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4134&head=5&eyes=3&body=9&grd=3&isl=2",
@@ -37212,7 +37212,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4135": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4135&head=1&eyes=2&body=12&grd=3&isl=3",
@@ -37221,7 +37221,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4136": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4136&head=8&eyes=2&body=9&grd=1&isl=2",
@@ -37230,7 +37230,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4137": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4137&head=4&eyes=1&body=12&grd=2&isl=1",
@@ -37248,7 +37248,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4139": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4139&head=2&eyes=4&body=12&grd=3&isl=3",
@@ -37257,7 +37257,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4140": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4140&head=3&eyes=2&body=13&grd=3&isl=2",
@@ -37266,7 +37266,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4141": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4141&head=4&eyes=2&body=4&grd=5&isl=3",
@@ -37275,7 +37275,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4142": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4142&head=2&eyes=1&body=11&grd=4&isl=2",
@@ -37284,7 +37284,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4143": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4143&head=5&eyes=4&body=1&grd=3&isl=2",
@@ -37293,7 +37293,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4144": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4144&head=8&eyes=1&body=1&grd=5&isl=3",
@@ -37302,7 +37302,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4145": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4145&head=1&eyes=2&body=9&grd=3&isl=3",
@@ -37311,7 +37311,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4146": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4146&head=1&eyes=2&body=13&grd=2&isl=1",
@@ -37329,7 +37329,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4148": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4148&head=8&eyes=3&body=4&grd=2&isl=3",
@@ -37338,7 +37338,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4149": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4149&head=4&eyes=3&body=8&grd=2&isl=3",
@@ -37347,7 +37347,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4150": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4150&head=3&eyes=4&body=12&grd=4&isl=2",
@@ -37356,7 +37356,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4151": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4151&head=4&eyes=3&body=11&grd=2&isl=3",
@@ -37365,7 +37365,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4152": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4152&head=4&eyes=3&body=13&grd=1&isl=1",
@@ -37383,7 +37383,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4154": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4154&head=1&eyes=4&body=1&grd=3&isl=3",
@@ -37392,7 +37392,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4155": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4155&head=4&eyes=3&body=12&grd=3&isl=1",
@@ -37419,7 +37419,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4158": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4158&head=1&eyes=4&body=8&grd=4&isl=2",
@@ -37428,7 +37428,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4159": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4159&head=7&eyes=3&body=8&grd=1&isl=3",
@@ -37437,7 +37437,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4160": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4160&head=1&eyes=2&body=12&grd=4&isl=2",
@@ -37446,7 +37446,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4161": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4161&head=2&eyes=4&body=3&grd=4&isl=3",
@@ -37455,7 +37455,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4162": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4162&head=6&eyes=3&body=7&grd=3&isl=3",
@@ -37464,7 +37464,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4163": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4163&head=5&eyes=4&body=6&grd=3&isl=3",
@@ -37473,7 +37473,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4164": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4164&head=8&eyes=3&body=10&grd=3&isl=2",
@@ -37482,7 +37482,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4165": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4165&head=5&eyes=1&body=12&grd=5&isl=2",
@@ -37491,7 +37491,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4166": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4166&head=1&eyes=3&body=9&grd=5&isl=3",
@@ -37500,7 +37500,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4167": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4167&head=5&eyes=3&body=4&grd=2&isl=3",
@@ -37509,7 +37509,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4168": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4168&head=6&eyes=3&body=7&grd=4&isl=1",
@@ -37527,7 +37527,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4170": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4170&head=1&eyes=4&body=3&grd=4&isl=3",
@@ -37536,7 +37536,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4171": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4171&head=8&eyes=2&body=9&grd=3&isl=3",
@@ -37545,7 +37545,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4172": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4172&head=6&eyes=3&body=4&grd=4&isl=2",
@@ -37554,7 +37554,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4173": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4173&head=7&eyes=3&body=2&grd=5&isl=3",
@@ -37563,7 +37563,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4174": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4174&head=7&eyes=3&body=7&grd=3&isl=3",
@@ -37572,7 +37572,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4175": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4175&head=4&eyes=3&body=9&grd=5&isl=1",
@@ -37590,7 +37590,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4177": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4177&head=6&eyes=3&body=5&grd=5&isl=2",
@@ -37599,7 +37599,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4178": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4178&head=5&eyes=4&body=6&grd=3&isl=2",
@@ -37608,7 +37608,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4179": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4179&head=6&eyes=2&body=7&grd=4&isl=1",
@@ -37635,7 +37635,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4182": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4182&head=2&eyes=1&body=12&grd=5&isl=1",
@@ -37662,7 +37662,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4185": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4185&head=5&eyes=1&body=2&grd=5&isl=1",
@@ -37680,7 +37680,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4187": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4187&head=1&eyes=1&body=4&grd=4&isl=3",
@@ -37689,7 +37689,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4188": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4188&head=5&eyes=2&body=5&grd=4&isl=3",
@@ -37698,7 +37698,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4189": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4189&head=4&eyes=1&body=2&grd=5&isl=3",
@@ -37707,7 +37707,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4190": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4190&head=3&eyes=3&body=12&grd=4&isl=3",
@@ -37716,7 +37716,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4191": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4191&head=1&eyes=4&body=5&grd=3&isl=3",
@@ -37725,7 +37725,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4192": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4192&head=1&eyes=2&body=10&grd=4&isl=3",
@@ -37734,7 +37734,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4193": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4193&head=3&eyes=4&body=7&grd=2&isl=2",
@@ -37743,7 +37743,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4194": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4194&head=6&eyes=1&body=12&grd=5&isl=1",
@@ -37761,7 +37761,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4196": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4196&head=3&eyes=2&body=13&grd=1&isl=1",
@@ -37779,7 +37779,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4198": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4198&head=4&eyes=3&body=9&grd=2&isl=1",
@@ -37815,7 +37815,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4202": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4202&head=3&eyes=3&body=4&grd=2&isl=3",
@@ -37824,7 +37824,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4203": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4203&head=8&eyes=1&body=11&grd=3&isl=1",
@@ -37842,7 +37842,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4205": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4205&head=7&eyes=4&body=2&grd=3&isl=2",
@@ -37851,7 +37851,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4206": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4206&head=2&eyes=3&body=10&grd=4&isl=2",
@@ -37860,7 +37860,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4207": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4207&head=8&eyes=1&body=5&grd=1&isl=3",
@@ -37869,7 +37869,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4208": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4208&head=8&eyes=2&body=9&grd=4&isl=2",
@@ -37878,7 +37878,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4209": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4209&head=5&eyes=4&body=9&grd=1&isl=2",
@@ -37887,7 +37887,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4210": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4210&head=8&eyes=1&body=7&grd=3&isl=2",
@@ -37896,7 +37896,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4211": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4211&head=5&eyes=1&body=9&grd=4&isl=3",
@@ -37905,7 +37905,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4212": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4212&head=2&eyes=2&body=13&grd=4&isl=2",
@@ -37914,7 +37914,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4213": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4213&head=4&eyes=4&body=13&grd=5&isl=1",
@@ -37932,7 +37932,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4215": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4215&head=2&eyes=3&body=13&grd=1&isl=3",
@@ -37941,7 +37941,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4216": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4216&head=4&eyes=2&body=11&grd=2&isl=2",
@@ -37950,7 +37950,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4217": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4217&head=2&eyes=3&body=5&grd=3&isl=3",
@@ -37959,7 +37959,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4218": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4218&head=2&eyes=3&body=5&grd=5&isl=2",
@@ -37968,7 +37968,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4219": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4219&head=1&eyes=3&body=8&grd=5&isl=2",
@@ -37977,7 +37977,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4220": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4220&head=1&eyes=4&body=10&grd=3&isl=3",
@@ -37986,7 +37986,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4221": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4221&head=6&eyes=4&body=8&grd=4&isl=1",
@@ -38013,7 +38013,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4224": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4224&head=3&eyes=4&body=1&grd=5&isl=3",
@@ -38022,7 +38022,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4225": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4225&head=4&eyes=4&body=4&grd=4&isl=3",
@@ -38031,7 +38031,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4226": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4226&head=8&eyes=2&body=12&grd=1&isl=2",
@@ -38040,7 +38040,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4227": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4227&head=7&eyes=4&body=7&grd=3&isl=2",
@@ -38049,7 +38049,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4228": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4228&head=6&eyes=3&body=7&grd=4&isl=2",
@@ -38058,7 +38058,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4229": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4229&head=6&eyes=2&body=4&grd=3&isl=3",
@@ -38067,7 +38067,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4230": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4230&head=2&eyes=3&body=9&grd=4&isl=3",
@@ -38076,7 +38076,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4231": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4231&head=4&eyes=2&body=6&grd=4&isl=2",
@@ -38085,7 +38085,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4232": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4232&head=1&eyes=1&body=3&grd=5&isl=3",
@@ -38094,7 +38094,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4233": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4233&head=3&eyes=3&body=6&grd=4&isl=1",
@@ -38112,7 +38112,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4235": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4235&head=1&eyes=4&body=13&grd=3&isl=2",
@@ -38121,7 +38121,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4236": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4236&head=7&eyes=1&body=3&grd=2&isl=3",
@@ -38130,7 +38130,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4237": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4237&head=6&eyes=2&body=1&grd=5&isl=2",
@@ -38139,7 +38139,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4238": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4238&head=4&eyes=4&body=4&grd=3&isl=2",
@@ -38148,7 +38148,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4239": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4239&head=3&eyes=4&body=10&grd=3&isl=3",
@@ -38157,7 +38157,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4240": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4240&head=1&eyes=3&body=2&grd=5&isl=2",
@@ -38166,7 +38166,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4241": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4241&head=1&eyes=3&body=13&grd=1&isl=2",
@@ -38175,7 +38175,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4242": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4242&head=7&eyes=4&body=5&grd=4&isl=1",
@@ -38211,7 +38211,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4246": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4246&head=4&eyes=2&body=13&grd=3&isl=3",
@@ -38220,7 +38220,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4247": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4247&head=1&eyes=4&body=5&grd=5&isl=2",
@@ -38229,7 +38229,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4248": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4248&head=8&eyes=2&body=5&grd=5&isl=1",
@@ -38247,7 +38247,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4250": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4250&head=7&eyes=4&body=3&grd=4&isl=1",
@@ -38274,7 +38274,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4253": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4253&head=7&eyes=3&body=5&grd=4&isl=2",
@@ -38283,7 +38283,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4254": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4254&head=5&eyes=4&body=5&grd=1&isl=3",
@@ -38292,7 +38292,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4255": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4255&head=7&eyes=4&body=10&grd=5&isl=1",
@@ -38310,7 +38310,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4257": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4257&head=5&eyes=2&body=6&grd=2&isl=3",
@@ -38319,7 +38319,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4258": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4258&head=6&eyes=2&body=10&grd=5&isl=1",
@@ -38346,7 +38346,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4261": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4261&head=5&eyes=4&body=5&grd=2&isl=2",
@@ -38355,7 +38355,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4262": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4262&head=8&eyes=1&body=1&grd=4&isl=2",
@@ -38364,7 +38364,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4263": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4263&head=5&eyes=2&body=11&grd=2&isl=2",
@@ -38373,7 +38373,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4264": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4264&head=5&eyes=3&body=7&grd=5&isl=1",
@@ -38391,7 +38391,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4266": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4266&head=3&eyes=2&body=3&grd=5&isl=3",
@@ -38400,7 +38400,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4267": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4267&head=2&eyes=1&body=5&grd=4&isl=3",
@@ -38409,7 +38409,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4268": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4268&head=1&eyes=2&body=8&grd=2&isl=3",
@@ -38418,7 +38418,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4269": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4269&head=5&eyes=3&body=7&grd=1&isl=3",
@@ -38427,7 +38427,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4270": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4270&head=4&eyes=3&body=7&grd=5&isl=3",
@@ -38436,7 +38436,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4271": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4271&head=8&eyes=2&body=5&grd=3&isl=3",
@@ -38445,7 +38445,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4272": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4272&head=7&eyes=3&body=6&grd=3&isl=3",
@@ -38454,7 +38454,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4273": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4273&head=2&eyes=4&body=8&grd=2&isl=1",
@@ -38481,7 +38481,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4276": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4276&head=3&eyes=2&body=6&grd=3&isl=3",
@@ -38490,7 +38490,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4277": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4277&head=1&eyes=3&body=12&grd=3&isl=3",
@@ -38499,7 +38499,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4278": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4278&head=5&eyes=2&body=12&grd=2&isl=1",
@@ -38517,7 +38517,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4280": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4280&head=8&eyes=3&body=9&grd=3&isl=1",
@@ -38535,7 +38535,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4282": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4282&head=8&eyes=3&body=9&grd=4&isl=2",
@@ -38544,7 +38544,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4283": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4283&head=1&eyes=1&body=10&grd=4&isl=2",
@@ -38553,7 +38553,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4284": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4284&head=8&eyes=3&body=5&grd=3&isl=1",
@@ -38571,7 +38571,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4286": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4286&head=8&eyes=3&body=1&grd=3&isl=2",
@@ -38580,7 +38580,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4287": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4287&head=6&eyes=1&body=8&grd=4&isl=2",
@@ -38589,7 +38589,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4288": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4288&head=5&eyes=2&body=10&grd=4&isl=1",
@@ -38607,7 +38607,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4290": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4290&head=3&eyes=1&body=13&grd=1&isl=2",
@@ -38616,7 +38616,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4291": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4291&head=5&eyes=2&body=11&grd=5&isl=2",
@@ -38625,7 +38625,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4292": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4292&head=1&eyes=3&body=8&grd=1&isl=3",
@@ -38634,7 +38634,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4293": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4293&head=4&eyes=4&body=2&grd=2&isl=3",
@@ -38643,7 +38643,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4294": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4294&head=7&eyes=3&body=5&grd=5&isl=1",
@@ -38661,7 +38661,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4296": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4296&head=6&eyes=3&body=13&grd=1&isl=1",
@@ -38679,7 +38679,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4298": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4298&head=8&eyes=3&body=2&grd=5&isl=1",
@@ -38697,7 +38697,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4300": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4300&head=1&eyes=2&body=8&grd=5&isl=3",
@@ -38706,7 +38706,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4301": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4301&head=2&eyes=4&body=12&grd=1&isl=1",
@@ -38724,7 +38724,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4303": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4303&head=6&eyes=3&body=10&grd=4&isl=1",
@@ -38742,7 +38742,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4305": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4305&head=6&eyes=1&body=10&grd=3&isl=1",
@@ -38760,7 +38760,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4307": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4307&head=3&eyes=1&body=13&grd=3&isl=3",
@@ -38769,7 +38769,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4308": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4308&head=6&eyes=2&body=6&grd=4&isl=3",
@@ -38778,7 +38778,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4309": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4309&head=3&eyes=3&body=4&grd=1&isl=3",
@@ -38787,7 +38787,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4310": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4310&head=7&eyes=4&body=4&grd=2&isl=2",
@@ -38796,7 +38796,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4311": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4311&head=6&eyes=4&body=10&grd=2&isl=1",
@@ -38814,7 +38814,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4313": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4313&head=3&eyes=2&body=13&grd=4&isl=1",
@@ -38832,7 +38832,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4315": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4315&head=5&eyes=4&body=10&grd=1&isl=1",
@@ -38850,7 +38850,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4317": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4317&head=1&eyes=1&body=11&grd=4&isl=1",
@@ -38868,7 +38868,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4319": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4319&head=8&eyes=4&body=1&grd=2&isl=1",
@@ -38895,7 +38895,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4322": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4322&head=5&eyes=2&body=7&grd=5&isl=1",
@@ -38913,7 +38913,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4324": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4324&head=2&eyes=4&body=12&grd=1&isl=3",
@@ -38922,7 +38922,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4325": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4325&head=4&eyes=4&body=11&grd=3&isl=2",
@@ -38931,7 +38931,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4326": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4326&head=8&eyes=4&body=6&grd=3&isl=1",
@@ -38958,7 +38958,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4329": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4329&head=6&eyes=4&body=3&grd=5&isl=3",
@@ -38967,7 +38967,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4330": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4330&head=8&eyes=3&body=8&grd=4&isl=3",
@@ -38976,7 +38976,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4331": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4331&head=2&eyes=4&body=9&grd=4&isl=1",
@@ -38994,7 +38994,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4333": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4333&head=7&eyes=2&body=8&grd=3&isl=2",
@@ -39003,7 +39003,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4334": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4334&head=3&eyes=4&body=9&grd=5&isl=1",
@@ -39021,7 +39021,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4336": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4336&head=1&eyes=2&body=11&grd=3&isl=3",
@@ -39030,7 +39030,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4337": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4337&head=6&eyes=1&body=9&grd=1&isl=3",
@@ -39039,7 +39039,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4338": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4338&head=6&eyes=4&body=6&grd=2&isl=2",
@@ -39048,7 +39048,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4339": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4339&head=7&eyes=1&body=9&grd=2&isl=3",
@@ -39057,7 +39057,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4340": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4340&head=4&eyes=3&body=11&grd=5&isl=1",
@@ -39075,7 +39075,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4342": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4342&head=3&eyes=4&body=3&grd=3&isl=1",
@@ -39111,7 +39111,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4346": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4346&head=6&eyes=2&body=11&grd=3&isl=3",
@@ -39120,7 +39120,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4347": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4347&head=3&eyes=1&body=12&grd=2&isl=3",
@@ -39129,7 +39129,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4348": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4348&head=6&eyes=4&body=9&grd=1&isl=2",
@@ -39138,7 +39138,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4349": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4349&head=3&eyes=2&body=2&grd=5&isl=1",
@@ -39165,7 +39165,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4352": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4352&head=6&eyes=4&body=7&grd=2&isl=1",
@@ -39183,7 +39183,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4354": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4354&head=2&eyes=1&body=9&grd=5&isl=3",
@@ -39192,7 +39192,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4355": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4355&head=7&eyes=1&body=2&grd=3&isl=3",
@@ -39201,7 +39201,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4356": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4356&head=1&eyes=4&body=7&grd=3&isl=1",
@@ -39219,7 +39219,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4358": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4358&head=6&eyes=3&body=6&grd=2&isl=3",
@@ -39228,7 +39228,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4359": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4359&head=3&eyes=4&body=11&grd=3&isl=3",
@@ -39237,7 +39237,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4360": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4360&head=8&eyes=2&body=8&grd=5&isl=1",
@@ -39255,7 +39255,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4362": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4362&head=5&eyes=4&body=10&grd=1&isl=3",
@@ -39264,7 +39264,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4363": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4363&head=2&eyes=4&body=5&grd=4&isl=3",
@@ -39273,7 +39273,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4364": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4364&head=2&eyes=1&body=8&grd=3&isl=3",
@@ -39282,7 +39282,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4365": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4365&head=5&eyes=2&body=2&grd=1&isl=3",
@@ -39291,7 +39291,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4366": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4366&head=2&eyes=4&body=13&grd=2&isl=1",
@@ -39309,7 +39309,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4368": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4368&head=7&eyes=4&body=2&grd=4&isl=2",
@@ -39318,7 +39318,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4369": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4369&head=4&eyes=3&body=3&grd=5&isl=2",
@@ -39327,7 +39327,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4370": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4370&head=4&eyes=3&body=11&grd=3&isl=3",
@@ -39336,7 +39336,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4371": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4371&head=6&eyes=4&body=4&grd=3&isl=3",
@@ -39345,7 +39345,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4372": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4372&head=5&eyes=4&body=4&grd=4&isl=1",
@@ -39372,7 +39372,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4375": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4375&head=7&eyes=2&body=4&grd=4&isl=1",
@@ -39390,7 +39390,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4377": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4377&head=8&eyes=2&body=6&grd=5&isl=2",
@@ -39399,7 +39399,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4378": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4378&head=3&eyes=4&body=2&grd=4&isl=2",
@@ -39408,7 +39408,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4379": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4379&head=4&eyes=4&body=11&grd=1&isl=1",
@@ -39426,7 +39426,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4381": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4381&head=7&eyes=3&body=11&grd=4&isl=1",
@@ -39444,7 +39444,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4383": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4383&head=8&eyes=3&body=5&grd=2&isl=3",
@@ -39453,7 +39453,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4384": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4384&head=3&eyes=1&body=4&grd=5&isl=1",
@@ -39471,7 +39471,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4386": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4386&head=6&eyes=4&body=9&grd=5&isl=2",
@@ -39480,7 +39480,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4387": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4387&head=3&eyes=3&body=10&grd=5&isl=2",
@@ -39489,7 +39489,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4388": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4388&head=3&eyes=4&body=8&grd=2&isl=3",
@@ -39498,7 +39498,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4389": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4389&head=4&eyes=4&body=1&grd=2&isl=3",
@@ -39507,7 +39507,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4390": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4390&head=3&eyes=4&body=12&grd=5&isl=1",
@@ -39543,7 +39543,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4394": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4394&head=6&eyes=1&body=11&grd=5&isl=2",
@@ -39552,7 +39552,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4395": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4395&head=8&eyes=1&body=6&grd=3&isl=3",
@@ -39561,7 +39561,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4396": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4396&head=2&eyes=3&body=1&grd=3&isl=3",
@@ -39570,7 +39570,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4397": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4397&head=7&eyes=3&body=4&grd=4&isl=1",
@@ -39597,7 +39597,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4400": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4400&head=1&eyes=2&body=10&grd=5&isl=3",
@@ -39606,7 +39606,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4401": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4401&head=6&eyes=3&body=8&grd=5&isl=1",
@@ -39642,7 +39642,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4405": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4405&head=4&eyes=1&body=13&grd=1&isl=1",
@@ -39660,7 +39660,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4407": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4407&head=2&eyes=4&body=11&grd=3&isl=1",
@@ -39678,7 +39678,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4409": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4409&head=6&eyes=2&body=7&grd=2&isl=3",
@@ -39687,7 +39687,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4410": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4410&head=8&eyes=3&body=6&grd=2&isl=3",
@@ -39696,7 +39696,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4411": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4411&head=7&eyes=4&body=4&grd=5&isl=3",
@@ -39705,7 +39705,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4412": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4412&head=4&eyes=4&body=10&grd=2&isl=3",
@@ -39714,7 +39714,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4413": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4413&head=6&eyes=3&body=3&grd=3&isl=3",
@@ -39723,7 +39723,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4414": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4414&head=7&eyes=3&body=7&grd=1&isl=3",
@@ -39732,7 +39732,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4415": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4415&head=8&eyes=4&body=3&grd=4&isl=2",
@@ -39741,7 +39741,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4416": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4416&head=1&eyes=4&body=13&grd=1&isl=1",
@@ -39759,7 +39759,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4418": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4418&head=6&eyes=3&body=1&grd=2&isl=3",
@@ -39768,7 +39768,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4419": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4419&head=3&eyes=4&body=12&grd=5&isl=2",
@@ -39777,7 +39777,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4420": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4420&head=7&eyes=3&body=6&grd=3&isl=2",
@@ -39786,7 +39786,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4421": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4421&head=4&eyes=4&body=5&grd=3&isl=2",
@@ -39795,7 +39795,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4422": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4422&head=8&eyes=2&body=11&grd=2&isl=2",
@@ -39804,7 +39804,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4423": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4423&head=8&eyes=1&body=6&grd=4&isl=3",
@@ -39813,7 +39813,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4424": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4424&head=6&eyes=2&body=13&grd=2&isl=2",
@@ -39822,7 +39822,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4425": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4425&head=3&eyes=3&body=8&grd=3&isl=3",
@@ -39831,7 +39831,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4426": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4426&head=3&eyes=2&body=4&grd=4&isl=2",
@@ -39840,7 +39840,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4427": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4427&head=2&eyes=3&body=8&grd=5&isl=3",
@@ -39849,7 +39849,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4428": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4428&head=4&eyes=4&body=12&grd=1&isl=2",
@@ -39858,7 +39858,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4429": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4429&head=2&eyes=4&body=11&grd=5&isl=1",
@@ -39876,7 +39876,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4431": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4431&head=7&eyes=2&body=10&grd=5&isl=2",
@@ -39885,7 +39885,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4432": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4432&head=8&eyes=4&body=3&grd=1&isl=2",
@@ -39894,7 +39894,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4433": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4433&head=6&eyes=3&body=13&grd=1&isl=2",
@@ -39903,7 +39903,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4434": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4434&head=5&eyes=2&body=8&grd=5&isl=3",
@@ -39912,7 +39912,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4435": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4435&head=4&eyes=2&body=9&grd=3&isl=2",
@@ -39921,7 +39921,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4436": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4436&head=2&eyes=3&body=12&grd=4&isl=1",
@@ -39939,7 +39939,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4438": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4438&head=1&eyes=3&body=10&grd=1&isl=2",
@@ -39948,7 +39948,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4439": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4439&head=3&eyes=2&body=10&grd=3&isl=3",
@@ -39957,7 +39957,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4440": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4440&head=2&eyes=3&body=10&grd=3&isl=2",
@@ -39966,7 +39966,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4441": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4441&head=5&eyes=3&body=10&grd=5&isl=2",
@@ -39975,7 +39975,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4442": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4442&head=5&eyes=4&body=2&grd=5&isl=1",
@@ -39993,7 +39993,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4444": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4444&head=6&eyes=2&body=5&grd=5&isl=1",
@@ -40020,7 +40020,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4447": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4447&head=6&eyes=3&body=2&grd=4&isl=3",
@@ -40029,7 +40029,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4448": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4448&head=8&eyes=1&body=6&grd=4&isl=1",
@@ -40056,7 +40056,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4451": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4451&head=8&eyes=1&body=4&grd=4&isl=2",
@@ -40065,7 +40065,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4452": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4452&head=4&eyes=2&body=11&grd=3&isl=1",
@@ -40083,7 +40083,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4454": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4454&head=3&eyes=4&body=11&grd=4&isl=2",
@@ -40092,7 +40092,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4455": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4455&head=5&eyes=4&body=5&grd=5&isl=3",
@@ -40101,7 +40101,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4456": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4456&head=8&eyes=2&body=7&grd=3&isl=3",
@@ -40110,7 +40110,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4457": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4457&head=2&eyes=2&body=10&grd=5&isl=3",
@@ -40119,7 +40119,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4458": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4458&head=8&eyes=2&body=10&grd=1&isl=2",
@@ -40128,7 +40128,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4459": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4459&head=7&eyes=1&body=2&grd=5&isl=3",
@@ -40137,7 +40137,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4460": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4460&head=6&eyes=4&body=5&grd=4&isl=3",
@@ -40146,7 +40146,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4461": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4461&head=1&eyes=1&body=11&grd=4&isl=3",
@@ -40155,7 +40155,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4462": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4462&head=3&eyes=4&body=6&grd=5&isl=3",
@@ -40164,7 +40164,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4463": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4463&head=7&eyes=3&body=9&grd=4&isl=3",
@@ -40173,7 +40173,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4464": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4464&head=6&eyes=1&body=3&grd=5&isl=3",
@@ -40182,7 +40182,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4465": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4465&head=1&eyes=4&body=10&grd=3&isl=2",
@@ -40191,7 +40191,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4466": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4466&head=4&eyes=3&body=9&grd=2&isl=2",
@@ -40200,7 +40200,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4467": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4467&head=2&eyes=2&body=4&grd=3&isl=3",
@@ -40209,7 +40209,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4468": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4468&head=8&eyes=1&body=12&grd=5&isl=1",
@@ -40227,7 +40227,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4470": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4470&head=2&eyes=1&body=13&grd=2&isl=3",
@@ -40236,7 +40236,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4471": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4471&head=6&eyes=4&body=2&grd=2&isl=2",
@@ -40245,7 +40245,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4472": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4472&head=6&eyes=3&body=8&grd=3&isl=2",
@@ -40254,7 +40254,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4473": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4473&head=6&eyes=4&body=6&grd=3&isl=3",
@@ -40263,7 +40263,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4474": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4474&head=3&eyes=1&body=6&grd=5&isl=3",
@@ -40272,7 +40272,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4475": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4475&head=2&eyes=3&body=13&grd=2&isl=3",
@@ -40281,7 +40281,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4476": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4476&head=8&eyes=1&body=6&grd=2&isl=3",
@@ -40290,7 +40290,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4477": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4477&head=3&eyes=4&body=7&grd=5&isl=2",
@@ -40299,7 +40299,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4478": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4478&head=6&eyes=3&body=5&grd=4&isl=3",
@@ -40308,7 +40308,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4479": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4479&head=3&eyes=3&body=11&grd=2&isl=3",
@@ -40317,7 +40317,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4480": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4480&head=6&eyes=2&body=11&grd=3&isl=2",
@@ -40326,7 +40326,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4481": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4481&head=8&eyes=1&body=5&grd=1&isl=2",
@@ -40335,7 +40335,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4482": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4482&head=1&eyes=4&body=6&grd=2&isl=3",
@@ -40344,7 +40344,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4483": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4483&head=6&eyes=1&body=12&grd=5&isl=2",
@@ -40353,7 +40353,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4484": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4484&head=5&eyes=1&body=13&grd=4&isl=2",
@@ -40362,7 +40362,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4485": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4485&head=6&eyes=3&body=10&grd=1&isl=3",
@@ -40371,7 +40371,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4486": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4486&head=7&eyes=1&body=5&grd=4&isl=2",
@@ -40380,7 +40380,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4487": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4487&head=3&eyes=2&body=6&grd=2&isl=3",
@@ -40389,7 +40389,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4488": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4488&head=8&eyes=3&body=2&grd=3&isl=3",
@@ -40398,7 +40398,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4489": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4489&head=4&eyes=2&body=9&grd=5&isl=3",
@@ -40407,7 +40407,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4490": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4490&head=6&eyes=4&body=5&grd=3&isl=2",
@@ -40416,7 +40416,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4491": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4491&head=5&eyes=1&body=12&grd=3&isl=1",
@@ -40434,7 +40434,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4493": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4493&head=1&eyes=2&body=9&grd=2&isl=3",
@@ -40443,7 +40443,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4494": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4494&head=7&eyes=4&body=7&grd=4&isl=3",
@@ -40452,7 +40452,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4495": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4495&head=4&eyes=3&body=4&grd=5&isl=1",
@@ -40470,7 +40470,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4497": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4497&head=4&eyes=1&body=10&grd=5&isl=1",
@@ -40497,7 +40497,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4500": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4500&head=2&eyes=2&body=7&grd=5&isl=3",
@@ -40506,7 +40506,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4501": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4501&head=4&eyes=2&body=11&grd=4&isl=3",
@@ -40515,7 +40515,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4502": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4502&head=3&eyes=1&body=8&grd=4&isl=3",
@@ -40524,7 +40524,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4503": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4503&head=3&eyes=2&body=11&grd=4&isl=3",
@@ -40533,7 +40533,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4504": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4504&head=6&eyes=4&body=6&grd=5&isl=3",
@@ -40542,7 +40542,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4505": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4505&head=5&eyes=2&body=6&grd=4&isl=3",
@@ -40551,7 +40551,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4506": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4506&head=5&eyes=1&body=11&grd=3&isl=2",
@@ -40560,7 +40560,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4507": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4507&head=2&eyes=1&body=12&grd=4&isl=1",
@@ -40587,7 +40587,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4510": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4510&head=6&eyes=3&body=4&grd=1&isl=2",
@@ -40596,7 +40596,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4511": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4511&head=4&eyes=4&body=8&grd=4&isl=1",
@@ -40623,7 +40623,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4514": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4514&head=1&eyes=2&body=13&grd=3&isl=3",
@@ -40632,7 +40632,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4515": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4515&head=7&eyes=1&body=5&grd=2&isl=2",
@@ -40641,7 +40641,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4516": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4516&head=6&eyes=2&body=9&grd=2&isl=2",
@@ -40650,7 +40650,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4517": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4517&head=3&eyes=4&body=13&grd=4&isl=1",
@@ -40668,7 +40668,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4519": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4519&head=1&eyes=1&body=6&grd=5&isl=3",
@@ -40677,7 +40677,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4520": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4520&head=7&eyes=3&body=4&grd=4&isl=3",
@@ -40686,7 +40686,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4521": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4521&head=8&eyes=2&body=11&grd=1&isl=1",
@@ -40713,7 +40713,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4524": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4524&head=7&eyes=4&body=4&grd=3&isl=1",
@@ -40731,7 +40731,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4526": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4526&head=8&eyes=1&body=7&grd=2&isl=3",
@@ -40740,7 +40740,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4527": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4527&head=6&eyes=4&body=6&grd=1&isl=3",
@@ -40749,7 +40749,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4528": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4528&head=6&eyes=3&body=6&grd=5&isl=3",
@@ -40758,7 +40758,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4529": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4529&head=1&eyes=4&body=9&grd=1&isl=3",
@@ -40767,7 +40767,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4530": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4530&head=4&eyes=4&body=3&grd=4&isl=3",
@@ -40776,7 +40776,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4531": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4531&head=6&eyes=4&body=5&grd=4&isl=2",
@@ -40785,7 +40785,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4532": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4532&head=3&eyes=4&body=2&grd=2&isl=3",
@@ -40794,7 +40794,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4533": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4533&head=5&eyes=4&body=7&grd=2&isl=2",
@@ -40803,7 +40803,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4534": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4534&head=8&eyes=2&body=6&grd=3&isl=3",
@@ -40812,7 +40812,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4535": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4535&head=6&eyes=3&body=8&grd=2&isl=1",
@@ -40830,7 +40830,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4537": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4537&head=8&eyes=1&body=11&grd=2&isl=1",
@@ -40866,7 +40866,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4541": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4541&head=6&eyes=1&body=10&grd=3&isl=3",
@@ -40875,7 +40875,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4542": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4542&head=1&eyes=4&body=9&grd=1&isl=2",
@@ -40884,7 +40884,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4543": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4543&head=8&eyes=1&body=4&grd=5&isl=2",
@@ -40893,7 +40893,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4544": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4544&head=6&eyes=4&body=12&grd=1&isl=3",
@@ -40902,7 +40902,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4545": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4545&head=2&eyes=1&body=13&grd=2&isl=1",
@@ -40920,7 +40920,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4547": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4547&head=5&eyes=2&body=10&grd=4&isl=3",
@@ -40929,7 +40929,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4548": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4548&head=4&eyes=3&body=3&grd=5&isl=3",
@@ -40938,7 +40938,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4549": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4549&head=6&eyes=4&body=7&grd=4&isl=3",
@@ -40947,7 +40947,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4550": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4550&head=8&eyes=4&body=1&grd=5&isl=1",
@@ -40965,7 +40965,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4552": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4552&head=4&eyes=3&body=13&grd=4&isl=2",
@@ -40974,7 +40974,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4553": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4553&head=7&eyes=2&body=9&grd=1&isl=1",
@@ -40992,7 +40992,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4555": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4555&head=2&eyes=2&body=11&grd=5&isl=1",
@@ -41019,7 +41019,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4558": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4558&head=3&eyes=4&body=10&grd=2&isl=1",
@@ -41037,7 +41037,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4560": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4560&head=4&eyes=4&body=2&grd=1&isl=3",
@@ -41046,7 +41046,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4561": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4561&head=4&eyes=4&body=6&grd=4&isl=3",
@@ -41055,7 +41055,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4562": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4562&head=7&eyes=2&body=7&grd=1&isl=3",
@@ -41064,7 +41064,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4563": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4563&head=5&eyes=2&body=11&grd=3&isl=2",
@@ -41073,7 +41073,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4564": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4564&head=4&eyes=4&body=7&grd=4&isl=3",
@@ -41082,7 +41082,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4565": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4565&head=1&eyes=1&body=3&grd=5&isl=2",
@@ -41091,7 +41091,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4566": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4566&head=4&eyes=2&body=7&grd=4&isl=3",
@@ -41100,7 +41100,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4567": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4567&head=1&eyes=2&body=12&grd=4&isl=3",
@@ -41109,7 +41109,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4568": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4568&head=8&eyes=3&body=6&grd=2&isl=2",
@@ -41118,7 +41118,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4569": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4569&head=8&eyes=4&body=11&grd=2&isl=1",
@@ -41145,7 +41145,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4572": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4572&head=6&eyes=3&body=7&grd=1&isl=3",
@@ -41154,7 +41154,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4573": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4573&head=8&eyes=1&body=3&grd=5&isl=2",
@@ -41163,7 +41163,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4574": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4574&head=7&eyes=4&body=3&grd=1&isl=2",
@@ -41172,7 +41172,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4575": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4575&head=2&eyes=4&body=10&grd=4&isl=3",
@@ -41181,7 +41181,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4576": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4576&head=6&eyes=4&body=8&grd=3&isl=1",
@@ -41199,7 +41199,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4578": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4578&head=7&eyes=4&body=9&grd=3&isl=2",
@@ -41208,7 +41208,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4579": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4579&head=1&eyes=1&body=13&grd=4&isl=1",
@@ -41226,7 +41226,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4581": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4581&head=7&eyes=4&body=6&grd=1&isl=3",
@@ -41235,7 +41235,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4582": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4582&head=7&eyes=2&body=8&grd=2&isl=3",
@@ -41244,7 +41244,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4583": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4583&head=6&eyes=4&body=3&grd=3&isl=3",
@@ -41253,7 +41253,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4584": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4584&head=7&eyes=3&body=9&grd=1&isl=3",
@@ -41262,7 +41262,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4585": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4585&head=2&eyes=4&body=7&grd=5&isl=3",
@@ -41271,7 +41271,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4586": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4586&head=6&eyes=1&body=3&grd=4&isl=3",
@@ -41280,7 +41280,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4587": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4587&head=8&eyes=1&body=5&grd=5&isl=3",
@@ -41289,7 +41289,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4588": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4588&head=7&eyes=3&body=4&grd=4&isl=2",
@@ -41298,7 +41298,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4589": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4589&head=6&eyes=3&body=7&grd=4&isl=3",
@@ -41307,7 +41307,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4590": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4590&head=5&eyes=1&body=11&grd=3&isl=3",
@@ -41316,7 +41316,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4591": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4591&head=3&eyes=3&body=12&grd=4&isl=1",
@@ -41334,7 +41334,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4593": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4593&head=7&eyes=2&body=12&grd=2&isl=3",
@@ -41343,7 +41343,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4594": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4594&head=3&eyes=4&body=12&grd=1&isl=1",
@@ -41361,7 +41361,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4596": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4596&head=8&eyes=4&body=6&grd=1&isl=2",
@@ -41370,7 +41370,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4597": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4597&head=8&eyes=2&body=10&grd=2&isl=3",
@@ -41379,7 +41379,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4598": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4598&head=4&eyes=1&body=10&grd=2&isl=3",
@@ -41388,7 +41388,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4599": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4599&head=6&eyes=1&body=11&grd=4&isl=2",
@@ -41397,7 +41397,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4600": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4600&head=1&eyes=4&body=11&grd=1&isl=1",
@@ -41415,7 +41415,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4602": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4602&head=6&eyes=1&body=11&grd=4&isl=1",
@@ -41433,7 +41433,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4604": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4604&head=7&eyes=1&body=8&grd=4&isl=2",
@@ -41442,7 +41442,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4605": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4605&head=5&eyes=4&body=7&grd=5&isl=3",
@@ -41451,7 +41451,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4606": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4606&head=7&eyes=4&body=6&grd=4&isl=2",
@@ -41460,7 +41460,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4607": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4607&head=6&eyes=2&body=7&grd=4&isl=2",
@@ -41469,7 +41469,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4608": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4608&head=1&eyes=4&body=11&grd=4&isl=3",
@@ -41478,7 +41478,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4609": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4609&head=3&eyes=4&body=13&grd=1&isl=2",
@@ -41487,7 +41487,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4610": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4610&head=6&eyes=3&body=3&grd=4&isl=3",
@@ -41496,7 +41496,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4611": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4611&head=3&eyes=2&body=13&grd=1&isl=3",
@@ -41505,7 +41505,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4612": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4612&head=5&eyes=3&body=11&grd=2&isl=2",
@@ -41514,7 +41514,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4613": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4613&head=5&eyes=1&body=4&grd=2&isl=3",
@@ -41523,7 +41523,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4614": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4614&head=5&eyes=4&body=4&grd=5&isl=2",
@@ -41532,7 +41532,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4615": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4615&head=7&eyes=2&body=7&grd=1&isl=2",
@@ -41541,7 +41541,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4616": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4616&head=8&eyes=3&body=4&grd=5&isl=1",
@@ -41559,7 +41559,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4618": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4618&head=3&eyes=4&body=6&grd=4&isl=3",
@@ -41568,7 +41568,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4619": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4619&head=6&eyes=3&body=2&grd=5&isl=2",
@@ -41577,7 +41577,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4620": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4620&head=6&eyes=4&body=13&grd=4&isl=3",
@@ -41586,7 +41586,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4621": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4621&head=1&eyes=4&body=11&grd=2&isl=3",
@@ -41595,7 +41595,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4622": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4622&head=4&eyes=4&body=1&grd=4&isl=2",
@@ -41604,7 +41604,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4623": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4623&head=3&eyes=2&body=12&grd=5&isl=2",
@@ -41613,7 +41613,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4624": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4624&head=4&eyes=4&body=7&grd=5&isl=3",
@@ -41622,7 +41622,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4625": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4625&head=5&eyes=1&body=13&grd=1&isl=2",
@@ -41631,7 +41631,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4626": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4626&head=6&eyes=1&body=9&grd=5&isl=2",
@@ -41640,7 +41640,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4627": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4627&head=6&eyes=3&body=4&grd=4&isl=3",
@@ -41649,7 +41649,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4628": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4628&head=5&eyes=4&body=4&grd=5&isl=1",
@@ -41667,7 +41667,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4630": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4630&head=2&eyes=1&body=8&grd=5&isl=3",
@@ -41676,7 +41676,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4631": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4631&head=2&eyes=2&body=12&grd=5&isl=1",
@@ -41703,7 +41703,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4634": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4634&head=1&eyes=2&body=9&grd=5&isl=3",
@@ -41712,7 +41712,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4635": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4635&head=7&eyes=4&body=11&grd=1&isl=3",
@@ -41721,7 +41721,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4636": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4636&head=7&eyes=4&body=1&grd=4&isl=2",
@@ -41730,7 +41730,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4637": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4637&head=6&eyes=1&body=5&grd=5&isl=1",
@@ -41784,7 +41784,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4643": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4643&head=7&eyes=1&body=6&grd=5&isl=1",
@@ -41802,7 +41802,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4645": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4645&head=5&eyes=3&body=8&grd=5&isl=1",
@@ -41820,7 +41820,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4647": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4647&head=2&eyes=3&body=12&grd=5&isl=3",
@@ -41829,7 +41829,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4648": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4648&head=7&eyes=4&body=13&grd=3&isl=3",
@@ -41838,7 +41838,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4649": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4649&head=4&eyes=4&body=4&grd=5&isl=1",
@@ -41856,7 +41856,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4651": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4651&head=8&eyes=2&body=1&grd=5&isl=2",
@@ -41865,7 +41865,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4652": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4652&head=5&eyes=4&body=12&grd=1&isl=2",
@@ -41874,7 +41874,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4653": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4653&head=4&eyes=4&body=9&grd=4&isl=3",
@@ -41883,7 +41883,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4654": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4654&head=8&eyes=2&body=8&grd=4&isl=1",
@@ -41928,7 +41928,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4659": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4659&head=3&eyes=4&body=7&grd=3&isl=1",
@@ -41955,7 +41955,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4662": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4662&head=6&eyes=4&body=10&grd=4&isl=3",
@@ -41964,7 +41964,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4663": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4663&head=5&eyes=4&body=13&grd=2&isl=2",
@@ -41973,7 +41973,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4664": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4664&head=3&eyes=4&body=4&grd=3&isl=2",
@@ -41982,7 +41982,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4665": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4665&head=8&eyes=4&body=4&grd=3&isl=3",
@@ -41991,7 +41991,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4666": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4666&head=2&eyes=4&body=2&grd=3&isl=2",
@@ -42000,7 +42000,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4667": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4667&head=3&eyes=4&body=3&grd=4&isl=2",
@@ -42009,7 +42009,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4668": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4668&head=4&eyes=2&body=12&grd=5&isl=1",
@@ -42027,7 +42027,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4670": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4670&head=2&eyes=2&body=13&grd=1&isl=3",
@@ -42036,7 +42036,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4671": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4671&head=3&eyes=4&body=8&grd=1&isl=3",
@@ -42045,7 +42045,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4672": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4672&head=6&eyes=4&body=1&grd=4&isl=2",
@@ -42054,7 +42054,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4673": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4673&head=5&eyes=2&body=7&grd=3&isl=3",
@@ -42063,7 +42063,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4674": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4674&head=7&eyes=3&body=4&grd=1&isl=3",
@@ -42072,7 +42072,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4675": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4675&head=7&eyes=1&body=12&grd=2&isl=1",
@@ -42090,7 +42090,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4677": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4677&head=7&eyes=2&body=11&grd=1&isl=1",
@@ -42108,7 +42108,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4679": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4679&head=3&eyes=4&body=11&grd=5&isl=3",
@@ -42117,7 +42117,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4680": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4680&head=3&eyes=4&body=9&grd=5&isl=2",
@@ -42126,7 +42126,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4681": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4681&head=2&eyes=3&body=7&grd=5&isl=1",
@@ -42144,7 +42144,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4683": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4683&head=5&eyes=3&body=11&grd=1&isl=1",
@@ -42162,7 +42162,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4685": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4685&head=2&eyes=4&body=2&grd=1&isl=3",
@@ -42171,7 +42171,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4686": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4686&head=5&eyes=3&body=12&grd=2&isl=2",
@@ -42180,7 +42180,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4687": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4687&head=1&eyes=2&body=7&grd=4&isl=3",
@@ -42189,7 +42189,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4688": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4688&head=3&eyes=2&body=10&grd=5&isl=3",
@@ -42198,7 +42198,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4689": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4689&head=8&eyes=2&body=5&grd=3&isl=2",
@@ -42207,7 +42207,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4690": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4690&head=7&eyes=3&body=7&grd=5&isl=3",
@@ -42216,7 +42216,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4691": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4691&head=5&eyes=3&body=6&grd=3&isl=3",
@@ -42225,7 +42225,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4692": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4692&head=6&eyes=3&body=10&grd=4&isl=2",
@@ -42234,7 +42234,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4693": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4693&head=8&eyes=3&body=2&grd=5&isl=3",
@@ -42243,7 +42243,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4694": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4694&head=4&eyes=4&body=12&grd=2&isl=2",
@@ -42252,7 +42252,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4695": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4695&head=8&eyes=1&body=10&grd=2&isl=3",
@@ -42261,7 +42261,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4696": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4696&head=7&eyes=3&body=12&grd=5&isl=3",
@@ -42270,7 +42270,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4697": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4697&head=8&eyes=3&body=9&grd=5&isl=2",
@@ -42279,7 +42279,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4698": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4698&head=8&eyes=3&body=11&grd=1&isl=3",
@@ -42288,7 +42288,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4699": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4699&head=3&eyes=4&body=8&grd=4&isl=3",
@@ -42297,7 +42297,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4700": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4700&head=3&eyes=1&body=10&grd=5&isl=3",
@@ -42306,7 +42306,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4701": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4701&head=6&eyes=3&body=7&grd=2&isl=3",
@@ -42315,7 +42315,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4702": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4702&head=3&eyes=1&body=5&grd=4&isl=2",
@@ -42324,7 +42324,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4703": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4703&head=2&eyes=4&body=7&grd=3&isl=2",
@@ -42333,7 +42333,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4704": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4704&head=7&eyes=2&body=11&grd=3&isl=1",
@@ -42351,7 +42351,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4706": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4706&head=8&eyes=4&body=6&grd=2&isl=2",
@@ -42360,7 +42360,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4707": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4707&head=5&eyes=3&body=8&grd=3&isl=3",
@@ -42369,7 +42369,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4708": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4708&head=8&eyes=3&body=11&grd=2&isl=2",
@@ -42378,7 +42378,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4709": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4709&head=7&eyes=4&body=10&grd=3&isl=1",
@@ -42396,7 +42396,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4711": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4711&head=6&eyes=4&body=6&grd=4&isl=2",
@@ -42405,7 +42405,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4712": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4712&head=7&eyes=3&body=10&grd=5&isl=2",
@@ -42414,7 +42414,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4713": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4713&head=7&eyes=2&body=11&grd=1&isl=2",
@@ -42423,7 +42423,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4714": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4714&head=8&eyes=3&body=6&grd=1&isl=2",
@@ -42432,7 +42432,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4715": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4715&head=8&eyes=4&body=9&grd=1&isl=1",
@@ -42450,7 +42450,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4717": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4717&head=4&eyes=4&body=4&grd=3&isl=3",
@@ -42459,7 +42459,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4718": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4718&head=8&eyes=2&body=10&grd=1&isl=3",
@@ -42468,7 +42468,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4719": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4719&head=4&eyes=3&body=10&grd=4&isl=1",
@@ -42495,7 +42495,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4722": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4722&head=7&eyes=4&body=1&grd=3&isl=1",
@@ -42513,7 +42513,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4724": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4724&head=5&eyes=4&body=11&grd=4&isl=1",
@@ -42540,7 +42540,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4727": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4727&head=6&eyes=2&body=12&grd=5&isl=2",
@@ -42549,7 +42549,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4728": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4728&head=6&eyes=4&body=2&grd=2&isl=3",
@@ -42558,7 +42558,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4729": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4729&head=6&eyes=2&body=11&grd=4&isl=2",
@@ -42567,7 +42567,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4730": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4730&head=8&eyes=3&body=3&grd=3&isl=2",
@@ -42576,7 +42576,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4731": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4731&head=6&eyes=4&body=11&grd=1&isl=2",
@@ -42585,7 +42585,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4732": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4732&head=8&eyes=3&body=3&grd=2&isl=2",
@@ -42594,7 +42594,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4733": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4733&head=7&eyes=4&body=12&grd=4&isl=1",
@@ -42612,7 +42612,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4735": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4735&head=7&eyes=1&body=9&grd=4&isl=1",
@@ -42630,7 +42630,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4737": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4737&head=8&eyes=2&body=5&grd=4&isl=1",
@@ -42648,7 +42648,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4739": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4739&head=6&eyes=4&body=11&grd=4&isl=2",
@@ -42657,7 +42657,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4740": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4740&head=4&eyes=2&body=11&grd=1&isl=2",
@@ -42666,7 +42666,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4741": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4741&head=6&eyes=1&body=7&grd=4&isl=2",
@@ -42675,7 +42675,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4742": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4742&head=6&eyes=2&body=7&grd=1&isl=2",
@@ -42684,7 +42684,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4743": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4743&head=5&eyes=3&body=8&grd=4&isl=1",
@@ -42702,7 +42702,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4745": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4745&head=7&eyes=4&body=9&grd=1&isl=2",
@@ -42711,7 +42711,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4746": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4746&head=5&eyes=4&body=13&grd=1&isl=2",
@@ -42720,7 +42720,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4747": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4747&head=1&eyes=2&body=13&grd=1&isl=3",
@@ -42729,7 +42729,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4748": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4748&head=7&eyes=4&body=3&grd=3&isl=1",
@@ -42747,7 +42747,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4750": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4750&head=8&eyes=1&body=13&grd=1&isl=2",
@@ -42756,7 +42756,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4751": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4751&head=3&eyes=3&body=5&grd=2&isl=3",
@@ -42765,7 +42765,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4752": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4752&head=6&eyes=4&body=2&grd=4&isl=2",
@@ -42774,7 +42774,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4753": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4753&head=5&eyes=4&body=10&grd=4&isl=3",
@@ -42783,7 +42783,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4754": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4754&head=2&eyes=4&body=13&grd=1&isl=1",
@@ -42801,7 +42801,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4756": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4756&head=5&eyes=1&body=1&grd=4&isl=3",
@@ -42810,7 +42810,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4757": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4757&head=3&eyes=3&body=10&grd=1&isl=3",
@@ -42819,7 +42819,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4758": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4758&head=6&eyes=3&body=4&grd=5&isl=2",
@@ -42828,7 +42828,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4759": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4759&head=8&eyes=3&body=2&grd=4&isl=1",
@@ -42846,7 +42846,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4761": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4761&head=8&eyes=2&body=4&grd=2&isl=2",
@@ -42855,7 +42855,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4762": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4762&head=6&eyes=1&body=3&grd=5&isl=2",
@@ -42864,7 +42864,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4763": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4763&head=4&eyes=2&body=12&grd=4&isl=3",
@@ -42873,7 +42873,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4764": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4764&head=5&eyes=3&body=9&grd=3&isl=3",
@@ -42882,7 +42882,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4765": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4765&head=5&eyes=4&body=2&grd=5&isl=2",
@@ -42891,7 +42891,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4766": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4766&head=7&eyes=3&body=11&grd=1&isl=2",
@@ -42900,7 +42900,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4767": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4767&head=7&eyes=3&body=6&grd=5&isl=1",
@@ -42927,7 +42927,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4770": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4770&head=8&eyes=2&body=1&grd=4&isl=3",
@@ -42936,7 +42936,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4771": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4771&head=6&eyes=2&body=5&grd=1&isl=3",
@@ -42945,7 +42945,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4772": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4772&head=8&eyes=2&body=8&grd=2&isl=1",
@@ -42963,7 +42963,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4774": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4774&head=6&eyes=1&body=6&grd=1&isl=3",
@@ -42972,7 +42972,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4775": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4775&head=8&eyes=1&body=11&grd=3&isl=3",
@@ -42981,7 +42981,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4776": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4776&head=7&eyes=4&body=8&grd=5&isl=1",
@@ -42999,7 +42999,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4778": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4778&head=8&eyes=3&body=3&grd=3&isl=3",
@@ -43008,7 +43008,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4779": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4779&head=8&eyes=4&body=9&grd=2&isl=2",
@@ -43017,7 +43017,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4780": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4780&head=5&eyes=2&body=10&grd=3&isl=2",
@@ -43026,7 +43026,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4781": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4781&head=5&eyes=4&body=12&grd=3&isl=1",
@@ -43053,7 +43053,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4784": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4784&head=5&eyes=2&body=1&grd=5&isl=3",
@@ -43062,7 +43062,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4785": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4785&head=3&eyes=4&body=7&grd=5&isl=1",
@@ -43080,7 +43080,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4787": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4787&head=1&eyes=1&body=7&grd=5&isl=2",
@@ -43089,7 +43089,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4788": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4788&head=2&eyes=4&body=1&grd=5&isl=3",
@@ -43098,7 +43098,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4789": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4789&head=7&eyes=1&body=6&grd=3&isl=3",
@@ -43107,7 +43107,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4790": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4790&head=8&eyes=3&body=11&grd=4&isl=2",
@@ -43116,7 +43116,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4791": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4791&head=8&eyes=4&body=1&grd=3&isl=2",
@@ -43125,7 +43125,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4792": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4792&head=8&eyes=3&body=7&grd=1&isl=3",
@@ -43134,7 +43134,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4793": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4793&head=8&eyes=1&body=7&grd=1&isl=2",
@@ -43143,7 +43143,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4794": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4794&head=6&eyes=4&body=9&grd=1&isl=3",
@@ -43152,7 +43152,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4795": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4795&head=7&eyes=3&body=6&grd=1&isl=3",
@@ -43161,7 +43161,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4796": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4796&head=8&eyes=2&body=9&grd=5&isl=1",
@@ -43188,7 +43188,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4799": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4799&head=7&eyes=4&body=5&grd=1&isl=2",
@@ -43197,7 +43197,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4800": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4800&head=4&eyes=1&body=12&grd=5&isl=3",
@@ -43206,7 +43206,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4801": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4801&head=7&eyes=4&body=2&grd=4&isl=1",
@@ -43224,7 +43224,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4803": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4803&head=8&eyes=4&body=9&grd=1&isl=2",
@@ -43233,7 +43233,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4804": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4804&head=8&eyes=2&body=11&grd=4&isl=3",
@@ -43242,7 +43242,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4805": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4805&head=2&eyes=3&body=13&grd=3&isl=2",
@@ -43251,7 +43251,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4806": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4806&head=4&eyes=1&body=8&grd=5&isl=2",
@@ -43260,7 +43260,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4807": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4807&head=1&eyes=3&body=6&grd=5&isl=3",
@@ -43269,7 +43269,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4808": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4808&head=4&eyes=3&body=4&grd=5&isl=3",
@@ -43278,7 +43278,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4809": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4809&head=4&eyes=4&body=7&grd=1&isl=3",
@@ -43287,7 +43287,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4810": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4810&head=7&eyes=3&body=2&grd=4&isl=2",
@@ -43296,7 +43296,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4811": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4811&head=4&eyes=3&body=12&grd=5&isl=2",
@@ -43305,7 +43305,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4812": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4812&head=7&eyes=4&body=10&grd=2&isl=2",
@@ -43314,7 +43314,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4813": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4813&head=6&eyes=3&body=1&grd=4&isl=3",
@@ -43323,7 +43323,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4814": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4814&head=7&eyes=1&body=8&grd=5&isl=2",
@@ -43332,7 +43332,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4815": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4815&head=1&eyes=2&body=7&grd=5&isl=3",
@@ -43341,7 +43341,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4816": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4816&head=6&eyes=3&body=7&grd=1&isl=2",
@@ -43350,7 +43350,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4817": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4817&head=8&eyes=2&body=5&grd=1&isl=2",
@@ -43359,7 +43359,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4818": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4818&head=6&eyes=1&body=13&grd=2&isl=1",
@@ -43377,7 +43377,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4820": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4820&head=8&eyes=1&body=13&grd=2&isl=2",
@@ -43386,7 +43386,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4821": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4821&head=1&eyes=2&body=12&grd=2&isl=3",
@@ -43395,7 +43395,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4822": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4822&head=6&eyes=1&body=7&grd=5&isl=2",
@@ -43404,7 +43404,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4823": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4823&head=1&eyes=4&body=12&grd=4&isl=1",
@@ -43422,7 +43422,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4825": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4825&head=7&eyes=3&body=10&grd=2&isl=2",
@@ -43431,7 +43431,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4826": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4826&head=1&eyes=2&body=10&grd=2&isl=3",
@@ -43440,7 +43440,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4827": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4827&head=3&eyes=3&body=3&grd=5&isl=2",
@@ -43449,7 +43449,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4828": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4828&head=2&eyes=1&body=10&grd=4&isl=3",
@@ -43458,7 +43458,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4829": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4829&head=6&eyes=4&body=3&grd=1&isl=3",
@@ -43467,7 +43467,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4830": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4830&head=8&eyes=4&body=10&grd=3&isl=1",
@@ -43485,7 +43485,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4832": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4832&head=2&eyes=1&body=12&grd=3&isl=3",
@@ -43494,7 +43494,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4833": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4833&head=8&eyes=2&body=13&grd=1&isl=3",
@@ -43503,7 +43503,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4834": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4834&head=7&eyes=1&body=13&grd=2&isl=1",
@@ -43530,7 +43530,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4837": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4837&head=3&eyes=3&body=7&grd=4&isl=1",
@@ -43548,7 +43548,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4839": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4839&head=7&eyes=4&body=2&grd=2&isl=3",
@@ -43557,7 +43557,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4840": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4840&head=8&eyes=3&body=4&grd=1&isl=3",
@@ -43566,7 +43566,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4841": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4841&head=2&eyes=4&body=7&grd=4&isl=3",
@@ -43575,7 +43575,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4842": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4842&head=6&eyes=4&body=7&grd=5&isl=2",
@@ -43584,7 +43584,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4843": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4843&head=2&eyes=4&body=3&grd=5&isl=1",
@@ -43602,7 +43602,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4845": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4845&head=7&eyes=2&body=7&grd=3&isl=2",
@@ -43611,7 +43611,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4846": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4846&head=5&eyes=4&body=4&grd=1&isl=2",
@@ -43620,7 +43620,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4847": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4847&head=7&eyes=4&body=1&grd=2&isl=3",
@@ -43629,7 +43629,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Snitch",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4848": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4848&head=4&eyes=4&body=8&grd=1&isl=3",
@@ -43638,7 +43638,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4849": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4849&head=8&eyes=1&body=13&grd=1&isl=3",
@@ -43647,7 +43647,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4850": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4850&head=5&eyes=3&body=8&grd=5&isl=2",
@@ -43656,7 +43656,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4851": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4851&head=7&eyes=2&body=5&grd=4&isl=3",
@@ -43665,7 +43665,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4852": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4852&head=5&eyes=4&body=12&grd=3&isl=3",
@@ -43674,7 +43674,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4853": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4853&head=2&eyes=3&body=13&grd=4&isl=1",
@@ -43692,7 +43692,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4855": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4855&head=1&eyes=3&body=9&grd=5&isl=2",
@@ -43701,7 +43701,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4856": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4856&head=3&eyes=3&body=13&grd=2&isl=1",
@@ -43719,7 +43719,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4858": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4858&head=8&eyes=3&body=7&grd=2&isl=2",
@@ -43728,7 +43728,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4859": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4859&head=7&eyes=4&body=6&grd=4&isl=1",
@@ -43755,7 +43755,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4862": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4862&head=5&eyes=1&body=3&grd=4&isl=3",
@@ -43764,7 +43764,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4863": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4863&head=7&eyes=4&body=8&grd=2&isl=2",
@@ -43773,7 +43773,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4864": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4864&head=2&eyes=2&body=11&grd=4&isl=3",
@@ -43782,7 +43782,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4865": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4865&head=6&eyes=3&body=7&grd=5&isl=2",
@@ -43791,7 +43791,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4866": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4866&head=2&eyes=3&body=11&grd=3&isl=1",
@@ -43809,7 +43809,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4868": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4868&head=5&eyes=4&body=12&grd=4&isl=2",
@@ -43818,7 +43818,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4869": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4869&head=3&eyes=4&body=12&grd=5&isl=3",
@@ -43827,7 +43827,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4870": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4870&head=8&eyes=4&body=2&grd=4&isl=2",
@@ -43836,7 +43836,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4871": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4871&head=5&eyes=4&body=9&grd=4&isl=1",
@@ -43854,7 +43854,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4873": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4873&head=7&eyes=2&body=9&grd=5&isl=3",
@@ -43863,7 +43863,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4874": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4874&head=7&eyes=3&body=3&grd=4&isl=1",
@@ -43881,7 +43881,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4876": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4876&head=6&eyes=1&body=13&grd=1&isl=2",
@@ -43890,7 +43890,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4877": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4877&head=6&eyes=4&body=10&grd=4&isl=2",
@@ -43899,7 +43899,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4878": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4878&head=3&eyes=3&body=7&grd=4&isl=3",
@@ -43908,7 +43908,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4879": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4879&head=7&eyes=4&body=5&grd=3&isl=1",
@@ -43944,7 +43944,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4883": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4883&head=6&eyes=4&body=6&grd=2&isl=3",
@@ -43953,7 +43953,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4884": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4884&head=6&eyes=2&body=8&grd=3&isl=3",
@@ -43962,7 +43962,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4885": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4885&head=7&eyes=2&body=12&grd=3&isl=1",
@@ -43980,7 +43980,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4887": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4887&head=8&eyes=2&body=3&grd=5&isl=1",
@@ -43998,7 +43998,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4889": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4889&head=3&eyes=3&body=13&grd=3&isl=1",
@@ -44016,7 +44016,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4891": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4891&head=7&eyes=4&body=7&grd=1&isl=1",
@@ -44034,7 +44034,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4893": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4893&head=3&eyes=3&body=12&grd=1&isl=3",
@@ -44043,7 +44043,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4894": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4894&head=4&eyes=1&body=11&grd=1&isl=3",
@@ -44052,7 +44052,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4895": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4895&head=5&eyes=3&body=9&grd=4&isl=3",
@@ -44061,7 +44061,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4896": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4896&head=1&eyes=4&body=8&grd=5&isl=3",
@@ -44070,7 +44070,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4897": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4897&head=5&eyes=3&body=13&grd=1&isl=1",
@@ -44088,7 +44088,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4899": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4899&head=5&eyes=3&body=12&grd=2&isl=1",
@@ -44106,7 +44106,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4901": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4901&head=5&eyes=3&body=10&grd=4&isl=2",
@@ -44115,7 +44115,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4902": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4902&head=8&eyes=1&body=1&grd=4&isl=1",
@@ -44133,7 +44133,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4904": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4904&head=7&eyes=1&body=4&grd=3&isl=3",
@@ -44142,7 +44142,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4905": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4905&head=8&eyes=3&body=5&grd=3&isl=3",
@@ -44151,7 +44151,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4906": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4906&head=6&eyes=2&body=6&grd=3&isl=3",
@@ -44160,7 +44160,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4907": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4907&head=4&eyes=2&body=12&grd=1&isl=2",
@@ -44169,7 +44169,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4908": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4908&head=4&eyes=3&body=13&grd=1&isl=3",
@@ -44178,7 +44178,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4909": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4909&head=3&eyes=2&body=9&grd=5&isl=1",
@@ -44196,7 +44196,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4911": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4911&head=6&eyes=4&body=2&grd=1&isl=3",
@@ -44205,7 +44205,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4912": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4912&head=3&eyes=4&body=3&grd=3&isl=3",
@@ -44214,7 +44214,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4913": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4913&head=7&eyes=2&body=12&grd=3&isl=2",
@@ -44223,7 +44223,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4914": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4914&head=3&eyes=3&body=4&grd=5&isl=1",
@@ -44241,7 +44241,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4916": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4916&head=5&eyes=2&body=9&grd=5&isl=2",
@@ -44250,7 +44250,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4917": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4917&head=2&eyes=4&body=9&grd=5&isl=1",
@@ -44268,7 +44268,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "2Pac",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4919": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4919&head=5&eyes=4&body=12&grd=5&isl=1",
@@ -44286,7 +44286,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4921": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4921&head=3&eyes=2&body=11&grd=3&isl=3",
@@ -44295,7 +44295,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4922": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4922&head=4&eyes=4&body=12&grd=2&isl=3",
@@ -44304,7 +44304,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4923": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4923&head=8&eyes=3&body=1&grd=5&isl=2",
@@ -44313,7 +44313,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4924": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4924&head=7&eyes=1&body=13&grd=4&isl=1",
@@ -44331,7 +44331,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4926": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4926&head=1&eyes=4&body=13&grd=1&isl=3",
@@ -44340,7 +44340,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4927": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4927&head=6&eyes=3&body=12&grd=4&isl=1",
@@ -44376,7 +44376,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4931": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4931&head=7&eyes=4&body=5&grd=5&isl=1",
@@ -44394,7 +44394,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4933": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4933&head=4&eyes=4&body=5&grd=3&isl=3",
@@ -44403,7 +44403,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Miami Bulls",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4934": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4934&head=3&eyes=4&body=6&grd=5&isl=2",
@@ -44412,7 +44412,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4935": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4935&head=7&eyes=4&body=11&grd=2&isl=1",
@@ -44439,7 +44439,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4938": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4938&head=5&eyes=2&body=12&grd=2&isl=3",
@@ -44448,7 +44448,7 @@ module.exports = {
     "eyes": "Green",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4939": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4939&head=6&eyes=2&body=11&grd=4&isl=3",
@@ -44457,7 +44457,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4940": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4940&head=4&eyes=2&body=10&grd=3&isl=3",
@@ -44466,7 +44466,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Mfer",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4941": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4941&head=8&eyes=1&body=2&grd=4&isl=3",
@@ -44475,7 +44475,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4942": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4942&head=5&eyes=3&body=5&grd=4&isl=3",
@@ -44484,7 +44484,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4943": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4943&head=5&eyes=3&body=13&grd=5&isl=3",
@@ -44493,7 +44493,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4944": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4944&head=3&eyes=4&body=13&grd=1&isl=1",
@@ -44511,7 +44511,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Beer",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4946": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4946&head=1&eyes=4&body=12&grd=2&isl=3",
@@ -44520,7 +44520,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4947": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4947&head=7&eyes=4&body=6&grd=3&isl=2",
@@ -44529,7 +44529,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4948": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4948&head=4&eyes=4&body=10&grd=4&isl=2",
@@ -44538,7 +44538,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4949": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4949&head=5&eyes=4&body=3&grd=4&isl=3",
@@ -44547,7 +44547,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Bear",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4950": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4950&head=8&eyes=1&body=5&grd=2&isl=2",
@@ -44556,7 +44556,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Miami Bulls",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4951": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4951&head=3&eyes=3&body=13&grd=3&isl=3",
@@ -44565,7 +44565,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4952": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4952&head=5&eyes=2&body=8&grd=1&isl=3",
@@ -44574,7 +44574,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Cat",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4953": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4953&head=8&eyes=3&body=6&grd=5&isl=3",
@@ -44583,7 +44583,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4954": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4954&head=1&eyes=2&body=13&grd=4&isl=3",
@@ -44592,7 +44592,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4955": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4955&head=3&eyes=3&body=7&grd=3&isl=3",
@@ -44601,7 +44601,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Pepe",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4956": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4956&head=3&eyes=3&body=6&grd=4&isl=3",
@@ -44610,7 +44610,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4957": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4957&head=8&eyes=3&body=1&grd=4&isl=2",
@@ -44619,7 +44619,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4958": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4958&head=2&eyes=4&body=5&grd=5&isl=1",
@@ -44637,7 +44637,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Boss",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4960": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4960&head=6&eyes=4&body=8&grd=4&isl=2",
@@ -44646,7 +44646,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4961": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4961&head=8&eyes=3&body=5&grd=5&isl=3",
@@ -44655,7 +44655,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4962": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4962&head=7&eyes=1&body=7&grd=4&isl=1",
@@ -44673,7 +44673,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Fighter",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4964": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4964&head=8&eyes=3&body=13&grd=1&isl=3",
@@ -44682,7 +44682,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Boss",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4965": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4965&head=2&eyes=3&body=5&grd=5&isl=3",
@@ -44691,7 +44691,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Miami Bulls",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4966": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4966&head=8&eyes=4&body=5&grd=5&isl=1",
@@ -44709,7 +44709,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Soda Pop",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4968": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4968&head=4&eyes=4&body=7&grd=5&isl=1",
@@ -44727,7 +44727,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4970": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4970&head=8&eyes=1&body=13&grd=1&isl=1",
@@ -44745,7 +44745,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Snow",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4972": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4972&head=1&eyes=4&body=8&grd=5&isl=2",
@@ -44754,7 +44754,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4973": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4973&head=5&eyes=4&body=9&grd=4&isl=3",
@@ -44763,7 +44763,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4974": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4974&head=3&eyes=1&body=13&grd=3&isl=1",
@@ -44781,7 +44781,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4976": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4976&head=2&eyes=4&body=4&grd=4&isl=1",
@@ -44799,7 +44799,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Soda Pop",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4978": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4978&head=8&eyes=2&body=1&grd=5&isl=3",
@@ -44808,7 +44808,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Snitch",
     "grd": "Weed",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4979": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4979&head=5&eyes=4&body=9&grd=1&isl=3",
@@ -44817,7 +44817,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Ape",
     "grd": "Desert",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4980": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4980&head=6&eyes=3&body=13&grd=2&isl=1",
@@ -44835,7 +44835,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Snow",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4982": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4982&head=5&eyes=4&body=4&grd=3&isl=3",
@@ -44844,7 +44844,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4983": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4983&head=6&eyes=3&body=3&grd=5&isl=1",
@@ -44862,7 +44862,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "2Pac",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4985": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4985&head=3&eyes=4&body=10&grd=4&isl=3",
@@ -44871,7 +44871,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Happy",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4986": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4986&head=1&eyes=1&body=12&grd=5&isl=1",
@@ -44898,7 +44898,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4989": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4989&head=6&eyes=3&body=1&grd=4&isl=2",
@@ -44907,7 +44907,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Snitch",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4990": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4990&head=8&eyes=2&body=6&grd=4&isl=2",
@@ -44916,7 +44916,7 @@ module.exports = {
     "eyes": "Green",
     "body": "Weed",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4991": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4991&head=7&eyes=4&body=4&grd=1&isl=2",
@@ -44925,7 +44925,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Fighter",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4992": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4992&head=8&eyes=1&body=9&grd=5&isl=2",
@@ -44934,7 +44934,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Ape",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4993": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4993&head=4&eyes=1&body=13&grd=5&isl=2",
@@ -44943,7 +44943,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Boss",
     "grd": "Weed",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4994": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4994&head=7&eyes=3&body=3&grd=3&isl=3",
@@ -44952,7 +44952,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Boat"
+    "isl": "Island"
   },
   "4995": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4995&head=6&eyes=3&body=3&grd=3&isl=2",
@@ -44961,7 +44961,7 @@ module.exports = {
     "eyes": "Blue",
     "body": "Bear",
     "grd": "Tropic",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4996": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4996&head=5&eyes=4&body=10&grd=1&isl=2",
@@ -44970,7 +44970,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Mfer",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4997": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4997&head=8&eyes=1&body=8&grd=4&isl=2",
@@ -44979,7 +44979,7 @@ module.exports = {
     "eyes": "Brown",
     "body": "Cat",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4998": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4998&head=4&eyes=4&body=6&grd=1&isl=2",
@@ -44988,7 +44988,7 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Weed",
     "grd": "Desert",
-    "isl": "Island"
+    "isl": "Boat"
   },
   "4999": {
     "glburl": "https://play.tfnlab.com/download.apelanda.glb.jsp?land=4999&head=5&eyes=4&body=2&grd=4&isl=2",
@@ -44997,6 +44997,6 @@ module.exports = {
     "eyes": "No Eyes",
     "body": "Beer",
     "grd": "Happy",
-    "isl": "Island"
+    "isl": "Boat"
   }
 }
